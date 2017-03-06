@@ -1,0 +1,187 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 3,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Mike Gray",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "039301892X",
+                    "isbn13": "9780393018929"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1992/10/18/books/the-wrong-stuff.html"
+                }
+            ],
+            "title": "Angle of Attack: Harrison Storms and the Race to the Moon"
+        },
+        {
+            "age_group": "",
+            "author": "Olivia Harrison",
+            "contributor": "by Olivia Harrison",
+            "contributor_note": "",
+            "description": "The star\u2019s widow draws on his personal archive to show the arc of his life, through his boyhood, Beatles era and later years.",
+            "isbns": [
+                {
+                    "isbn10": "1419702203",
+                    "isbn13": "9781419702204"
+                }
+            ],
+            "price": 0,
+            "publisher": "Abrams",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2011-10-22",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "1419702203",
+                    "primary_isbn13": "9781419702204",
+                    "published_date": "2011-11-06",
+                    "rank": 32,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2011-10-15",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "1419702203",
+                    "primary_isbn13": "9781419702204",
+                    "published_date": "2011-10-30",
+                    "rank": 23,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2011-10-15",
+                    "dagger": 0,
+                    "display_name": "Combined Hardcover & Paperback Nonfiction",
+                    "list_name": "Combined Print Nonfiction",
+                    "primary_isbn10": "1419702203",
+                    "primary_isbn13": "9781419702204",
+                    "published_date": "2011-10-30",
+                    "rank": 35,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2011-10-08",
+                    "dagger": 0,
+                    "display_name": "Combined Hardcover & Paperback Nonfiction",
+                    "list_name": "Combined Print Nonfiction",
+                    "primary_isbn10": "1419702203",
+                    "primary_isbn13": "9781419702204",
+                    "published_date": "2011-10-23",
+                    "rank": 33,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2011-10-08",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "1419702203",
+                    "primary_isbn13": "9781419702204",
+                    "published_date": "2011-10-23",
+                    "rank": 24,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2011-10-01",
+                    "dagger": 0,
+                    "display_name": "Combined Hardcover & Paperback Nonfiction",
+                    "list_name": "Combined Print Nonfiction",
+                    "primary_isbn10": "1419702203",
+                    "primary_isbn13": "9781419702204",
+                    "published_date": "2011-10-16",
+                    "rank": 21,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2011-10-01",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "1419702203",
+                    "primary_isbn13": "9781419702204",
+                    "published_date": "2011-10-16",
+                    "rank": 33,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2011-10-01",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "1419702203",
+                    "primary_isbn13": "9781419702204",
+                    "published_date": "2011-10-16",
+                    "rank": 15,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "GEORGE HARRISON"
+        },
+        {
+            "age_group": null,
+            "author": "Patrick Garland",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0880642165",
+                    "isbn13": "9780880642163"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2000/05/28/books/books-in-brief-nonfiction-340596.html"
+                }
+            ],
+            "title": "The Incomparable Rex: A Memoir of Rex Harrison in the 1980s"
+        }
+    ],
+    "status": "OK"
+}

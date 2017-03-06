@@ -1,0 +1,422 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 15,
+    "results": [
+        {
+            "age_group": null,
+            "author": "David Kaiser",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0674006720",
+                    "isbn13": "9780674006720"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2000/05/14/books/who-set-up-the-dominoes.html"
+                }
+            ],
+            "title": "American Tragedy: Kennedy, Johnson, and the Origins of the Vietnam War"
+        },
+        {
+            "age_group": null,
+            "author": "Adam Sisman",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0142001759",
+                    "isbn13": "9780142001752"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2001/08/19/books/the-first-real-biographer.html"
+                }
+            ],
+            "title": "Boswell's Presumptuous Task: The Making of the Life of Dr. Johnson"
+        },
+        {
+            "age_group": null,
+            "author": "Henry Hitchings",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0312426208",
+                    "isbn13": "9780312426200"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2005/12/04/books/review/04mcgrath.html"
+                }
+            ],
+            "title": "Defining the World: The Extraordinary Story of Dr Johnson's Dictionary"
+        },
+        {
+            "age_group": null,
+            "author": "Jonathan Lipman",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "048642748X",
+                    "isbn13": "9780486427485"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1986/06/22/books/in-short-nonfiction-289486.html"
+                }
+            ],
+            "title": "Frank Lloyd Wright and the Johnson Wax Buildings"
+        },
+        {
+            "age_group": null,
+            "author": "Israel Shenker",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0195034708",
+                    "isbn13": "9780195034707"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1982/03/21/books/the-fresh-eye-of-an-alien-sir.html"
+                }
+            ],
+            "title": "In the Footsteps of Johnson and Boswell : A Modern Day Journey through Scotland"
+        },
+        {
+            "age_group": null,
+            "author": "Jonathan Rosenberg",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0393051226",
+                    "isbn13": "9780393051223"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/12/07/books/let-s-go-to-the-tape.html"
+                }
+            ],
+            "title": "Kennedy, Johnson, and the Quest for Justice: The Civil Rights Tapes"
+        },
+        {
+            "age_group": null,
+            "author": "Michael L. Gillette",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0199908087",
+                    "isbn13": "9780199908080"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "https://www.nytimes.com/2013/01/07/books/lady-bird-johnson-an-oral-history-by-michael-l-gillette.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "Lady Bird Johnson: An Oral History (Oxford Oral History Series)"
+        },
+        {
+            "age_group": null,
+            "author": "Robert Dallek",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0195054350",
+                    "isbn13": "9780195054354"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1991/07/21/books/on-the-way-with-lbj.html"
+                }
+            ],
+            "title": "Lone Star Rising: Vol. 1: Lyndon Johnson and His Times, 1908-1960"
+        },
+        {
+            "age_group": "",
+            "author": "Robert Dallek",
+            "contributor": "by Robert Dallek",
+            "contributor_note": "",
+            "description": "A condensation of Dallek's two-volume biography of the 36th president; originally published in 1991 and 1998.",
+            "isbns": [],
+            "price": 0,
+            "publisher": "Oxford University Press",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-23",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9780199882786",
+                    "published_date": "2013-04-07",
+                    "rank": 24,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "LYNDON B. JOHNSON"
+        },
+        {
+            "age_group": "",
+            "author": "Doris Kearns Goodwin",
+            "contributor": "by Doris Kearns Goodwin",
+            "contributor_note": "",
+            "description": "A biography draws from research and from the author\u2019s time spent working at the White House from 1967 to 1969.",
+            "isbns": [
+                {
+                    "isbn10": "1497683858",
+                    "isbn13": "9781497683853"
+                },
+                {
+                    "isbn10": "0312060270",
+                    "isbn13": "9780312060275"
+                }
+            ],
+            "price": 0,
+            "publisher": "Open Road Media",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-09-05",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "1497683858",
+                    "primary_isbn13": "9781497683853",
+                    "published_date": "2015-09-20",
+                    "rank": 4,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-09-05",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "1497683858",
+                    "primary_isbn13": "9781497683853",
+                    "published_date": "2015-09-20",
+                    "rank": 18,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "LYNDON JOHNSON AND THE AMERICAN DREAM"
+        },
+        {
+            "age_group": null,
+            "author": "Jeff Shesol",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0393318559",
+                    "isbn13": "9780393318555"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1997/10/26/books/fear-and-loathing-in-the-white-house.html"
+                }
+            ],
+            "title": "Mutual Contempt: Lyndon Johnson, Robert Kennedy, and the Feud that Defined a Decade"
+        },
+        {
+            "age_group": null,
+            "author": "Franz Schulze",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0226740587",
+                    "isbn13": "9780226740584"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1994/11/27/books/the-man-in-the-glass-house.html"
+                }
+            ],
+            "title": "Philip Johnson: Life and Work"
+        },
+        {
+            "age_group": null,
+            "author": "Lydia Davis",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0312420560",
+                    "isbn13": "9780312420567"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2001/12/16/books/writing-between-the-lines.html"
+                }
+            ],
+            "title": "Samuel Johnson Is Indignant: Stories"
+        },
+        {
+            "age_group": null,
+            "author": "David Margolick",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0688137873",
+                    "isbn13": "9780688137878"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1994/08/28/books/new-noteworthy-paperbacks-985600.html"
+                }
+            ],
+            "title": "Undue Influence: The Epic Battle for the Johnson & Johnson Fortune"
+        },
+        {
+            "age_group": null,
+            "author": "Fintan O'Toole",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1438427581",
+                    "isbn13": "9781438427584"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2005/10/16/books/review/16crain.html"
+                }
+            ],
+            "title": "White Savage: William Johnson and the Invention of America (Excelsior Editions)"
+        }
+    ],
+    "status": "OK"
+}

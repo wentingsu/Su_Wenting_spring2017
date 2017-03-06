@@ -1,0 +1,770 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 22,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Bruce Watson",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0143037358",
+                    "isbn13": "9780143037354"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2005/08/28/books/review/28DIXLER.html"
+                }
+            ],
+            "title": "Bread and Roses: Mills, Migrants, and the Struggle for the American Dream"
+        },
+        {
+            "age_group": null,
+            "author": "Philip Kasinitz",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0801499518",
+                    "isbn13": "9780801499517"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1992/09/27/books/the-isles-of-brooklyn.html"
+                }
+            ],
+            "title": "Caribbean New York: Black Immigrants and the Politics of Race (The Anthropology of Contemporary Issues)"
+        },
+        {
+            "age_group": "",
+            "author": "Geoffrey Wansell",
+            "contributor": "by Geoffrey Wansell",
+            "contributor_note": "",
+            "description": "A biography of the actor, with photographs. Originally published in 1997.",
+            "isbns": [
+                {
+                    "isbn10": "162872336X",
+                    "isbn13": "9781628723366"
+                }
+            ],
+            "price": 0,
+            "publisher": "Arcade",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-07-11",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "162872336X",
+                    "primary_isbn13": "9781628723366",
+                    "published_date": "2015-07-26",
+                    "rank": 7,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "CARY GRANT"
+        },
+        {
+            "age_group": null,
+            "author": "Ruben Martinez",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0312421230",
+                    "isbn13": "9780312421236"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2002/03/10/books/north-of-the-border.html"
+                }
+            ],
+            "title": "Crossing Over: A Mexican Family on the Migrant Trail"
+        },
+        {
+            "age_group": null,
+            "author": "Frances Spalding",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0712666400",
+                    "isbn13": "9780712666404"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1999/06/06/books/bloomsbury-s-secret.html"
+                }
+            ],
+            "title": "Duncan Grant: A Biography"
+        },
+        {
+            "age_group": null,
+            "author": "Dale Carpenter",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0393345122",
+                    "isbn13": "9780393345124"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2012/03/18/books/review/the-story-of-lawrence-v-texas-by-dale-carpenter.html"
+                }
+            ],
+            "title": "Flagrant Conduct: The Story of Lawrence v. Texas"
+        },
+        {
+            "age_group": null,
+            "author": "John Lanchester",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0142003379",
+                    "isbn13": "9780142003374"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "https://www.nytimes.com/2002/07/25/books/books-of-the-times-personal-view-of-hong-kong-wrapped-in-a-novel-s-cloak.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2002/06/30/books/setting-sail.html"
+                }
+            ],
+            "title": "Fragrant Harbor"
+        },
+        {
+            "age_group": null,
+            "author": "Jean Edward Smith",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0684849275",
+                    "isbn13": "9780684849270"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2001/04/22/books/who-s-buried-in-grant-s-tomb.html"
+                }
+            ],
+            "title": "Grant"
+        },
+        {
+            "age_group": null,
+            "author": "Mark Perry",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0679642730",
+                    "isbn13": "9780679642732"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2004/06/06/books/from-the-sword-to-the-pen.html"
+                }
+            ],
+            "title": "Grant and Twain: The Story of a Friendship That Changed America"
+        },
+        {
+            "age_group": null,
+            "author": "Max Byrd",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0553380184",
+                    "isbn13": "9780553380187"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2000/08/20/books/american-hero.html"
+                }
+            ],
+            "title": "Grant: A Novel"
+        },
+        {
+            "age_group": "",
+            "author": "Kate Beaton",
+            "contributor": "by Kate Beaton",
+            "contributor_note": "",
+            "description": "This collection of work by the web sensation includes comic strips about famous authors, their characters, and political and historical figures, along with previously unpublished content.",
+            "isbns": [
+                {
+                    "isbn10": "1770460608",
+                    "isbn13": "9781770460607"
+                }
+            ],
+            "price": 0,
+            "publisher": "Drawn & Quarterly",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-09-26",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460608",
+                    "primary_isbn13": "9781770460607",
+                    "published_date": "2015-10-11",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 27
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-09-07",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460608",
+                    "primary_isbn13": "9781770460607",
+                    "published_date": "2013-09-22",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 26
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-08-24",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460608",
+                    "primary_isbn13": "9781770460607",
+                    "published_date": "2013-09-08",
+                    "rank": 10,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 25
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-08-17",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460608",
+                    "primary_isbn13": "9781770460607",
+                    "published_date": "2013-09-01",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 24
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-07-20",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460608",
+                    "primary_isbn13": "9781770460607",
+                    "published_date": "2013-08-04",
+                    "rank": 10,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 23
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-01-05",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460608",
+                    "primary_isbn13": "9781770460607",
+                    "published_date": "2013-01-20",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 22
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2012-03-03",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460608",
+                    "primary_isbn13": "9781770460607",
+                    "published_date": "2012-03-18",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 21
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2012-02-25",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460608",
+                    "primary_isbn13": "9781770460607",
+                    "published_date": "2012-03-11",
+                    "rank": 7,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 20
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2012-02-18",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460608",
+                    "primary_isbn13": "9781770460607",
+                    "published_date": "2012-03-04",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 19
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2012-02-11",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460608",
+                    "primary_isbn13": "9781770460607",
+                    "published_date": "2012-02-26",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 18
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2012-01-21",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460608",
+                    "primary_isbn13": "9781770460607",
+                    "published_date": "2012-02-05",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 17
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2012-01-14",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460608",
+                    "primary_isbn13": "9781770460607",
+                    "published_date": "2012-01-29",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 16
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2012-01-07",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460608",
+                    "primary_isbn13": "9781770460607",
+                    "published_date": "2012-01-22",
+                    "rank": 3,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 15
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2011-12-31",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460608",
+                    "primary_isbn13": "9781770460607",
+                    "published_date": "2012-01-15",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 14
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2011-12-24",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460608",
+                    "primary_isbn13": "9781770460607",
+                    "published_date": "2012-01-08",
+                    "rank": 1,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 13
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2011-12-17",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460608",
+                    "primary_isbn13": "9781770460607",
+                    "published_date": "2012-01-01",
+                    "rank": 2,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 12
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2011-12-10",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460608",
+                    "primary_isbn13": "9781770460607",
+                    "published_date": "2011-12-25",
+                    "rank": 5,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 11
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2011-12-03",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460608",
+                    "primary_isbn13": "9781770460607",
+                    "published_date": "2011-12-18",
+                    "rank": 5,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 10
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "HARK! A VAGRANT"
+        },
+        {
+            "age_group": null,
+            "author": "Jeanne Schinto",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0679421211",
+                    "isbn13": "9780679421214"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1995/09/24/books/terminal-city.html"
+                }
+            ],
+            "title": "Huddle Fever: Living in the Immigrant City"
+        },
+        {
+            "age_group": "",
+            "author": "Jennifer Chiaverini",
+            "contributor": "by Jennifer Chiaverini",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [
+                {
+                    "isbn10": "0525954295",
+                    "isbn13": "9780525954293"
+                }
+            ],
+            "price": 0,
+            "publisher": "Dutton",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-03-07",
+                    "dagger": 0,
+                    "display_name": "Hardcover Fiction",
+                    "list_name": "Hardcover Fiction",
+                    "primary_isbn10": "0525954295",
+                    "primary_isbn13": "9780525954293",
+                    "published_date": "2015-03-22",
+                    "rank": 19,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "MRS. GRANT AND MADAME JULE"
+        },
+        {
+            "age_group": null,
+            "author": "S. Mitra Kalita",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "081353318X",
+                    "isbn13": "9780813533186"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/12/14/books/new-jersey-masala.html"
+                }
+            ],
+            "title": "Suburban Sahibs: Three Immigrant Families and Their Passage from India to America"
+        },
+        {
+            "age_group": null,
+            "author": "W. G. Sebald",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0811213668",
+                    "isbn13": "9780811213660"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1997/03/30/books/when-memory-speaks.html"
+                }
+            ],
+            "title": "The Emigrants"
+        },
+        {
+            "age_group": null,
+            "author": "Alain Corbin",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0674311760",
+                    "isbn13": "9780674311763"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1986/11/02/books/olfactory-vigilance.html"
+                }
+            ],
+            "title": "The Foul and the Fragrant: Odor and the French Social Imagination"
+        },
+        {
+            "age_group": "",
+            "author": "Nora Roberts",
+            "contributor": "by Nora Roberts",
+            "contributor_note": "",
+            "description": "A reissue of two 1985 novels, \u201cAll the Possibilities\u201d and \u201cOne Man\u2019s Art.\u201d",
+            "isbns": [
+                {
+                    "isbn10": "037328134X",
+                    "isbn13": "9780373281343"
+                }
+            ],
+            "price": 0,
+            "publisher": "Silhouette",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "THE MACGREGORS \u2014 ALAN & GRANT"
+        },
+        {
+            "age_group": null,
+            "author": "Yiyun Li",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1400063132",
+                    "isbn13": "9781400063130"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "https://www.nytimes.com/2009/01/29/books/29masl.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2009/03/08/books/review/Iyer-t.html"
+                }
+            ],
+            "title": "The Vagrants: A Novel"
+        },
+        {
+            "age_group": null,
+            "author": "Betty Boyd Caroli",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0195030001",
+                    "isbn13": "9780195030006"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1981/11/01/books/nonfiction-in-brief-073900.html"
+                }
+            ],
+            "title": "Today's Immigrants, Their Stories: A New Look at the Newest Americans"
+        },
+        {
+            "age_group": null,
+            "author": "Geoffrey Perret",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "037575220X",
+                    "isbn13": "9780375752209"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1997/09/07/books/the-very-good-soldier.html"
+                }
+            ],
+            "title": "Ulysses S. Grant: Soldier & President (Modern Library Paperbacks)"
+        }
+    ],
+    "status": "OK"
+}

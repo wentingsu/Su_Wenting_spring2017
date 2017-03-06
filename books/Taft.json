@@ -1,0 +1,57 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 2,
+    "results": [
+        {
+            "age_group": null,
+            "author": "James Chace",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0743273559",
+                    "isbn13": "9780743273558"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2004/05/09/books/the-making-of-the-president-1912.html"
+                }
+            ],
+            "title": "1912: Wilson, Roosevelt, Taft and Debs--The Election that Changed the Country"
+        },
+        {
+            "age_group": null,
+            "author": "Don Van Natta Jr.",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1586480081",
+                    "isbn13": "9781586480080"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/04/20/books/bunker-mentality.html"
+                }
+            ],
+            "title": "First Off the Tee: Presidential Hackers, Duffers, and Cheaters From Taft To Bush"
+        }
+    ],
+    "status": "OK"
+}

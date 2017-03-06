@@ -1,0 +1,172 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 5,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Samuel Taylor Coleridge",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0691018618",
+                    "isbn13": "9780691018614"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1985/03/03/books/new-noteworthy.html"
+                }
+            ],
+            "title": "Biographia Literaria: The Collected Works of Samuel Taylor Coleridge, Biographical Sketches of my Literary Life & Opinio"
+        },
+        {
+            "age_group": null,
+            "author": "Kitty Kelley",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0671255436",
+                    "isbn13": "9780671255435"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1981/10/18/books/bad-luck-and-violet-eyes.html"
+                }
+            ],
+            "title": "Elizabeth Taylor: The Last Star"
+        },
+        {
+            "age_group": null,
+            "author": "M. G. Lord",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0802716695",
+                    "isbn13": "9780802716699"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2012/02/05/books/review/what-elizabeth-taylor-did-for-womens-rights.html"
+                }
+            ],
+            "title": "The Accidental Feminist: How Elizabeth Taylor Raised Our Consciousness and We Were Too Distracted By Her Beauty to Notic"
+        },
+        {
+            "age_group": null,
+            "author": "Robert Kanigel",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0262612062",
+                    "isbn13": "9780262612067"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1997/06/15/books/a-faster-mousetrap.html"
+                }
+            ],
+            "title": "The One Best Way: Frederick Winslow Taylor and the Enigma of Efficiency (Sloan Technology)"
+        },
+        {
+            "age_group": "",
+            "author": "Mike Carey and Peter Gross",
+            "contributor": "by Mike Carey and Peter Gross",
+            "contributor_note": "",
+            "description": "The secrets behind Tommy's powers are revealed in this original graphic novel that combines his father's journal entries with a new deep sea adventure.",
+            "isbns": [
+                {
+                    "isbn10": "140122976X",
+                    "isbn13": "9781401229764"
+                }
+            ],
+            "price": 0,
+            "publisher": "DC Comics",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-10-12",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "140122976X",
+                    "primary_isbn13": "9781401229764",
+                    "published_date": "2013-10-27",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 3
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-10-05",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "140122976X",
+                    "primary_isbn13": "9781401229764",
+                    "published_date": "2013-10-20",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 2
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-09-28",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "140122976X",
+                    "primary_isbn13": "9781401229764",
+                    "published_date": "2013-10-13",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "THE UNWRITTEN: TOMMY TAYLOR AND THE SHIP THAT SANK TWICE"
+        }
+    ],
+    "status": "OK"
+}

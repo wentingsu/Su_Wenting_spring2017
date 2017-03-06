@@ -1,0 +1,240 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 6,
+    "results": [
+        {
+            "age_group": "",
+            "author": "Margaret Truman",
+            "contributor": "by Margaret Truman",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [],
+            "price": 0,
+            "publisher": "New Word City",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-11-01",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "None",
+                    "primary_isbn13": "9781612308104",
+                    "published_date": "2014-11-16",
+                    "rank": 15,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "BESS TRUMAN"
+        },
+        {
+            "age_group": null,
+            "author": "Margaret Truman",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0025294709",
+                    "isbn13": "9780025294707"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1986/04/13/books/the-white-house-wasn-t-like-home.html"
+                }
+            ],
+            "title": "Bess W Truman"
+        },
+        {
+            "age_group": null,
+            "author": "Thomas Mallon",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0312180861",
+                    "isbn13": "9780312180867"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1997/02/02/books/everything-up-to-date-in-1948.html"
+                }
+            ],
+            "title": "Dewey Defeats Truman: A Novel"
+        },
+        {
+            "age_group": null,
+            "author": "J. Robert Moskin",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0700611843",
+                    "isbn13": "9780700611843"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1996/09/15/books/books-in-brief-nonfiction-298735.html"
+                }
+            ],
+            "title": "Mr. Truman's War: The Final Victories of World War II and the Birth of the Postwar World"
+        },
+        {
+            "age_group": null,
+            "author": "Zachary Karabell",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0375700773",
+                    "isbn13": "9780375700774"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2000/04/09/books/truman-defeats-dewey-again.html"
+                }
+            ],
+            "title": "The Last Campaign: How Harry Truman Won the 1948 Election"
+        },
+        {
+            "age_group": "",
+            "author": "David McCullough",
+            "contributor": "by David McCullough",
+            "contributor_note": "",
+            "description": "A biography of the 33rd president; originally published in 1992.",
+            "isbns": [
+                {
+                    "isbn10": "0743260295",
+                    "isbn13": "9780743260299"
+                },
+                {
+                    "isbn10": "0671869205",
+                    "isbn13": "9780671869205"
+                },
+                {
+                    "isbn10": "0671456547",
+                    "isbn13": "9780671456542"
+                }
+            ],
+            "price": 0,
+            "publisher": "Simon & Schuster",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-01-26",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "0743260295",
+                    "primary_isbn13": "9780743260299",
+                    "published_date": "2013-02-10",
+                    "rank": 32,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-01-05",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "0743260295",
+                    "primary_isbn13": "9780743260299",
+                    "published_date": "2013-01-20",
+                    "rank": 19,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-01-05",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "0743260295",
+                    "primary_isbn13": "9780743260299",
+                    "published_date": "2013-01-20",
+                    "rank": 24,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2012-12-22",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "0743260295",
+                    "primary_isbn13": "9780743260299",
+                    "published_date": "2013-01-06",
+                    "rank": 29,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2012-11-10",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "0743260295",
+                    "primary_isbn13": "9780743260299",
+                    "published_date": "2012-11-25",
+                    "rank": 33,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/1992/06/21/books/work-hard-trust-in-god-have-no-fear.html"
+                }
+            ],
+            "title": "TRUMAN"
+        }
+    ],
+    "status": "OK"
+}

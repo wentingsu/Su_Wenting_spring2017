@@ -1,0 +1,857 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 30,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Sandra Jordan",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0312367511",
+                    "isbn13": "9780312367510"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2002/11/17/books/children-s-books-out-of-this-world.html"
+                }
+            ],
+            "title": "Action Jackson"
+        },
+        {
+            "age_group": null,
+            "author": "H.W. Brands",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1400030722",
+                    "isbn13": "9781400030729"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2005/11/20/books/review/20oneill.html"
+                }
+            ],
+            "title": "Andrew Jackson: His Life and Times"
+        },
+        {
+            "age_group": null,
+            "author": "Betsy Byars",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "014031881X",
+                    "isbn13": "9780140318814"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1985/08/04/books/children-s-books-147151.html"
+                }
+            ],
+            "title": "Cracker Jackson (Puffin Story Books)"
+        },
+        {
+            "age_group": null,
+            "author": "Blake Bailey",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "030727358X",
+                    "isbn13": "9780307273581"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2013/04/21/books/review/farther-and-wilder-blake-baileys-bio-of-charles-jackson.html"
+                }
+            ],
+            "title": "Farther and Wilder: The Lost Weekends and Literary Dreams of Charles Jackson"
+        },
+        {
+            "age_group": "",
+            "author": "Calvin Trillin",
+            "contributor": "by Calvin Trillin",
+            "contributor_note": "",
+            "description": "Fifty years of the New Yorker magazine writer's articles on rare and racism, from the 1960s to the present.",
+            "isbns": [
+                {
+                    "isbn10": "0399588248",
+                    "isbn13": "9780399588242"
+                }
+            ],
+            "price": 0,
+            "publisher": "Random House",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "https://www.nytimes.com/2016/06/26/books/review/calvin-trillin-looks-back-on-50-years-covering-black-life-in-america.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "JACKSON, 1964"
+        },
+        {
+            "age_group": "",
+            "author": "Steve Inskeep",
+            "contributor": "by Steve Inskeep",
+            "contributor_note": "",
+            "description": "President Andrew Jackson, Cherokee Chief John Ross and the great American land grab.",
+            "isbns": [
+                {
+                    "isbn10": "1594205566",
+                    "isbn13": "9781594205569"
+                }
+            ],
+            "price": 0,
+            "publisher": "Penguin",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "JACKSONLAND"
+        },
+        {
+            "age_group": null,
+            "author": "Marshall Frady",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0743291441",
+                    "isbn13": "9780743291446"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1996/06/09/books/what-makes-jesse-run.html"
+                }
+            ],
+            "title": "Jesse:: The Life and Pilgrimage of Jesse Jackson"
+        },
+        {
+            "age_group": null,
+            "author": "Shirley Jackson",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0553378333",
+                    "isbn13": "9780553378337"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1996/12/29/books/distress-signals.html"
+                }
+            ],
+            "title": "Just an Ordinary Day: The Uncollected Stories Of Shirley Jackson"
+        },
+        {
+            "age_group": "",
+            "author": "J Randy Taraborrelli",
+            "contributor": "by J. Randy Taraborrelli",
+            "contributor_note": "",
+            "description": "An updated version of a 1991 biography now covers Jackson\u2019s last years and his death.",
+            "isbns": [],
+            "price": 18.99,
+            "publisher": "Grand Central",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "MICHAEL JACKSON"
+        },
+        {
+            "age_group": "",
+            "author": "edited  Joe Funk",
+            "contributor": "edited by Joe Funk",
+            "contributor_note": "edited by Joe Funk",
+            "description": "An illustrated tribute biography of the King of Pop.",
+            "isbns": [],
+            "price": 14.95,
+            "publisher": "Triumph",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "MICHAEL JACKSON"
+        },
+        {
+            "age_group": "",
+            "author": "Aphrodite Jones",
+            "contributor": "by Aphrodite Jones",
+            "contributor_note": "",
+            "description": "An indictment of the media for its handling of the singer\u2019s 2005 sexual abuse trial, which ended with his exoneration.",
+            "isbns": [],
+            "price": 0,
+            "publisher": "AAJ Productions",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "MICHAEL JACKSON CONSPIRACY"
+        },
+        {
+            "age_group": null,
+            "author": "Margo Jefferson",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0375423265",
+                    "isbn13": "9780375423260"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "https://www.nytimes.com/2006/01/24/books/24sout.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2006/01/15/books/review/15toure.html"
+                }
+            ],
+            "title": "On Michael Jackson"
+        },
+        {
+            "age_group": "Ages 10 and up",
+            "author": "Rick Riordan",
+            "contributor": "by Rick Riordan",
+            "contributor_note": "",
+            "description": "Ancient gods are unleashed, but the Kanes have power, too.",
+            "isbns": [
+                {
+                    "isbn10": "1423188101",
+                    "isbn13": "9781423188100"
+                }
+            ],
+            "price": 0,
+            "publisher": "Disney Publishing Worldwide",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "PERCY JACKSON & KANE CHRONICLES CROSSOVER"
+        },
+        {
+            "age_group": "",
+            "author": "Rick Riordan",
+            "contributor": "by Rick Riordan",
+            "contributor_note": "",
+            "description": "A boy battles mythological monsters.",
+            "isbns": [
+                {
+                    "isbn10": "1423101502",
+                    "isbn13": "9781423101505"
+                },
+                {
+                    "isbn10": "1423101472",
+                    "isbn13": "9781423101475"
+                },
+                {
+                    "isbn10": "1423101499",
+                    "isbn13": "9781423101499"
+                },
+                {
+                    "isbn10": "0786838655",
+                    "isbn13": "9780786838653"
+                },
+                {
+                    "isbn10": "1423103343",
+                    "isbn13": "9781423103349"
+                },
+                {
+                    "isbn10": "1423101480",
+                    "isbn13": "9781423101482"
+                },
+                {
+                    "isbn10": "1423113497",
+                    "isbn13": "9781423113492"
+                },
+                {
+                    "isbn10": "142312166X",
+                    "isbn13": "9781423121664"
+                },
+                {
+                    "isbn10": "0786856866",
+                    "isbn13": "9780786856862"
+                },
+                {
+                    "isbn10": "1423101456",
+                    "isbn13": "9781423101451"
+                },
+                {
+                    "isbn10": "142313494X",
+                    "isbn13": "9781423134947"
+                },
+                {
+                    "isbn10": "142314189X",
+                    "isbn13": "9781423141891"
+                },
+                {
+                    "isbn10": "1423121708",
+                    "isbn13": "9781423121701"
+                },
+                {
+                    "isbn10": "1423117107",
+                    "isbn13": "9781423117100"
+                },
+                {
+                    "isbn10": "1423119509",
+                    "isbn13": "9781423119500"
+                },
+                {
+                    "isbn10": "142313589X",
+                    "isbn13": "9781423135890"
+                },
+                {
+                    "isbn10": "1423136802",
+                    "isbn13": "9781423136804"
+                },
+                {
+                    "isbn10": "1423131894",
+                    "isbn13": "9781423131892"
+                },
+                {
+                    "isbn10": "1423131967",
+                    "isbn13": "9781423131960"
+                },
+                {
+                    "isbn10": "1423131975",
+                    "isbn13": "9781423131977"
+                },
+                {
+                    "isbn10": "1423131991",
+                    "isbn13": "9781423131991"
+                },
+                {
+                    "isbn10": "1423131983",
+                    "isbn13": "9781423131984"
+                },
+                {
+                    "isbn10": "1423140346",
+                    "isbn13": "9781423140344"
+                },
+                {
+                    "isbn10": "142316007X",
+                    "isbn13": "9781423160076"
+                },
+                {
+                    "isbn10": "1423132009",
+                    "isbn13": "9781423132004"
+                },
+                {
+                    "isbn10": "1484707230",
+                    "isbn13": "9781484707234"
+                }
+            ],
+            "price": 0,
+            "publisher": "Disney-Hyperion",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2017-02-25",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Series",
+                    "list_name": "Series Books",
+                    "primary_isbn10": "1484707230",
+                    "primary_isbn13": "9781484707234",
+                    "published_date": "2017-03-12",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 421
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2017-02-11",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Series",
+                    "list_name": "Series Books",
+                    "primary_isbn10": "0786838655",
+                    "primary_isbn13": "9780786838653",
+                    "published_date": "2017-02-26",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 420
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2017-01-14",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Series",
+                    "list_name": "Series Books",
+                    "primary_isbn10": "0786838655",
+                    "primary_isbn13": "9780786838653",
+                    "published_date": "2017-01-29",
+                    "rank": 10,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 419
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-12-24",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Series",
+                    "list_name": "Series Books",
+                    "primary_isbn10": "0786838655",
+                    "primary_isbn13": "9780786838653",
+                    "published_date": "2017-01-08",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 418
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-12-17",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Series",
+                    "list_name": "Series Books",
+                    "primary_isbn10": "1484707230",
+                    "primary_isbn13": "9781484707234",
+                    "published_date": "2017-01-01",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 417
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-12-10",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Series",
+                    "list_name": "Series Books",
+                    "primary_isbn10": "0786838655",
+                    "primary_isbn13": "9780786838653",
+                    "published_date": "2016-12-25",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 416
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-12-03",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Series",
+                    "list_name": "Series Books",
+                    "primary_isbn10": "1484707230",
+                    "primary_isbn13": "9781484707234",
+                    "published_date": "2016-12-18",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 415
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-11-26",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Series",
+                    "list_name": "Series Books",
+                    "primary_isbn10": "1484707230",
+                    "primary_isbn13": "9781484707234",
+                    "published_date": "2016-12-11",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 414
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-11-19",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Series",
+                    "list_name": "Series Books",
+                    "primary_isbn10": "0786838655",
+                    "primary_isbn13": "9780786838653",
+                    "published_date": "2016-12-04",
+                    "rank": 7,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 413
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-11-12",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Series",
+                    "list_name": "Series Books",
+                    "primary_isbn10": "1484707230",
+                    "primary_isbn13": "9781484707234",
+                    "published_date": "2016-11-27",
+                    "rank": 10,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 412
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-11-05",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Series",
+                    "list_name": "Series Books",
+                    "primary_isbn10": "0786838655",
+                    "primary_isbn13": "9780786838653",
+                    "published_date": "2016-11-20",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 411
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2009/05/31/books/review/Devereaux-t.html"
+                }
+            ],
+            "title": "PERCY JACKSON & THE OLYMPIANS"
+        },
+        {
+            "age_group": "",
+            "author": "Robert Venditti and Attila Futaki",
+            "contributor": "by Robert Venditti and Attila Futaki",
+            "contributor_note": "",
+            "description": "First it was a prose novel by Rick Riordan. Then it was a film. Now the story of Percy Jackson, who discovers he is the son of a Greek god, becomes a graphic novel.",
+            "isbns": [],
+            "price": 9.99,
+            "publisher": "Disney-Hyperion",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2005/11/13/books/review/13shulman.html"
+                }
+            ],
+            "title": "PERCY JACKSON & THE OLYMPIANS: THE LIGHTNING THIEF"
+        },
+        {
+            "age_group": "",
+            "author": "Robert Venditti and Attila Futaki",
+            "contributor": "by Robert Venditti and Attila Futaki",
+            "contributor_note": "",
+            "description": "The work of Rick Riordan is again adapted into the graphic novel format in this follow up to \"The Lightning Thief.\"",
+            "isbns": [
+                {
+                    "isbn10": "1423145291",
+                    "isbn13": "9781423145295"
+                }
+            ],
+            "price": 0,
+            "publisher": "Hyperion Press",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "PERCY JACKSON & THE OLYMPIANS: THE SEA OF MONSTERS"
+        },
+        {
+            "age_group": "",
+            "author": "Rick Riordan, Robert Venditti and Attila Futaki",
+            "contributor": "by Rick Riordan, Robert Venditti and Attila Futaki",
+            "contributor_note": "",
+            "description": "In this graphic novel adaptation of the popular children's series, Percy and his friends go on a rescue mission to save the goddess Artemis.",
+            "isbns": [
+                {
+                    "isbn10": "1423145518",
+                    "isbn13": "9781423145516"
+                }
+            ],
+            "price": 0,
+            "publisher": "Disney-Hyperion",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "PERCY JACKSON & THE OLYMPIANS: THE TITAN'S CURSE"
+        },
+        {
+            "age_group": "Ages 10 and up",
+            "author": "Mary-Jane Knight Designed  Philip Chidlow",
+            "contributor": "by Mary-Jane Knight. Designed by Philip Chidlow",
+            "contributor_note": "",
+            "description": "Gods, beasts and tips for children with an immortal parent, based on Rick Riordan\u2019s series.",
+            "isbns": [
+                {
+                    "isbn10": "1423121716",
+                    "isbn13": "9781423121718"
+                }
+            ],
+            "price": 12.99,
+            "publisher": "Disney-Hyperion",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "PERCY JACKSON AND THE OLYMPIANS (THE ULTIMATE GUIDE)"
+        },
+        {
+            "age_group": "",
+            "author": "Rick Riordan",
+            "contributor": "by Rick Riordan. Illustrated by John Rocco",
+            "contributor_note": "Illustrated by John Rocco ",
+            "description": "Percy Jackson offers a personal tour of the pantheon.",
+            "isbns": [
+                {
+                    "isbn10": "1423183649",
+                    "isbn13": "9781423183648"
+                },
+                {
+                    "isbn10": "1484702182",
+                    "isbn13": "9781484702185"
+                },
+                {
+                    "isbn10": "1484712374",
+                    "isbn13": "9781484712375"
+                }
+            ],
+            "price": 0,
+            "publisher": "Disney-Hyperion",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2017-01-14",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "primary_isbn10": "1484712374",
+                    "primary_isbn13": "9781484712375",
+                    "published_date": "2017-01-29",
+                    "rank": 5,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 26
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2017-01-07",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "primary_isbn10": "1484712374",
+                    "primary_isbn13": "9781484712375",
+                    "published_date": "2017-01-22",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 25
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-12-31",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "primary_isbn10": "1484712374",
+                    "primary_isbn13": "9781484712375",
+                    "published_date": "2017-01-15",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 24
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-12-24",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "primary_isbn10": "1484712374",
+                    "primary_isbn13": "9781484712375",
+                    "published_date": "2017-01-08",
+                    "rank": 7,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 23
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-12-10",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "primary_isbn10": "1484712374",
+                    "primary_isbn13": "9781484712375",
+                    "published_date": "2016-12-25",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 22
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-12-03",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "primary_isbn10": "1484712374",
+                    "primary_isbn13": "9781484712375",
+                    "published_date": "2016-12-18",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 21
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-11-26",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "primary_isbn10": "1484712374",
+                    "primary_isbn13": "9781484712375",
+                    "published_date": "2016-12-11",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 20
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-11-19",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "primary_isbn10": "1484712374",
+                    "primary_isbn13": "9781484712375",
+                    "published_date": "2016-12-04",
+                    "rank": 7,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 19
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-11-12",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "primary_isbn10": "1484712374",
+                    "primary_isbn13": "9781484712375",
+                    "published_date": "2016-11-27",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 18
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "PERCY JACKSON'S GREEK GODS"
+        },
+        {
+            "age_group": "Ages 9 to 12",
+            "author": "Rick Riordan",
+            "contributor": "by Rick Riordan. Illustrated by John Rocco",
+            "contributor_note": "Illustrated by John Rocco",
+            "description": "A \"Percy Jackson & the Olympians\" companion guide.",
+            "isbns": [
+                {
+                    "isbn10": "1423183657",
+                    "isbn13": "9781423183655"
+                }
+            ],
+            "price": 0,
+            "publisher": "Disney-Hyperion",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "PERCY JACKSON'S GREEK HEROES"
+        }
+    ],
+    "status": "OK"
+}

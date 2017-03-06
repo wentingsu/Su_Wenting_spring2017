@@ -1,0 +1,775 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 28,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Edmund Morris",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0375756450",
+                    "isbn13": "9780375756450"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1999/10/10/books/the-hollow-man.html"
+                }
+            ],
+            "title": "Dutch: A Memoir of Ronald Reagan"
+        },
+        {
+            "age_group": "",
+            "author": "Paul Kengor",
+            "contributor": "by Paul Kengor",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [
+                {
+                    "isbn10": "006174431X",
+                    "isbn13": "9780061744310"
+                }
+            ],
+            "price": 0,
+            "publisher": "Harper Perennial",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "GOD AND RONALD REAGAN"
+        },
+        {
+            "age_group": null,
+            "author": "Lou Cannon",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "158648284X",
+                    "isbn13": "9781586482848"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/11/09/books/anticipating-arnold.html"
+                }
+            ],
+            "title": "Governor Reagan: His Rise To Power"
+        },
+        {
+            "age_group": null,
+            "author": "Nancy Reagan",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0375760512",
+                    "isbn13": "9780375760518"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2000/10/22/books/books-in-brief-nonfiction-620904.html"
+                }
+            ],
+            "title": "I Love You, Ronnie: The Letters of Ronald Reagan to Nancy Reagan"
+        },
+        {
+            "age_group": null,
+            "author": "Thomas Carothers",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0520082605",
+                    "isbn13": "9780520082601"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1991/12/29/books/playing-by-our-rules.html"
+                }
+            ],
+            "title": "In the Name of Democracy: U.S. Policy Toward Latin America in the Reagan Years"
+        },
+        {
+            "age_group": "",
+            "author": "Scott Farris",
+            "contributor": "by Scott Farris",
+            "contributor_note": "",
+            "description": "A double biography looks at why the legacies of these two presidents endure.",
+            "isbns": [],
+            "price": 0,
+            "publisher": "Lyons/Globe Pequot",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "KENNEDY AND REAGAN"
+        },
+        {
+            "age_group": "",
+            "author": "Bill O'Reilly and Martin Dugard",
+            "contributor": "by Bill O'Reilly and Martin Dugard",
+            "contributor_note": "",
+            "description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the attempted assassination of President Reagan in 1981.\n",
+            "isbns": [
+                {
+                    "isbn10": "1627792414",
+                    "isbn13": "9781627792417"
+                },
+                {
+                    "isbn10": "1627792422",
+                    "isbn13": "9781627792424"
+                },
+                {
+                    "isbn10": "1427262292",
+                    "isbn13": "9781427262295"
+                },
+                {
+                    "isbn10": "1410482596",
+                    "isbn13": "9781410482594"
+                }
+            ],
+            "price": 0,
+            "publisher": "Holt",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-06-18",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "1627792414",
+                    "primary_isbn13": "9781627792417",
+                    "published_date": "2016-07-03",
+                    "rank": 16,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-03-26",
+                    "dagger": 0,
+                    "display_name": "Politics and American History",
+                    "list_name": "Hardcover Political Books",
+                    "primary_isbn10": "1627792414",
+                    "primary_isbn13": "9781627792417",
+                    "published_date": "2016-04-10",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-02-27",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "1627792414",
+                    "primary_isbn13": "9781627792417",
+                    "published_date": "2016-03-13",
+                    "rank": 14,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 22
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-02-27",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "1627792422",
+                    "primary_isbn13": "9781627792424",
+                    "published_date": "2016-03-13",
+                    "rank": 14,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-02-27",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "1627792414",
+                    "primary_isbn13": "9781627792417",
+                    "published_date": "2016-03-13",
+                    "rank": 16,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-02-27",
+                    "dagger": 0,
+                    "display_name": "Politics and American History",
+                    "list_name": "Hardcover Political Books",
+                    "primary_isbn10": "1627792414",
+                    "primary_isbn13": "9781627792417",
+                    "published_date": "2016-03-13",
+                    "rank": 4,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-02-20",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "1627792414",
+                    "primary_isbn13": "9781627792417",
+                    "published_date": "2016-03-06",
+                    "rank": 16,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-02-13",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "1627792414",
+                    "primary_isbn13": "9781627792417",
+                    "published_date": "2016-02-28",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 21
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-02-13",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "1627792414",
+                    "primary_isbn13": "9781627792417",
+                    "published_date": "2016-02-28",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 21
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-02-06",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "1627792422",
+                    "primary_isbn13": "9781627792424",
+                    "published_date": "2016-02-21",
+                    "rank": 12,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-02-06",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "1627792414",
+                    "primary_isbn13": "9781627792417",
+                    "published_date": "2016-02-21",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 20
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-02-06",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "1627792414",
+                    "primary_isbn13": "9781627792417",
+                    "published_date": "2016-02-21",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 20
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-01-30",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "1627792414",
+                    "primary_isbn13": "9781627792417",
+                    "published_date": "2016-02-14",
+                    "rank": 11,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 19
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-01-30",
+                    "dagger": 0,
+                    "display_name": "Politics and American History",
+                    "list_name": "Hardcover Political Books",
+                    "primary_isbn10": "1627792414",
+                    "primary_isbn13": "9781627792417",
+                    "published_date": "2016-02-14",
+                    "rank": 4,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-01-30",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "1627792414",
+                    "primary_isbn13": "9781627792417",
+                    "published_date": "2016-02-14",
+                    "rank": 7,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 19
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-01-23",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "1627792422",
+                    "primary_isbn13": "9781627792424",
+                    "published_date": "2016-02-07",
+                    "rank": 11,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-01-23",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "1627792414",
+                    "primary_isbn13": "9781627792417",
+                    "published_date": "2016-02-07",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 18
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-01-23",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "1627792414",
+                    "primary_isbn13": "9781627792417",
+                    "published_date": "2016-02-07",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 18
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-01-16",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "1627792414",
+                    "primary_isbn13": "9781627792417",
+                    "published_date": "2016-01-31",
+                    "rank": 5,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 17
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-01-16",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "1627792422",
+                    "primary_isbn13": "9781627792424",
+                    "published_date": "2016-01-31",
+                    "rank": 10,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 17
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "KILLING REAGAN"
+        },
+        {
+            "age_group": null,
+            "author": "Kitty Kelley",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0671646478",
+                    "isbn13": "9780671646479"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1991/05/05/books/no-stone-unthrown.html"
+                }
+            ],
+            "title": "Nancy Reagan: The Unauthorized Biography"
+        },
+        {
+            "age_group": null,
+            "author": "Gary Sick",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0812919890",
+                    "isbn13": "9780812919899"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1991/12/22/books/the-case-for-a-conspiracy.html"
+                }
+            ],
+            "title": "October Surprise: America's Hostages in Iran and the Election of Ronald Reagan"
+        },
+        {
+            "age_group": null,
+            "author": "Lou Cannon",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1891620916",
+                    "isbn13": "9781891620911"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1982/10/03/books/the-style-of-three-presidents-182867.html"
+                }
+            ],
+            "title": "President Reagan: The Role Of A Lifetime"
+        },
+        {
+            "age_group": null,
+            "author": "Richard Reeves",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1416531912",
+                    "isbn13": "9781416531913"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2006/01/29/books/review/29woolridge.html"
+                }
+            ],
+            "title": "President Reagan: The Triumph of Imagination"
+        },
+        {
+            "age_group": null,
+            "author": "Herbert Stein",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0844736562",
+                    "isbn13": "9780844736563"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1985/06/16/books/new-noteworthy.html"
+                }
+            ],
+            "title": "Presidential Economics: The Making of Economic Policy from Roosevelt to Reagan and Beyond (AEI studies)"
+        },
+        {
+            "age_group": "",
+            "author": "H W Brands",
+            "contributor": "by H. W. Brands",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [
+                {
+                    "isbn10": "0385536399",
+                    "isbn13": "9780385536394"
+                }
+            ],
+            "price": 0,
+            "publisher": "Doubleday",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2015/06/07/books/review/reagan-the-life-by-h-w-brands.html"
+                }
+            ],
+            "title": "REAGAN"
+        },
+        {
+            "age_group": "",
+            "author": "Brett Harper",
+            "contributor": "by Brett Harper",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [
+                {
+                    "isbn10": "1612308546",
+                    "isbn13": "9781612308548"
+                }
+            ],
+            "price": 0,
+            "publisher": "New Word City",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "REAGAN"
+        },
+        {
+            "age_group": null,
+            "author": "Richard Aldous",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0393069001",
+                    "isbn13": "9780393069006"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2012/04/15/books/review/reagan-and-thatcher-by-richard-aldous.html"
+                }
+            ],
+            "title": "Reagan and Thatcher: The Difficult Relationship"
+        },
+        {
+            "age_group": null,
+            "author": "Paul Lettow",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0812973267",
+                    "isbn13": "9780812973266"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2005/02/13/books/review/13HEILBRU.html"
+                }
+            ],
+            "title": "Ronald Reagan and His Quest to Abolish Nuclear Weapons"
+        },
+        {
+            "age_group": "",
+            "author": "Ronald Reagan Presidential Foundation",
+            "contributor": "by Ronald Reagan Presidential Foundation",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [
+                {
+                    "isbn10": "0062014862",
+                    "isbn13": "9780062014863"
+                }
+            ],
+            "price": 0,
+            "publisher": "Collins Design",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "RONALD REAGAN: 100 YEARS"
+        },
+        {
+            "age_group": null,
+            "author": "John Patrick Diggins",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0393060225",
+                    "isbn13": "9780393060225"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2007/02/18/books/review/Lowry2.t.html"
+                }
+            ],
+            "title": "Ronald Reagan: Fate, Freedom, and the Making of History"
+        },
+        {
+            "age_group": null,
+            "author": "Hedley Donovan",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0060390670",
+                    "isbn13": "9780060390679"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1985/06/09/books/without-protfolio.html"
+                }
+            ],
+            "title": "Roosevelt to Reagan: A Reporter's Encounters With Nine Presidents"
+        },
+        {
+            "age_group": null,
+            "author": "Hobart Rowen",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0812918649",
+                    "isbn13": "9780812918649"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1994/08/21/books/a-fine-mess-they-ve-got-us-into.html"
+                }
+            ],
+            "title": "Self-Inflicted Wounds:: From LBJ's Guns and Butter to Reagan's Voodoo Economics"
+        }
+    ],
+    "status": "OK"
+}

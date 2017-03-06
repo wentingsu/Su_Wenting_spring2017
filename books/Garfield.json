@@ -1,0 +1,32 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 1,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Robert Sklar",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0691047952",
+                    "isbn13": "9780691047959"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1992/06/07/books/they-ain-t-so-tough.html"
+                }
+            ],
+            "title": "City Boys: Cagney, Bogart, Garfield"
+        }
+    ],
+    "status": "OK"
+}

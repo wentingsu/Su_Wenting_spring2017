@@ -1,0 +1,789 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 25,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Judith Martin",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0689116527",
+                    "isbn13": "9780689116520"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1985/11/10/books/does-politeness-lead-to-virtue.html"
+                }
+            ],
+            "title": "Common Courtesy: In Which Miss Manners Solves the Problem That Baffled Mr. Jefferson"
+        },
+        {
+            "age_group": null,
+            "author": "Susan Dunn",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0465003567",
+                    "isbn13": "9780465003563"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2007/09/16/books/review/Sussman-t.html"
+                }
+            ],
+            "title": "Dominion of Memories: Jefferson, Madison & the Decline of Virginia"
+        },
+        {
+            "age_group": null,
+            "author": "Susanne C. Pichler",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0813925576",
+                    "isbn13": "9780813925578"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "https://www.nytimes.com/2005/04/24/education/edlife/bowen.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "Equity and Excellence in American Higher Education (Thomas Jefferson Foundation Distinguished Lecture Series)"
+        },
+        {
+            "age_group": null,
+            "author": "Gore Vidal",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0300105924",
+                    "isbn13": "9780300105926"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/12/14/books/slaves-in-the-family.html"
+                }
+            ],
+            "title": "Inventing a Nation: Washington, Adams, Jefferson (Icons of America)"
+        },
+        {
+            "age_group": null,
+            "author": "Jane Feldman",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0375821686",
+                    "isbn13": "9780375821684"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2000/11/19/books/children-s-books-one-man-s-family.html"
+                }
+            ],
+            "title": "Jefferson's Children: The Story of One American Family"
+        },
+        {
+            "age_group": null,
+            "author": "Roger W. Wilkins",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0807009571",
+                    "isbn13": "9780807009574"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2001/09/09/books/some-are-more-equal.html"
+                }
+            ],
+            "title": "Jefferson's Pillow: The Founding Fathers and the Dilemma of Black Patriotism"
+        },
+        {
+            "age_group": null,
+            "author": "Burke Davis",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0679724095",
+                    "isbn13": "9780679724094"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1985/05/19/books/in-short-non-fiction-245378.html"
+                }
+            ],
+            "title": "Long Surrender: The Collapse of the Confederacy and the Flight of Jefferson Davis"
+        },
+        {
+            "age_group": "",
+            "author": "Andrew Burstein and Nancy Isenberg",
+            "contributor": "by Andrew Burstein and Nancy Isenberg",
+            "contributor_note": "",
+            "description": "A dual biography of the third and fourth presidents; first published in 2010.",
+            "isbns": [
+                {
+                    "isbn10": "0679604103",
+                    "isbn13": "9780679604105"
+                }
+            ],
+            "price": 0,
+            "publisher": "Random House",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-10-25",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "0679604103",
+                    "primary_isbn13": "9780679604105",
+                    "published_date": "2014-11-09",
+                    "rank": 5,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-10-25",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "0679604103",
+                    "primary_isbn13": "9780679604105",
+                    "published_date": "2014-11-09",
+                    "rank": 11,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "MADISON AND JEFFERSON"
+        },
+        {
+            "age_group": null,
+            "author": "Garry Wills",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0792255607",
+                    "isbn13": "9780792255604"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2002/12/15/books/a-lawn-to-die-for.html"
+                }
+            ],
+            "title": "Mr. Jefferson's University"
+        },
+        {
+            "age_group": null,
+            "author": "Jon Kukla",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1400078571",
+                    "isbn13": "9781400078578"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2007/10/14/books/review/Schiff-t.html"
+                }
+            ],
+            "title": "Mr. Jefferson's Women (Vintage)"
+        },
+        {
+            "age_group": null,
+            "author": "Christopher Hitchens",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1455522996",
+                    "isbn13": "9781455522996"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1999/05/09/books/10000-things-i-hate-about-you.html"
+                }
+            ],
+            "title": "No One Left to Lie To: The Triangulations of William Jefferson Clinton"
+        },
+        {
+            "age_group": null,
+            "author": "Gerald James Holton",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0521272432",
+                    "isbn13": "9780521272438"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1986/10/05/books/science-technology-the-most-beautiful-theories-are-the-truest.html"
+                }
+            ],
+            "title": "The Advancement of Science, and its Burdens: The Jefferson Lecture and Other Essays"
+        },
+        {
+            "age_group": "",
+            "author": "Steve Berry",
+            "contributor": "by Steve Berry",
+            "contributor_note": "",
+            "description": "The former government operative Cotton Malone foils an assassination attempt on the president and finds himself at dangerous odds with a secret society.",
+            "isbns": [
+                {
+                    "isbn10": "0345530160",
+                    "isbn13": "9780345530165"
+                }
+            ],
+            "price": 0,
+            "publisher": "Ballantine",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "THE JEFFERSON KEY"
+        },
+        {
+            "age_group": "",
+            "author": "Steve Berry",
+            "contributor": "by Steve Berry",
+            "contributor_note": "",
+            "description": "The ex-government operative Cotton Malone foils an assassination attempt on the president and finds himself at odds with a secret society.",
+            "isbns": [
+                {
+                    "isbn10": "0345505514",
+                    "isbn13": "9780345505514"
+                },
+                {
+                    "isbn10": "0345505522",
+                    "isbn13": "9780345505521"
+                },
+                {
+                    "isbn10": "0345536754",
+                    "isbn13": "9780345536754"
+                }
+            ],
+            "price": 0,
+            "publisher": "Ballantine",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "THE JEFFERSON KEY"
+        },
+        {
+            "age_group": "",
+            "author": "David Barton",
+            "contributor": "by David Barton",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [
+                {
+                    "isbn10": "1595554599",
+                    "isbn13": "9781595554598"
+                }
+            ],
+            "price": 0,
+            "publisher": "Thomas Nelson",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "THE JEFFERSON LIES"
+        },
+        {
+            "age_group": null,
+            "author": "Conor Cruise O'Brien",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0226616533",
+                    "isbn13": "9780226616537"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1996/11/17/books/in-love-with-revolution.html"
+                }
+            ],
+            "title": "The Long Affair: Thomas Jefferson and the French Revolution, 1785-1800"
+        },
+        {
+            "age_group": null,
+            "author": "Sean Wilentz",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0393329216",
+                    "isbn13": "9780393329216"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2005/11/13/books/review/13wood.html"
+                }
+            ],
+            "title": "The Rise of American Democracy: Jefferson to Lincoln"
+        },
+        {
+            "age_group": null,
+            "author": "Virginia Scharff",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0061227080",
+                    "isbn13": "9780061227080"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2010/12/19/books/review/Wulf-t.html"
+                }
+            ],
+            "title": "The Women Jefferson Loved"
+        },
+        {
+            "age_group": "",
+            "author": "Jon Meacham",
+            "contributor": "by Jon Meacham",
+            "contributor_note": "",
+            "description": "The Pulitzer Prize-winning journalist celebrates Jefferson\u2019s skills as a practical politician.\u00a0",
+            "isbns": [
+                {
+                    "isbn10": "1400067669",
+                    "isbn13": "9781400067664"
+                },
+                {
+                    "isbn10": "0679645365",
+                    "isbn13": "9780679645368"
+                },
+                {
+                    "isbn10": "0307990877",
+                    "isbn13": "9780307990877"
+                },
+                {
+                    "isbn10": "0739334611",
+                    "isbn13": "9780739334614"
+                },
+                {
+                    "isbn10": "0812979486",
+                    "isbn13": "9780812979480"
+                }
+            ],
+            "price": 0,
+            "publisher": "Random House",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-12-28",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "0812979486",
+                    "primary_isbn13": "9780812979480",
+                    "published_date": "2014-01-12",
+                    "rank": 19,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-11-30",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "0812979486",
+                    "primary_isbn13": "9780812979480",
+                    "published_date": "2013-12-15",
+                    "rank": 21,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-11-23",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "0812979486",
+                    "primary_isbn13": "9780812979480",
+                    "published_date": "2013-12-08",
+                    "rank": 24,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-11-16",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "0812979486",
+                    "primary_isbn13": "9780812979480",
+                    "published_date": "2013-12-01",
+                    "rank": 18,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 2
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-11-09",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "0812979486",
+                    "primary_isbn13": "9780812979480",
+                    "published_date": "2013-11-24",
+                    "rank": 22,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-11-02",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "0812979486",
+                    "primary_isbn13": "9780812979480",
+                    "published_date": "2013-11-17",
+                    "rank": 18,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-30",
+                    "dagger": 0,
+                    "display_name": "Politics and American History",
+                    "list_name": "Hardcover Political Books",
+                    "primary_isbn10": "1400067669",
+                    "primary_isbn13": "9781400067664",
+                    "published_date": "2013-04-14",
+                    "rank": 13,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-30",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "1400067669",
+                    "primary_isbn13": "9781400067664",
+                    "published_date": "2013-04-14",
+                    "rank": 26,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 1,
+                    "bestsellers_date": "2013-03-23",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "1400067669",
+                    "primary_isbn13": "9781400067664",
+                    "published_date": "2013-04-07",
+                    "rank": 16,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 16
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-23",
+                    "dagger": 0,
+                    "display_name": "Combined Hardcover & Paperback Nonfiction",
+                    "list_name": "Combined Print Nonfiction",
+                    "primary_isbn10": "1400067669",
+                    "primary_isbn13": "9781400067664",
+                    "published_date": "2013-04-07",
+                    "rank": 26,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-16",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "1400067669",
+                    "primary_isbn13": "9781400067664",
+                    "published_date": "2013-03-31",
+                    "rank": 26,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-16",
+                    "dagger": 0,
+                    "display_name": "Combined Hardcover & Paperback Nonfiction",
+                    "list_name": "Combined Print Nonfiction",
+                    "primary_isbn10": "1400067669",
+                    "primary_isbn13": "9781400067664",
+                    "published_date": "2013-03-31",
+                    "rank": 35,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-09",
+                    "dagger": 0,
+                    "display_name": "Combined Hardcover & Paperback Nonfiction",
+                    "list_name": "Combined Print Nonfiction",
+                    "primary_isbn10": "1400067669",
+                    "primary_isbn13": "9781400067664",
+                    "published_date": "2013-03-24",
+                    "rank": 35,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-09",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "1400067669",
+                    "primary_isbn13": "9781400067664",
+                    "published_date": "2013-03-24",
+                    "rank": 25,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-02",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "1400067669",
+                    "primary_isbn13": "9781400067664",
+                    "published_date": "2013-03-17",
+                    "rank": 25,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-02",
+                    "dagger": 0,
+                    "display_name": "Combined Hardcover & Paperback Nonfiction",
+                    "list_name": "Combined Print Nonfiction",
+                    "primary_isbn10": "1400067669",
+                    "primary_isbn13": "9781400067664",
+                    "published_date": "2013-03-17",
+                    "rank": 33,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2012/11/11/books/review/thomas-jefferson-the-art-of-power-by-jon-meacham.html"
+                }
+            ],
+            "title": "THOMAS JEFFERSON"
+        },
+        {
+            "age_group": "",
+            "author": "Henry Moscow",
+            "contributor": "by Henry Moscow",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [],
+            "price": 0,
+            "publisher": "New Word City",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-03-14",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "None",
+                    "primary_isbn13": "9781612308340",
+                    "published_date": "2015-03-29",
+                    "rank": 11,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-03-14",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "None",
+                    "primary_isbn13": "9781612308340",
+                    "published_date": "2015-03-29",
+                    "rank": 19,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "THOMAS JEFFERSON"
+        }
+    ],
+    "status": "OK"
+}

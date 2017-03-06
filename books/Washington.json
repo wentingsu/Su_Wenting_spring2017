@@ -1,0 +1,797 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 34,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Kevin Phillips",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0316706027",
+                    "isbn13": "9780316706025"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1994/10/23/books/the-stultification-of-washington.html"
+                }
+            ],
+            "title": "Arrogant Capital: Washington, Wall Street, and the Frustration of American Politics"
+        },
+        {
+            "age_group": "",
+            "author": "Glenn Beck and Kevin Balfe",
+            "contributor": "by Glenn Beck and Kevin Balfe",
+            "contributor_note": "",
+            "description": "How Washington turned himself into the indispensable (if imperfect) man.",
+            "isbns": [
+                {
+                    "isbn10": "1451659261",
+                    "isbn13": "9781451659269"
+                },
+                {
+                    "isbn10": "1451659318",
+                    "isbn13": "9781451659313"
+                },
+                {
+                    "isbn10": "1442347449",
+                    "isbn13": "9781442347441"
+                }
+            ],
+            "price": 0,
+            "publisher": "Threshold Editions/Mercury Radio Arts",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "BEING GEORGE WASHINGTON"
+        },
+        {
+            "age_group": null,
+            "author": "Wolf Blitzer",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0195037081",
+                    "isbn13": "9780195037081"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1986/03/09/books/better-than-5-cia-s.html"
+                }
+            ],
+            "title": "Between Washington and Jerusalem: A Reporter's Notebook"
+        },
+        {
+            "age_group": null,
+            "author": "Marcella Comes Winslow",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0807117617",
+                    "isbn13": "9780807117613"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1993/08/01/books/what-the-government-does-at-night.html"
+                }
+            ],
+            "title": "Brushes With the Literary: Letters of a Washington Artist 1943-1959 (Southern Literary Studies)"
+        },
+        {
+            "age_group": null,
+            "author": "Laura Krauss Melmed",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "006113614X",
+                    "isbn13": "9780061136146"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/01/19/books/children-s-books-bookshelf-791563.html"
+                }
+            ],
+            "title": "Capital!: Washington D.C. from A to Z"
+        },
+        {
+            "age_group": null,
+            "author": "Christopher Benfey",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0520218183",
+                    "isbn13": "9780520218185"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1998/01/25/books/coming-to-america.html"
+                }
+            ],
+            "title": "Degas in New Orleans: Encounters in the Creole World of Kate Chopin and George Washington Cable"
+        },
+        {
+            "age_group": null,
+            "author": "Richard Brookhiser",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0684831422",
+                    "isbn13": "9780684831428"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1996/02/18/books/the-indispensable-man.html"
+                }
+            ],
+            "title": "Founding Father: Rediscovering George Washington"
+        },
+        {
+            "age_group": "Ages 10 to 14",
+            "author": "Jack E Levin",
+            "contributor": "by Jack E. Levin",
+            "contributor_note": "",
+            "description": "Washington leads his troops to victory in the Battle of Trenton.\u00a0",
+            "isbns": [
+                {
+                    "isbn10": "1476731934",
+                    "isbn13": "9781476731933"
+                },
+                {
+                    "isbn10": "1476731942",
+                    "isbn13": "9781476731940"
+                }
+            ],
+            "price": 0,
+            "publisher": "Threshold Editions",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "GEORGE WASHINGTON"
+        },
+        {
+            "age_group": null,
+            "author": "Susan Dunn",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0805069364",
+                    "isbn13": "9780805069365"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2004/02/15/books/books-in-brief-nonfiction-274100.html"
+                }
+            ],
+            "title": "George Washington (The American Presidents Series)"
+        },
+        {
+            "age_group": null,
+            "author": "John Hope Franklin",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0226260836",
+                    "isbn13": "9780226260839"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1985/11/17/books/sodlier-scholar-statesman-trickster.html"
+                }
+            ],
+            "title": "George Washington Williams: A Biography"
+        },
+        {
+            "age_group": null,
+            "author": "Margaret McNamara",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0375844996",
+                    "isbn13": "9780375844997"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2012/01/15/books/review/bookshelf-presidents.html"
+                }
+            ],
+            "title": "George Washington's Birthday: A Mostly True Tale"
+        },
+        {
+            "age_group": null,
+            "author": "Robert Darnton",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0393337472",
+                    "isbn13": "9780393337471"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/07/13/books/books-in-brief-nonfiction-373940.html"
+                }
+            ],
+            "title": "George Washington's False Teeth: An Unconventional Guide to the Eighteenth Century"
+        },
+        {
+            "age_group": "",
+            "author": "Brian Kilmeade and Don Yaeger",
+            "contributor": "by Brian Kilmeade and Don Yaeger",
+            "contributor_note": "",
+            "description": "The story of the Culper spy ring, which aided the American cause during the Revolution.",
+            "isbns": [
+                {
+                    "isbn10": "159523103X",
+                    "isbn13": "9781595231031"
+                },
+                {
+                    "isbn10": "1611762278",
+                    "isbn13": "9781611762273"
+                },
+                {
+                    "isbn10": "1595231102",
+                    "isbn13": "9781595231109"
+                },
+                {
+                    "isbn10": "073520943X",
+                    "isbn13": "9780735209435"
+                },
+                {
+                    "isbn10": "0143130609",
+                    "isbn13": "9780143130604"
+                }
+            ],
+            "price": 0,
+            "publisher": "Sentinel",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-12-31",
+                    "dagger": 0,
+                    "display_name": "Espionage",
+                    "list_name": "Espionage",
+                    "primary_isbn10": "0143130609",
+                    "primary_isbn13": "9780143130604",
+                    "published_date": "2017-01-15",
+                    "rank": 3,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-11-26",
+                    "dagger": 0,
+                    "display_name": "Espionage",
+                    "list_name": "Espionage",
+                    "primary_isbn10": "0143130609",
+                    "primary_isbn13": "9780143130604",
+                    "published_date": "2016-12-11",
+                    "rank": 7,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-10-29",
+                    "dagger": 0,
+                    "display_name": "Espionage",
+                    "list_name": "Espionage",
+                    "primary_isbn10": "0143130609",
+                    "primary_isbn13": "9780143130604",
+                    "published_date": "2016-11-13",
+                    "rank": 7,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-09-24",
+                    "dagger": 0,
+                    "display_name": "Espionage",
+                    "list_name": "Espionage",
+                    "primary_isbn10": "1595231102",
+                    "primary_isbn13": "9781595231109",
+                    "published_date": "2016-10-09",
+                    "rank": 10,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-08-27",
+                    "dagger": 0,
+                    "display_name": "Espionage",
+                    "list_name": "Espionage",
+                    "primary_isbn10": "073520943X",
+                    "primary_isbn13": "9780735209435",
+                    "published_date": "2016-09-11",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-07-30",
+                    "dagger": 0,
+                    "display_name": "Espionage",
+                    "list_name": "Espionage",
+                    "primary_isbn10": "073520943X",
+                    "primary_isbn13": "9780735209435",
+                    "published_date": "2016-08-14",
+                    "rank": 2,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-06-25",
+                    "dagger": 0,
+                    "display_name": "Politics and American History",
+                    "list_name": "Hardcover Political Books",
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9780698137653",
+                    "published_date": "2016-07-10",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-06-25",
+                    "dagger": 0,
+                    "display_name": "Espionage",
+                    "list_name": "Espionage",
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9780698137653",
+                    "published_date": "2016-07-10",
+                    "rank": 1,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-06-25",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9780698137653",
+                    "published_date": "2016-07-10",
+                    "rank": 1,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 17
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-06-25",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9780698137653",
+                    "published_date": "2016-07-10",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 15
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-05-28",
+                    "dagger": 0,
+                    "display_name": "Espionage",
+                    "list_name": "Espionage",
+                    "primary_isbn10": "1595231102",
+                    "primary_isbn13": "9781595231109",
+                    "published_date": "2016-06-12",
+                    "rank": 4,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-04-30",
+                    "dagger": 0,
+                    "display_name": "Espionage",
+                    "list_name": "Espionage",
+                    "primary_isbn10": "1595231102",
+                    "primary_isbn13": "9781595231109",
+                    "published_date": "2016-05-15",
+                    "rank": 5,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-01-30",
+                    "dagger": 0,
+                    "display_name": "Espionage",
+                    "list_name": "Espionage",
+                    "primary_isbn10": "1595231102",
+                    "primary_isbn13": "9781595231109",
+                    "published_date": "2016-02-14",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-12-26",
+                    "dagger": 0,
+                    "display_name": "Espionage",
+                    "list_name": "Espionage",
+                    "primary_isbn10": "1595231102",
+                    "primary_isbn13": "9781595231109",
+                    "published_date": "2016-01-10",
+                    "rank": 3,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-11-28",
+                    "dagger": 0,
+                    "display_name": "Espionage",
+                    "list_name": "Espionage",
+                    "primary_isbn10": "1595231102",
+                    "primary_isbn13": "9781595231109",
+                    "published_date": "2015-12-13",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-09-26",
+                    "dagger": 0,
+                    "display_name": "Espionage",
+                    "list_name": "Espionage",
+                    "primary_isbn10": "1595231102",
+                    "primary_isbn13": "9781595231109",
+                    "published_date": "2015-10-11",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-08-29",
+                    "dagger": 0,
+                    "display_name": "Espionage",
+                    "list_name": "Espionage",
+                    "primary_isbn10": "1595231102",
+                    "primary_isbn13": "9781595231109",
+                    "published_date": "2015-09-13",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-07-25",
+                    "dagger": 0,
+                    "display_name": "Espionage",
+                    "list_name": "Espionage",
+                    "primary_isbn10": "1595231102",
+                    "primary_isbn13": "9781595231109",
+                    "published_date": "2015-08-09",
+                    "rank": 7,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-06-27",
+                    "dagger": 0,
+                    "display_name": "Espionage",
+                    "list_name": "Espionage",
+                    "primary_isbn10": "1595231102",
+                    "primary_isbn13": "9781595231109",
+                    "published_date": "2015-07-12",
+                    "rank": 5,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "GEORGE WASHINGTON'S SECRET SIX"
+        },
+        {
+            "age_group": null,
+            "author": "Madeleine Comora",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0312376049",
+                    "isbn13": "9780312376048"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/05/18/books/children-s-books-the-george-washington-bridge.html"
+                }
+            ],
+            "title": "George Washington's Teeth"
+        },
+        {
+            "age_group": null,
+            "author": "Willard Sterne Randall",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "080505992X",
+                    "isbn13": "9780805059922"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1997/11/16/books/the-founding-of-a-father.html"
+                }
+            ],
+            "title": "George Washington: A Life"
+        },
+        {
+            "age_group": "",
+            "author": "Brad Meltzer",
+            "contributor": "by Brad Meltzer. Illustrated by Christopher Eliopoulos",
+            "contributor_note": "Illustrated by Christopher Eliopoulos",
+            "description": "A fresh face on a founding father.",
+            "isbns": [
+                {
+                    "isbn10": "0525428488",
+                    "isbn13": "9780525428480"
+                }
+            ],
+            "price": 0,
+            "publisher": "Dial",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-09-10",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Picture Books",
+                    "list_name": "Picture Books",
+                    "primary_isbn10": "0525428488",
+                    "primary_isbn13": "9780525428480",
+                    "published_date": "2016-09-25",
+                    "rank": 4,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "I AM GEORGE WASHINGTON"
+        },
+        {
+            "age_group": null,
+            "author": "Gore Vidal",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0300105924",
+                    "isbn13": "9780300105926"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/12/14/books/slaves-in-the-family.html"
+                }
+            ],
+            "title": "Inventing a Nation: Washington, Adams, Jefferson (Icons of America)"
+        },
+        {
+            "age_group": null,
+            "author": "Edward G. Lengel",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0061662585",
+                    "isbn13": "9780061662584"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "https://www.nytimes.com/2011/03/22/books/inventing-george-washington-by-edward-g-lengel-review.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "Inventing George Washington: America's Founder, in Myth and Memory"
+        },
+        {
+            "age_group": null,
+            "author": "Michael Kilian",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0312181310",
+                    "isbn13": "9780312181314"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1998/03/15/books/books-in-brief-fiction-891649.html"
+                }
+            ],
+            "title": "Major Washington"
+        },
+        {
+            "age_group": null,
+            "author": "Frances E. Ruffin",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0448424215",
+                    "isbn13": "9780448424217"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2005/09/25/books/review/25kirn.html"
+                }
+            ],
+            "title": "Martin Luther King, Jr. and the March on Washington (Penguin Young Readers, L3)"
+        }
+    ],
+    "status": "OK"
+}

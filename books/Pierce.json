@@ -1,0 +1,123 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 2,
+    "results": [
+        {
+            "age_group": "",
+            "author": "Jacques Lob and Jean-Marc Rochette",
+            "contributor": "by Jacques Lob and Jean-Marc Rochette",
+            "contributor_note": "",
+            "description": "In a post-apocalyptic future, civilization has been destroyed by cold temperatures and the remaining members of humanity live on a train that circles the globe.",
+            "isbns": [
+                {
+                    "isbn10": "1782761330",
+                    "isbn13": "9781782761334"
+                }
+            ],
+            "price": 0,
+            "publisher": "Titan Books Limited",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-07-05",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1782761330",
+                    "primary_isbn13": "9781782761334",
+                    "published_date": "2014-07-20",
+                    "rank": 7,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 5
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-02-22",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1782761330",
+                    "primary_isbn13": "9781782761334",
+                    "published_date": "2014-03-09",
+                    "rank": 10,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 4
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-02-15",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1782761330",
+                    "primary_isbn13": "9781782761334",
+                    "published_date": "2014-03-02",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 3
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-02-08",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1782761330",
+                    "primary_isbn13": "9781782761334",
+                    "published_date": "2014-02-23",
+                    "rank": 10,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 2
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-02-01",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1782761330",
+                    "primary_isbn13": "9781782761334",
+                    "published_date": "2014-02-16",
+                    "rank": 2,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "SNOWPIERCER, VOL. 1"
+        },
+        {
+            "age_group": null,
+            "author": "Nechama Tec",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0195051947",
+                    "isbn13": "9780195051940"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1986/01/12/books/poles-who-saved-jews.html"
+                }
+            ],
+            "title": "When Light Pierced the Darkness: Christian Rescue of Jews in Nazi-Occupied Poland"
+        }
+    ],
+    "status": "OK"
+}

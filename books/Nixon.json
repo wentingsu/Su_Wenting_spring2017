@@ -1,0 +1,585 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 19,
+    "results": [
+        {
+            "age_group": "",
+            "author": "Evan Thomas",
+            "contributor": "by Evan Thomas",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [
+                {
+                    "isbn10": "0812995368",
+                    "isbn13": "9780812995367"
+                }
+            ],
+            "price": 0,
+            "publisher": "Random House",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-07-04",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0812995368",
+                    "primary_isbn13": "9780812995367",
+                    "published_date": "2015-07-19",
+                    "rank": 18,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-06-27",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0812995368",
+                    "primary_isbn13": "9780812995367",
+                    "published_date": "2015-07-12",
+                    "rank": 19,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "BEING NIXON"
+        },
+        {
+            "age_group": null,
+            "author": "Jonathan Lowy",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0609608185",
+                    "isbn13": "9780609608180"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2001/03/04/books/milhous-rock.html"
+                }
+            ],
+            "title": "Elvis and Nixon"
+        },
+        {
+            "age_group": null,
+            "author": "David Gergen",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0743203224",
+                    "isbn13": "9780743203227"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2000/09/17/books/insider.html"
+                }
+            ],
+            "title": "Eyewitness To Power: The Essence of Leadership Nixon to Clinton"
+        },
+        {
+            "age_group": null,
+            "author": "Godfrey Hodgson",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0691127670",
+                    "isbn13": "9780691127675"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2004/08/15/books/books-in-brief-nonfiction-552518.html"
+                }
+            ],
+            "title": "More Equal Than Others: America from Nixon to the New Century (Politics and Society in Twentieth Century America)"
+        },
+        {
+            "age_group": null,
+            "author": "Robert Dallek",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0060722304",
+                    "isbn13": "9780060722302"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2007/05/13/books/review/Lawrence-t.html"
+                }
+            ],
+            "title": "Nixon and Kissinger: Partners in Power"
+        },
+        {
+            "age_group": null,
+            "author": "Margaret MacMillan",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0812970578",
+                    "isbn13": "9780812970579"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2007/02/25/books/review/Gaddis.t.html"
+                }
+            ],
+            "title": "Nixon and Mao: The Week That Changed the World"
+        },
+        {
+            "age_group": null,
+            "author": "Mark Feeney",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0226239683",
+                    "isbn13": "9780226239682"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "https://www.nytimes.com/2004/12/12/books/review/12GEWENL.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "Nixon at the Movies: A Book about Belief"
+        },
+        {
+            "age_group": null,
+            "author": "Monica Crowley",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0679456953",
+                    "isbn13": "9780679456957"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1998/06/14/books/let-me-say-this-about-that.html"
+                }
+            ],
+            "title": "Nixon in Winter : His Final Revelations about Diplomacy, Watergate, and Life out of the Arena"
+        },
+        {
+            "age_group": null,
+            "author": "Monica Crowley",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0375751351",
+                    "isbn13": "9780375751356"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1996/08/25/books/final-judgments.html"
+                }
+            ],
+            "title": "Nixon Off the Record : His Candid Commentary on People and Politics"
+        },
+        {
+            "age_group": null,
+            "author": "David Greenberg",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0393326160",
+                    "isbn13": "9780393326161"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/11/16/books/the-man-in-the-mask.html"
+                }
+            ],
+            "title": "Nixon's Shadow: The History of an Image"
+        },
+        {
+            "age_group": null,
+            "author": "Jonathan Aitken",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0895267209",
+                    "isbn13": "9780895267207"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1994/05/08/books/accentuating-the-positive.html"
+                }
+            ],
+            "title": "Nixon: A Life"
+        },
+        {
+            "age_group": "",
+            "author": "Rick Perlstein",
+            "contributor": "by Rick Perlstein",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [],
+            "price": 0,
+            "publisher": "Simon & Schuster",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2008-05-31",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0743243021",
+                    "primary_isbn13": "9780743243025",
+                    "published_date": "2008-06-15",
+                    "rank": 31,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2008-05-24",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0743243021",
+                    "primary_isbn13": "9780743243025",
+                    "published_date": "2008-06-08",
+                    "rank": 23,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "NIXONLAND"
+        },
+        {
+            "age_group": null,
+            "author": "Larry Berman",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0684849682",
+                    "isbn13": "9780684849683"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2001/08/12/books/read-their-lips.html"
+                }
+            ],
+            "title": "No Peace, No Honor: Nixon, Kissinger, and Betrayal in Vietnam"
+        },
+        {
+            "age_group": null,
+            "author": "Julie Nixon Eisenhower",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0671244248",
+                    "isbn13": "9780671244248"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1986/11/30/books/politician-s-wife-toughing-it-out.html"
+                }
+            ],
+            "title": "Pat Nixon: The Untold Story"
+        },
+        {
+            "age_group": null,
+            "author": "Richard Reeves",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0743227190",
+                    "isbn13": "9780743227193"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2001/10/14/books/tricky-bic.html"
+                }
+            ],
+            "title": "President Nixon: Alone in the White House"
+        },
+        {
+            "age_group": null,
+            "author": "William P. Bundy",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0809091518",
+                    "isbn13": "9780809091515"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1998/05/24/books/practiced-deception.html"
+                }
+            ],
+            "title": "Tangled Web: The Making of Foreign Policy in the Nixon Presidency"
+        },
+        {
+            "age_group": "",
+            "author": "John W Dean",
+            "contributor": "by John W. Dean",
+            "contributor_note": "",
+            "description": "The onetime White House lawyer discusses what Nixon knew and when he knew it, based on the Oval Office tapes.\u00a0",
+            "isbns": [
+                {
+                    "isbn10": "0670025364",
+                    "isbn13": "9780670025367"
+                }
+            ],
+            "price": 0,
+            "publisher": "Viking",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-08-16",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0670025364",
+                    "primary_isbn13": "9780670025367",
+                    "published_date": "2014-08-31",
+                    "rank": 23,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-08-09",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0670025364",
+                    "primary_isbn13": "9780670025367",
+                    "published_date": "2014-08-24",
+                    "rank": 15,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-08-02",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0670025364",
+                    "primary_isbn13": "9780670025367",
+                    "published_date": "2014-08-17",
+                    "rank": 19,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "https://www.nytimes.com/2014/07/28/books/in-the-nixon-defense-john-w-dean-returns-to-watergate.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2014/08/10/books/review/the-nixon-tapes-1971-1972-and-the-nixon-defense.html"
+                }
+            ],
+            "title": "THE NIXON DEFENSE"
+        },
+        {
+            "age_group": "",
+            "author": "Douglas Brinkley and Luke A Nichter",
+            "contributor": "by Douglas Brinkley and Luke A. Nichter",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [
+                {
+                    "isbn10": "0544274156",
+                    "isbn13": "9780544274150"
+                }
+            ],
+            "price": 0,
+            "publisher": "Houghton Mifflin Harcourt",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-08-02",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0544274156",
+                    "primary_isbn13": "9780544274150",
+                    "published_date": "2014-08-17",
+                    "rank": 17,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2014/08/10/books/review/the-nixon-tapes-1971-1972-and-the-nixon-defense.html"
+                }
+            ],
+            "title": "THE NIXON TAPES"
+        },
+        {
+            "age_group": null,
+            "author": "Gayle Radley Teicher",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0688112544",
+                    "isbn13": "9780688112547"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1993/05/09/books/wobbly-lines-in-the-sand.html"
+                }
+            ],
+            "title": "Twin Pillars to Desert Storm: America's Flawed Vision in the Middle East from Nixon to Bush"
+        }
+    ],
+    "status": "OK"
+}

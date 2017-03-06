@@ -1,0 +1,57 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 2,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Carol Polsgrove",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0393037924",
+                    "isbn13": "9780393037920"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1995/08/13/books/there-goes-varoom-esquire-magazine.html"
+                }
+            ],
+            "title": "It Wasn't Pretty, Folks, But Didn't We Have Fun?: Surviving the '60s with Esquire's Harold Hayes"
+        },
+        {
+            "age_group": null,
+            "author": "Steven DeRosa",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0983205604",
+                    "isbn13": "9780983205609"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2001/10/28/books/books-in-brief-nonfiction-738220.html"
+                }
+            ],
+            "title": "Writing with Hitchcock: The Collaboration of Alfred Hitchcock and John Michael Hayes"
+        }
+    ],
+    "status": "OK"
+}

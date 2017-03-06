@@ -1,0 +1,750 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 30,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Rachel L. Swarns",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0061999873",
+                    "isbn13": "9780061999871"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2012/06/17/books/review/american-tapestry-by-rachel-l-swarns.html"
+                }
+            ],
+            "title": "American Tapestry: The Story of the Black, White, and Multiracial Ancestors of Michelle Obama (P.S.)"
+        },
+        {
+            "age_group": "Ages 7 to 9",
+            "author": "Roberta Edwards",
+            "contributor": "by Roberta Edwards. Illustrated by Ken Call",
+            "contributor_note": "Illustrated by Ken Call",
+            "description": "A biography of the \u201cskinny kid\u201d president-elect.",
+            "isbns": [],
+            "price": 3.99,
+            "publisher": "Grosset & Dunlap",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "BARACK OBAMA"
+        },
+        {
+            "age_group": "",
+            "author": "David Maraniss",
+            "contributor": "by David Maraniss",
+            "contributor_note": "",
+            "description": "An account of the president\u2019s family background and coming-of- age shows the forces that shaped him.",
+            "isbns": [
+                {
+                    "isbn10": "1439160406",
+                    "isbn13": "9781439160404"
+                },
+                {
+                    "isbn10": "1439167532",
+                    "isbn13": "9781439167533"
+                },
+                {
+                    "isbn10": "1442348321",
+                    "isbn13": "9781442348325"
+                },
+                {
+                    "isbn10": "1439160414",
+                    "isbn13": "9781439160411"
+                }
+            ],
+            "price": 32.5,
+            "publisher": "Simon & Schuster",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "https://www.nytimes.com/2012/06/05/books/barack-obama-the-story-by-david-maraniss.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2012/06/17/books/review/barack-obama-by-david-maraniss.html"
+                }
+            ],
+            "title": "BARACK OBAMA"
+        },
+        {
+            "age_group": "",
+            "author": "Barack Obama",
+            "contributor": "by Barack Obama. Edited by Lisa Rogak",
+            "contributor_note": "Edited by Lisa Rogak",
+            "description": "",
+            "isbns": [],
+            "price": 0,
+            "publisher": "PublicAffairs",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "BARACK OBAMA IN HIS OWN WORDS"
+        },
+        {
+            "age_group": "Ages 5 to 10",
+            "author": "Nikki Grimes",
+            "contributor": "by Nikki Grimes. Illustrated by Bryan Collier",
+            "contributor_note": "Illustrated by Bryan Collier",
+            "description": "Yes, he can; a children\u2019s biography of the president-elect.",
+            "isbns": [],
+            "price": 16.99,
+            "publisher": "Simon & Schuster",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2008/10/12/books/review/Handy-t.html"
+                }
+            ],
+            "title": "BARACK OBAMA: SON OF PROMISE, CHILD OF HOPE"
+        },
+        {
+            "age_group": "",
+            "author": "Betsy McCaughey",
+            "contributor": "by Betsy McCaughey",
+            "contributor_note": "",
+            "description": "A handbook on the health care law from one of its critics.",
+            "isbns": [
+                {
+                    "isbn10": "1621570797",
+                    "isbn13": "9781621570790"
+                }
+            ],
+            "price": 0,
+            "publisher": "Regnery",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-23",
+                    "dagger": 0,
+                    "display_name": "Paperback Advice & Misc.",
+                    "list_name": "Paperback Advice",
+                    "primary_isbn10": "1621570797",
+                    "primary_isbn13": "9781621570790",
+                    "published_date": "2013-04-07",
+                    "rank": 13,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-16",
+                    "dagger": 0,
+                    "display_name": "Paperback Advice & Misc.",
+                    "list_name": "Paperback Advice",
+                    "primary_isbn10": "1621570797",
+                    "primary_isbn13": "9781621570790",
+                    "published_date": "2013-03-31",
+                    "rank": 14,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-09",
+                    "dagger": 1,
+                    "display_name": "Paperback Advice & Misc.",
+                    "list_name": "Paperback Advice",
+                    "primary_isbn10": "1621570797",
+                    "primary_isbn13": "9781621570790",
+                    "published_date": "2013-03-24",
+                    "rank": 10,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 4
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "BEATING OBAMACARE"
+        },
+        {
+            "age_group": null,
+            "author": "David E. Sanger",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0307718034",
+                    "isbn13": "9780307718037"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "https://www.nytimes.com/2012/06/06/books/confront-and-conceal-by-david-sanger.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2012/07/15/books/review/confront-and-conceal-by-david-sanger.html"
+                }
+            ],
+            "title": "Confront and Conceal: Obama's Secret Wars and Surprising Use of American Power"
+        },
+        {
+            "age_group": null,
+            "author": "Charles R. Kesler",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "006207296X",
+                    "isbn13": "9780062072962"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2012/09/30/books/review/the-great-disconnect.html"
+                }
+            ],
+            "title": "I Am the Change: Barack Obama and the Crisis of Liberalism"
+        },
+        {
+            "age_group": "Ages 9 to 12",
+            "author": "David Colbert",
+            "contributor": "by David Colbert",
+            "contributor_note": "",
+            "description": "A life in context.",
+            "isbns": [],
+            "price": 16,
+            "publisher": "Houghton Mifflin",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "MICHELLE OBAMA: AN AMERICAN STORY"
+        },
+        {
+            "age_group": "",
+            "author": "with an introduction  Bill Keller and biographical text  Jill Abramson",
+            "contributor": "with an introduction by Bill Keller and biographical text by Jill Abramson",
+            "contributor_note": "",
+            "description": "The journey to the White House, with commentary, photographs and graphics from members of the New York Times staff.",
+            "isbns": [],
+            "price": 40,
+            "publisher": "Callaway",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "OBAMA"
+        },
+        {
+            "age_group": "",
+            "author": "Deborah Willis and Kevin Merida",
+            "contributor": "by Deborah Willis and Kevin Merida",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [],
+            "price": 0,
+            "publisher": "Amistad",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "OBAMA"
+        },
+        {
+            "age_group": "",
+            "author": "Jason Mattera",
+            "contributor": "by Jason Mattera",
+            "contributor_note": "",
+            "description": "How Obama and his allies staged a high-tech assault to capture the minds of young Americans.",
+            "isbns": [
+                {
+                    "isbn10": "1439172072",
+                    "isbn13": "9781439172070"
+                }
+            ],
+            "price": 0,
+            "publisher": "Threshold",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "OBAMA ZOMBIES"
+        },
+        {
+            "age_group": "",
+            "author": "Dinesh D'Souza",
+            "contributor": "by Dinesh D'Souza",
+            "contributor_note": "",
+            "description": "An argument that President Obama is the architect of American decline.",
+            "isbns": [
+                {
+                    "isbn10": "1596987782",
+                    "isbn13": "9781596987784"
+                },
+                {
+                    "isbn10": "1596983167",
+                    "isbn13": "9781596983168"
+                }
+            ],
+            "price": 27.95,
+            "publisher": "Regnery",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "OBAMA'S AMERICA"
+        },
+        {
+            "age_group": "",
+            "author": "Glenn Thrush",
+            "contributor": "by Glenn Thrush",
+            "contributor_note": "",
+            "description": "A reporter chronicles the president\u2019s re-election battle; the third edition of Politico\u2019s \u201cPlaybook 2012,\u201d four digital books on the 2012 election.",
+            "isbns": [
+                {
+                    "isbn10": "0679645098",
+                    "isbn13": "9780679645092"
+                }
+            ],
+            "price": 0,
+            "publisher": "Random House Publishing",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "OBAMA'S LAST STAND"
+        },
+        {
+            "age_group": "",
+            "author": "Bob Woodward",
+            "contributor": "by Bob Woodward",
+            "contributor_note": "",
+            "description": "The inside story of how decisions were made on Afghanistan, on Pakistan and on the fight against terrorism.",
+            "isbns": [
+                {
+                    "isbn10": "1439172498",
+                    "isbn13": "9781439172490"
+                },
+                {
+                    "isbn10": "1439172501",
+                    "isbn13": "9781439172506"
+                }
+            ],
+            "price": 0,
+            "publisher": "Simon & Schuster",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "OBAMA'S WARS"
+        },
+        {
+            "age_group": "",
+            "author": "David Mendell",
+            "contributor": "by David Mendell",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [
+                {
+                    "isbn10": "0061750972",
+                    "isbn13": "9780061750977"
+                }
+            ],
+            "price": 0,
+            "publisher": "Amistad",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-03-28",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "0061750972",
+                    "primary_isbn13": "9780061750977",
+                    "published_date": "2015-04-12",
+                    "rank": 13,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "OBAMA: FROM PROMISE TO POWER"
+        },
+        {
+            "age_group": "",
+            "author": "Nick Tate",
+            "contributor": "by Nick Tate",
+            "contributor_note": "",
+            "description": "An explanation of and arguments against the Affordable Care Act.",
+            "isbns": [
+                {
+                    "isbn10": "0893348627",
+                    "isbn13": "9780893348625"
+                }
+            ],
+            "price": 0,
+            "publisher": "Humanix",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-06-22",
+                    "dagger": 1,
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "primary_isbn10": "0893348627",
+                    "primary_isbn13": "9780893348625",
+                    "published_date": "2013-07-07",
+                    "rank": 15,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 11
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-06-15",
+                    "dagger": 1,
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "primary_isbn10": "0893348627",
+                    "primary_isbn13": "9780893348625",
+                    "published_date": "2013-06-30",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 10
+                },
+                {
+                    "asterisk": 1,
+                    "bestsellers_date": "2013-06-08",
+                    "dagger": 1,
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "primary_isbn10": "0893348627",
+                    "primary_isbn13": "9780893348625",
+                    "published_date": "2013-06-23",
+                    "rank": 13,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 9
+                },
+                {
+                    "asterisk": 1,
+                    "bestsellers_date": "2013-06-01",
+                    "dagger": 1,
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "primary_isbn10": "0893348627",
+                    "primary_isbn13": "9780893348625",
+                    "published_date": "2013-06-16",
+                    "rank": 13,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 8
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-05-25",
+                    "dagger": 1,
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "primary_isbn10": "0893348627",
+                    "primary_isbn13": "9780893348625",
+                    "published_date": "2013-06-09",
+                    "rank": 12,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 7
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-05-18",
+                    "dagger": 1,
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "primary_isbn10": "0893348627",
+                    "primary_isbn13": "9780893348625",
+                    "published_date": "2013-06-02",
+                    "rank": 10,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 6
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-05-11",
+                    "dagger": 1,
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "primary_isbn10": "0893348627",
+                    "primary_isbn13": "9780893348625",
+                    "published_date": "2013-05-26",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 5
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-05-04",
+                    "dagger": 1,
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "primary_isbn10": "0893348627",
+                    "primary_isbn13": "9780893348625",
+                    "published_date": "2013-05-19",
+                    "rank": 10,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 4
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-04-27",
+                    "dagger": 1,
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "primary_isbn10": "0893348627",
+                    "primary_isbn13": "9780893348625",
+                    "published_date": "2013-05-12",
+                    "rank": 10,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 3
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-04-20",
+                    "dagger": 1,
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "primary_isbn10": "0893348627",
+                    "primary_isbn13": "9780893348625",
+                    "published_date": "2013-05-05",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 2
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-04-13",
+                    "dagger": 1,
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "primary_isbn10": "0893348627",
+                    "primary_isbn13": "9780893348625",
+                    "published_date": "2013-04-28",
+                    "rank": 5,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-04-06",
+                    "dagger": 1,
+                    "display_name": "Paperback Advice & Misc.",
+                    "list_name": "Paperback Advice",
+                    "primary_isbn10": "0893348627",
+                    "primary_isbn13": "9780893348625",
+                    "published_date": "2013-04-21",
+                    "rank": 1,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 10
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-30",
+                    "dagger": 1,
+                    "display_name": "Paperback Advice & Misc.",
+                    "list_name": "Paperback Advice",
+                    "primary_isbn10": "0893348627",
+                    "primary_isbn13": "9780893348625",
+                    "published_date": "2013-04-14",
+                    "rank": 3,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 9
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-23",
+                    "dagger": 1,
+                    "display_name": "Paperback Advice & Misc.",
+                    "list_name": "Paperback Advice",
+                    "primary_isbn10": "0893348627",
+                    "primary_isbn13": "9780893348625",
+                    "published_date": "2013-04-07",
+                    "rank": 2,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 8
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-16",
+                    "dagger": 1,
+                    "display_name": "Paperback Advice & Misc.",
+                    "list_name": "Paperback Advice",
+                    "primary_isbn10": "0893348627",
+                    "primary_isbn13": "9780893348625",
+                    "published_date": "2013-03-31",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 7
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-09",
+                    "dagger": 1,
+                    "display_name": "Paperback Advice & Misc.",
+                    "list_name": "Paperback Advice",
+                    "primary_isbn10": "0893348627",
+                    "primary_isbn13": "9780893348625",
+                    "published_date": "2013-03-24",
+                    "rank": 3,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 6
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "OBAMACARE SURVIVAL GUIDE"
+        },
+        {
+            "age_group": "",
+            "author": "Robert Kuttner",
+            "contributor": "by Robert Kuttner",
+            "contributor_note": "",
+            "description": "How the next president should handle the current economic crisis.",
+            "isbns": [],
+            "price": 14.95,
+            "publisher": "Chelsea Green",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "OBAMA\u2019S CHALLENGE"
+        },
+        {
+            "age_group": "",
+            "author": "the Poynter Institute",
+            "contributor": "by the Poynter Institute",
+            "contributor_note": "",
+            "description": "A collection of more than 75 newspaper front pages from Nov. 5, 2008.",
+            "isbns": [],
+            "price": 0,
+            "publisher": "Andrews McMeel",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "PRESIDENT OBAMA"
+        },
+        {
+            "age_group": null,
+            "author": "Edward Klein",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1455134767",
+                    "isbn13": "9781455134762"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "https://www.nytimes.com/2012/05/17/books/edward-kleins-invective-laden-obama-book.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "The Amateur: Barack Obama in the White House"
+        }
+    ],
+    "status": "OK"
+}

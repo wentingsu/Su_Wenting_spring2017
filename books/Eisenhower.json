@@ -1,0 +1,282 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 9,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Stanley Weintraub",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0451223926",
+                    "isbn13": "9780451223920"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2007/08/05/books/review/05besc.html"
+                }
+            ],
+            "title": "15 Stars: Eisenhower, MacArthur, Marshall: Three Generals Who Saved the American Century"
+        },
+        {
+            "age_group": null,
+            "author": "Tom Wicker",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0805069070",
+                    "isbn13": "9780805069075"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2002/11/24/books/i-like-ike-sort-of.html"
+                }
+            ],
+            "title": "Dwight D. Eisenhower"
+        },
+        {
+            "age_group": "",
+            "author": "Stephen E Ambrose",
+            "contributor": "by Stephen E. Ambrose",
+            "contributor_note": "",
+            "description": "A biography of the soldier and president; first published in 1990.",
+            "isbns": [],
+            "price": 0,
+            "publisher": "Premier Digital Publishing",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-09-21",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "None",
+                    "primary_isbn13": "9781624671098",
+                    "published_date": "2013-10-06",
+                    "rank": 21,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "EISENHOWER"
+        },
+        {
+            "age_group": null,
+            "author": "Geoffrey Perret",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0375500464",
+                    "isbn13": "9780375500466"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1999/10/24/books/soldier-president.html"
+                }
+            ],
+            "title": "Eisenhower"
+        },
+        {
+            "age_group": null,
+            "author": "David Eisenhower",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0517065010",
+                    "isbn13": "9780517065013"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1986/09/14/books/no-headline-983286.html"
+                }
+            ],
+            "title": "Eisenhower at War 1943-1945"
+        },
+        {
+            "age_group": "",
+            "author": "Jean Edward Smith",
+            "contributor": "by Jean Edward Smith",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [
+                {
+                    "isbn10": "140006693X",
+                    "isbn13": "9781400066933"
+                }
+            ],
+            "price": 0,
+            "publisher": "Random House",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2012-02-25",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "140006693X",
+                    "primary_isbn13": "9781400066933",
+                    "published_date": "2012-03-11",
+                    "rank": 20,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2012-02-25",
+                    "dagger": 0,
+                    "display_name": "Combined Hardcover & Paperback Nonfiction",
+                    "list_name": "Combined Print Nonfiction",
+                    "primary_isbn10": "140006693X",
+                    "primary_isbn13": "9781400066933",
+                    "published_date": "2012-03-11",
+                    "rank": 24,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "https://www.nytimes.com/2012/04/22/books/review/eisenhower-in-war-and-peace-by-jean-edward-smith.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2012/04/22/books/review/eisenhower-in-war-and-peace-by-jean-edward-smith.html"
+                }
+            ],
+            "title": "EISENHOWER IN WAR AND PEACE"
+        },
+        {
+            "age_group": null,
+            "author": "Carlo D'Este",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0805056874",
+                    "isbn13": "9780805056877"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2002/07/28/books/the-hardest-job-on-the-longest-day.html"
+                }
+            ],
+            "title": "Eisenhower: A Soldier's Life"
+        },
+        {
+            "age_group": "",
+            "author": "Jim Newton",
+            "contributor": "by Jim Newton",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [
+                {
+                    "isbn10": "038552353X",
+                    "isbn13": "9780385523530"
+                }
+            ],
+            "price": 0,
+            "publisher": "Doubleday",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2011-10-15",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "038552353X",
+                    "primary_isbn13": "9780385523530",
+                    "published_date": "2011-10-30",
+                    "rank": 28,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "EISENHOWER: THE WHITE HOUSE YEARS"
+        },
+        {
+            "age_group": null,
+            "author": "Philip Taubman",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0684856999",
+                    "isbn13": "9780684856995"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "https://www.nytimes.com/2003/04/02/books/books-of-the-times-spies-in-the-skies-both-a-savior-and-a-disaster.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/03/23/books/a-revolution-in-snooping.html"
+                }
+            ],
+            "title": "Secret Empire: Eisenhower, the CIA, and the Hidden Story of America's Space Espionage"
+        }
+    ],
+    "status": "OK"
+}

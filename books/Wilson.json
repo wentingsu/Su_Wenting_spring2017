@@ -1,0 +1,634 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 14,
+    "results": [
+        {
+            "age_group": null,
+            "author": "James Chace",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0743273559",
+                    "isbn13": "9780743273558"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2004/05/09/books/the-making-of-the-president-1912.html"
+                }
+            ],
+            "title": "1912: Wilson, Roosevelt, Taft and Debs--The Election that Changed the Country"
+        },
+        {
+            "age_group": null,
+            "author": "Margaret Drabble",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0312167741",
+                    "isbn13": "9780312167745"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1996/08/11/books/baby-wants-to-go-to-monte-carlo.html"
+                }
+            ],
+            "title": "Angus Wilson: A Biography"
+        },
+        {
+            "age_group": null,
+            "author": "George Crile",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0871138549",
+                    "isbn13": "9780871138545"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/05/25/books/wilson-the-warrior.html"
+                }
+            ],
+            "title": "By George Crile: Charlie Wilson's War: The Extraordinary Story of the Largest Covert Operation in History"
+        },
+        {
+            "age_group": null,
+            "author": "Peter Ames Carlin",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1594867496",
+                    "isbn13": "9781594867491"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2006/07/23/books/review/23handy.html"
+                }
+            ],
+            "title": "Catch a Wave: The Rise, Fall, and Redemption of the Beach Boys' Brian Wilson"
+        },
+        {
+            "age_group": "",
+            "author": "George Crile",
+            "contributor": "by George Crile",
+            "contributor_note": "",
+            "description": "A chronicle of a congressman\u2019s efforts in the 1980s to steer billions to the anti-Soviet side in Afghanistan.",
+            "isbns": [
+                {
+                    "isbn10": "1555848095",
+                    "isbn13": "9781555848095"
+                }
+            ],
+            "price": 0,
+            "publisher": "Grove",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-03-07",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "1555848095",
+                    "primary_isbn13": "9781555848095",
+                    "published_date": "2015-03-22",
+                    "rank": 5,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-03-07",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "1555848095",
+                    "primary_isbn13": "9781555848095",
+                    "published_date": "2015-03-22",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "CHARLIE WILSON'S WAR"
+        },
+        {
+            "age_group": null,
+            "author": "Janet Groth",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1593760507",
+                    "isbn13": "9781593760502"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1985/07/28/books/the-last-of-the-big-time-polymaths.html"
+                }
+            ],
+            "title": "Critic in Love: A Romantic Biography of Edmund Wilson"
+        },
+        {
+            "age_group": "",
+            "author": "Brian Wilson and Ben Greenman",
+            "contributor": "by Brian Wilson and Ben Greenman",
+            "contributor_note": "",
+            "description": "A memoir by the Beach Boys co-founder describes his upbringing by an abusive father, his long struggle with mental illness and the production of the Beach Boys\u2019 music.",
+            "isbns": [
+                {
+                    "isbn10": "0306823063",
+                    "isbn13": "9780306823060"
+                },
+                {
+                    "isbn10": "0306823071",
+                    "isbn13": "9780306823077"
+                }
+            ],
+            "price": 0,
+            "publisher": "Da Capo",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-10-29",
+                    "dagger": 0,
+                    "display_name": "Celebrities",
+                    "list_name": "Celebrities",
+                    "primary_isbn10": "0306823063",
+                    "primary_isbn13": "9780306823060",
+                    "published_date": "2016-11-13",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-10-15",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "0306823063",
+                    "primary_isbn13": "9780306823060",
+                    "published_date": "2016-10-30",
+                    "rank": 13,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-10-15",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0306823063",
+                    "primary_isbn13": "9780306823060",
+                    "published_date": "2016-10-30",
+                    "rank": 12,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-10-15",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "0306823071",
+                    "primary_isbn13": "9780306823077",
+                    "published_date": "2016-10-30",
+                    "rank": 14,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "I AM BRIAN WILSON"
+        },
+        {
+            "age_group": "",
+            "author": "Charlie Wilson with Denene Millner",
+            "contributor": "by Charlie Wilson with Denene Millner",
+            "contributor_note": "",
+            "description": "The memoir of the seven-time Grammy Award-nominated Rhythm and Blues composer and performer.",
+            "isbns": [
+                {
+                    "isbn10": "1476790078",
+                    "isbn13": "9781476790077"
+                }
+            ],
+            "price": 0,
+            "publisher": "Atria",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-07-25",
+                    "dagger": 0,
+                    "display_name": "Celebrities",
+                    "list_name": "Celebrities",
+                    "primary_isbn10": "1476790078",
+                    "primary_isbn13": "9781476790077",
+                    "published_date": "2015-08-09",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "I AM CHARLIE WILSON"
+        },
+        {
+            "age_group": null,
+            "author": "Lawrence Weschler",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0679764895",
+                    "isbn13": "9780679764892"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1995/10/29/books/true-lies.html"
+                }
+            ],
+            "title": "Mr. Wilson's Cabinet of Wonder: Pronged Ants, Horned Humans, Mice on Toast, and Other Marvels of Jurassic Technology"
+        },
+        {
+            "age_group": null,
+            "author": "Susan Cheever",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0743405919",
+                    "isbn13": "9780743405911"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2004/03/21/books/found-in-a-bottle.html"
+                }
+            ],
+            "title": "My Name Is Bill: Bill Wilson--His Life and the Creation of Alcoholics Anonymous"
+        },
+        {
+            "age_group": null,
+            "author": "John Milton Cooper Jr.",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0674947517",
+                    "isbn13": "9780674947511"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1983/11/20/books/the-similarities-are-surprising.html"
+                }
+            ],
+            "title": "The Warrior and the Priest: Woodrow Wilson and Theodore Roosevelt"
+        },
+        {
+            "age_group": "",
+            "author": "A Scott Berg",
+            "contributor": "by A. Scott Berg",
+            "contributor_note": "",
+            "description": "A new biography of the 28th president.",
+            "isbns": [
+                {
+                    "isbn10": "0399159215",
+                    "isbn13": "9780399159213"
+                },
+                {
+                    "isbn10": "1442365900",
+                    "isbn13": "9781442365902"
+                },
+                {
+                    "isbn10": "1442365870",
+                    "isbn13": "9781442365872"
+                }
+            ],
+            "price": 0,
+            "publisher": "Putnam",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-10-05",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0399159215",
+                    "primary_isbn13": "9780399159213",
+                    "published_date": "2013-10-20",
+                    "rank": 23,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 1,
+                    "bestsellers_date": "2013-09-28",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0399159215",
+                    "primary_isbn13": "9780399159213",
+                    "published_date": "2013-10-13",
+                    "rank": 13,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 3
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-09-28",
+                    "dagger": 0,
+                    "display_name": "Politics and American History",
+                    "list_name": "Hardcover Political Books",
+                    "primary_isbn10": "0399159215",
+                    "primary_isbn13": "9780399159213",
+                    "published_date": "2013-10-13",
+                    "rank": 5,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-09-21",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0399159215",
+                    "primary_isbn13": "9780399159213",
+                    "published_date": "2013-10-06",
+                    "rank": 13,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 2
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-09-14",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "0399159215",
+                    "primary_isbn13": "9780399159213",
+                    "published_date": "2013-09-29",
+                    "rank": 12,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-09-14",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0399159215",
+                    "primary_isbn13": "9780399159213",
+                    "published_date": "2013-09-29",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-09-14",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "None",
+                    "primary_isbn13": "9781101636411",
+                    "published_date": "2013-09-29",
+                    "rank": 20,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2013/09/22/books/review/wilson-by-a-scott-berg.html"
+                }
+            ],
+            "title": "WILSON"
+        },
+        {
+            "age_group": "",
+            "author": "Daniel Clowes",
+            "contributor": "by Daniel Clowes",
+            "contributor_note": "",
+            "description": "\"Meet Wilson, an opinionated middle-aged loner who loves his dog and quite possibly no one else.\"",
+            "isbns": [
+                {
+                    "isbn10": "1770460071",
+                    "isbn13": "9781770460072"
+                }
+            ],
+            "price": 21.95,
+            "publisher": "Drawn & Quarterly",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2010-07-11",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460071",
+                    "primary_isbn13": "9781770460072",
+                    "published_date": "2010-07-25",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 8
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2010-06-27",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460071",
+                    "primary_isbn13": "9781770460072",
+                    "published_date": "2010-07-11",
+                    "rank": 7,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 7
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2010-06-13",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460071",
+                    "primary_isbn13": "9781770460072",
+                    "published_date": "2010-06-27",
+                    "rank": 3,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 6
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2010-06-06",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460071",
+                    "primary_isbn13": "9781770460072",
+                    "published_date": "2010-06-20",
+                    "rank": 5,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 5
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2010-05-30",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460071",
+                    "primary_isbn13": "9781770460072",
+                    "published_date": "2010-06-13",
+                    "rank": 7,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 4
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2010-05-23",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1770460071",
+                    "primary_isbn13": "9781770460072",
+                    "published_date": "2010-06-06",
+                    "rank": 5,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 3
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2010/07/04/books/review/Lipsyte-t.html"
+                }
+            ],
+            "title": "WILSON"
+        },
+        {
+            "age_group": null,
+            "author": "Louis Auchincloss",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0670889040",
+                    "isbn13": "9780670889044"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2000/04/09/books/mr-wilson-goes-to-washington.html"
+                }
+            ],
+            "title": "Woodrow Wilson (Penguin Lives Biographies)"
+        }
+    ],
+    "status": "OK"
+}

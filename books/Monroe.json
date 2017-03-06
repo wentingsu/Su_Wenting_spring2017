@@ -1,0 +1,305 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 7,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Fred Lawrence Guiles",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0812829832",
+                    "isbn13": "9780812829839"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1985/02/03/books/naming-names.html"
+                }
+            ],
+            "title": "Legend: The Life and Death of Marilyn Monroe"
+        },
+        {
+            "age_group": null,
+            "author": "Barbara Leaming",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0609805533",
+                    "isbn13": "9780609805534"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1998/11/22/books/engineering-an-icon.html"
+                }
+            ],
+            "title": "Marilyn Monroe"
+        },
+        {
+            "age_group": null,
+            "author": "Lois Banner",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1608195317",
+                    "isbn13": "9781608195312"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2012/08/05/books/review/marilyn-by-lois-banner.html"
+                }
+            ],
+            "title": "MM-Personal: From the Private Archive of Marilyn Monroe"
+        },
+        {
+            "age_group": null,
+            "author": "Gaddis Smith",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0809064758",
+                    "isbn13": "9780809064755"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1994/08/21/books/mr-monroe-s-neighborhood.html"
+                }
+            ],
+            "title": "The Last Years of the Monroe Doctrine 1945-1993"
+        },
+        {
+            "age_group": null,
+            "author": "Sarah Churchwell",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0312425651",
+                    "isbn13": "9780312425654"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "https://www.nytimes.com/2005/03/06/books/review/006SCOTTL.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "The Many Lives of Marilyn Monroe"
+        },
+        {
+            "age_group": "",
+            "author": "Jay Margolis and Richard Buskin",
+            "contributor": "by Jay Margolis and Richard Buskin",
+            "contributor_note": "",
+            "description": "A theory about the movie star's death.",
+            "isbns": [
+                {
+                    "isbn10": "1629141267",
+                    "isbn13": "9781629141268"
+                }
+            ],
+            "price": 0,
+            "publisher": "Skyhorse",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-06-27",
+                    "dagger": 0,
+                    "display_name": "Crime and Punishment",
+                    "list_name": "Crime and Punishment",
+                    "primary_isbn10": "1629141267",
+                    "primary_isbn13": "9781629141268",
+                    "published_date": "2015-07-12",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-06-06",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "1629141267",
+                    "primary_isbn13": "9781629141268",
+                    "published_date": "2015-06-21",
+                    "rank": 12,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "THE MURDER OF MARILYN MONROE"
+        },
+        {
+            "age_group": "",
+            "author": "J Randy Taraborrelli",
+            "contributor": "by J. Randy Taraborrelli",
+            "contributor_note": "",
+            "description": "A biography emphasizes Monroe\u2019s relationships with her family and with the Kennedys.",
+            "isbns": [
+                {
+                    "isbn10": "0446550957",
+                    "isbn13": "9780446550956"
+                },
+                {
+                    "isbn10": "0446198188",
+                    "isbn13": "9780446198189"
+                }
+            ],
+            "price": 0,
+            "publisher": "Grand Central Publishing",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2012-09-01",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "0446550957",
+                    "primary_isbn13": "9780446550956",
+                    "published_date": "2012-09-16",
+                    "rank": 28,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2012-08-11",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "0446550957",
+                    "primary_isbn13": "9780446550956",
+                    "published_date": "2012-08-26",
+                    "rank": 2,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2012-08-11",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "0446550957",
+                    "primary_isbn13": "9780446550956",
+                    "published_date": "2012-08-26",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2009-09-19",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0446580821",
+                    "primary_isbn13": "9780446580823",
+                    "published_date": "2009-10-04",
+                    "rank": 31,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2009-09-12",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0446580821",
+                    "primary_isbn13": "9780446580823",
+                    "published_date": "2009-09-27",
+                    "rank": 23,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2009-09-05",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0446580821",
+                    "primary_isbn13": "9780446580823",
+                    "published_date": "2009-09-20",
+                    "rank": 15,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 2
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2009-08-29",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0446580821",
+                    "primary_isbn13": "9780446580823",
+                    "published_date": "2009-09-13",
+                    "rank": 11,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "THE SECRET LIFE OF MARILYN MONROE"
+        }
+    ],
+    "status": "OK"
+}

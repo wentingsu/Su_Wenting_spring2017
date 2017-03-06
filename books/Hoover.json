@@ -1,0 +1,57 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 2,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Richard Norton Smith",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "067146034X",
+                    "isbn13": "9780671460341"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1984/09/02/books/a-president-unsuited-for-politics.html"
+                }
+            ],
+            "title": "An Uncommon Man: The Triumph of Herbert Hoover"
+        },
+        {
+            "age_group": null,
+            "author": "Curt Gentry",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0393321282",
+                    "isbn13": "9780393321289"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1991/09/15/books/senior-g-man-david-m-oshinsky-professor-history-rutgers-university-author.html"
+                }
+            ],
+            "title": "J. Edgar Hoover: The Man and the Secrets"
+        }
+    ],
+    "status": "OK"
+}

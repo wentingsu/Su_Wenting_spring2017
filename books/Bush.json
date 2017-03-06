@@ -1,0 +1,773 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 30,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Frank Bruni",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0066213711",
+                    "isbn13": "9780066213712"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "https://www.nytimes.com/2002/03/20/books/books-of-the-times-seeing-bush-s-brains-despite-mangled-words.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2002/03/31/books/on-the-road-with-the-inner-candidate.html"
+                }
+            ],
+            "title": "Ambling Into History: The Unlikely Odyssey of George W. Bush"
+        },
+        {
+            "age_group": null,
+            "author": "Kevin Phillips",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0143034316",
+                    "isbn13": "9780143034315"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2004/01/18/books/family-lies.html"
+                }
+            ],
+            "title": "American Dynasty: Aristocracy, Fortune, and the Politics of Deceit in the House of Bush"
+        },
+        {
+            "age_group": null,
+            "author": "Carl M. Cannon",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1586481924",
+                    "isbn13": "9781586481926"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/01/19/books/pac-man.html"
+                }
+            ],
+            "title": "Boy Genius: Karl Rove, the Brains Behind the Remarkable Political Triumph of George W. Bush"
+        },
+        {
+            "age_group": "",
+            "author": "Jean Edward Smith",
+            "contributor": "by Jean Edward Smith",
+            "contributor_note": "",
+            "description": "A critical biography of the 43rd president.",
+            "isbns": [
+                {
+                    "isbn10": "1476741190",
+                    "isbn13": "9781476741192"
+                },
+                {
+                    "isbn10": "1476741212",
+                    "isbn13": "9781476741215"
+                }
+            ],
+            "price": 0,
+            "publisher": "Simon & Schuster",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-07-09",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "1476741190",
+                    "primary_isbn13": "9781476741192",
+                    "published_date": "2016-07-24",
+                    "rank": 14,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 1,
+                    "bestsellers_date": "2016-07-09",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "1476741190",
+                    "primary_isbn13": "9781476741192",
+                    "published_date": "2016-07-24",
+                    "rank": 16,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-07-09",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "1476741212",
+                    "primary_isbn13": "9781476741215",
+                    "published_date": "2016-07-24",
+                    "rank": 11,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "https://www.nytimes.com/2016/07/24/books/review/george-w-bush-biography-by-jean-edward-smith.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "BUSH"
+        },
+        {
+            "age_group": null,
+            "author": "Bob Woodward",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0743244613",
+                    "isbn13": "9780743244619"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2002/12/15/books/the-commander-in-chief.html"
+                }
+            ],
+            "title": "Bush at War"
+        },
+        {
+            "age_group": null,
+            "author": "Laurie Mylroie",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0060580127",
+                    "isbn13": "9780060580124"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/08/24/books/easy-target.html"
+                }
+            ],
+            "title": "Bush vs. the Beltway: How the CIA and the State Department Tried to Stop the War on Terror"
+        },
+        {
+            "age_group": "",
+            "author": "Dave Canterbury",
+            "contributor": "by Dave Canterbury",
+            "contributor_note": "",
+            "description": "A field guide to safety and self-reliance while reconnecting with nature.",
+            "isbns": [
+                {
+                    "isbn10": "1440579776",
+                    "isbn13": "9781440579776"
+                },
+                {
+                    "isbn10": "1440579784",
+                    "isbn13": "9781440579783"
+                }
+            ],
+            "price": 0,
+            "publisher": "Adams Media",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-04-30",
+                    "dagger": 0,
+                    "display_name": "Travel",
+                    "list_name": "Travel",
+                    "primary_isbn10": "1440579776",
+                    "primary_isbn13": "9781440579776",
+                    "published_date": "2016-05-15",
+                    "rank": 1,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-03-26",
+                    "dagger": 0,
+                    "display_name": "Sports and Fitness",
+                    "list_name": "Sports",
+                    "primary_isbn10": "1440579776",
+                    "primary_isbn13": "9781440579776",
+                    "published_date": "2016-04-10",
+                    "rank": 14,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-11-28",
+                    "dagger": 0,
+                    "display_name": "Sports and Fitness",
+                    "list_name": "Sports",
+                    "primary_isbn10": "1440579776",
+                    "primary_isbn13": "9781440579776",
+                    "published_date": "2015-12-13",
+                    "rank": 20,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-09-26",
+                    "dagger": 0,
+                    "display_name": "Travel",
+                    "list_name": "Travel",
+                    "primary_isbn10": "1440579776",
+                    "primary_isbn13": "9781440579776",
+                    "published_date": "2015-10-11",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-07-25",
+                    "dagger": 0,
+                    "display_name": "Travel",
+                    "list_name": "Travel",
+                    "primary_isbn10": "1440579776",
+                    "primary_isbn13": "9781440579776",
+                    "published_date": "2015-08-09",
+                    "rank": 11,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-03-28",
+                    "dagger": 0,
+                    "display_name": "Sports and Fitness",
+                    "list_name": "Sports",
+                    "primary_isbn10": "1440579776",
+                    "primary_isbn13": "9781440579776",
+                    "published_date": "2015-04-12",
+                    "rank": 16,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-02-28",
+                    "dagger": 0,
+                    "display_name": "Sports and Fitness",
+                    "list_name": "Sports",
+                    "primary_isbn10": "1440579776",
+                    "primary_isbn13": "9781440579776",
+                    "published_date": "2015-03-15",
+                    "rank": 7,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-02-28",
+                    "dagger": 0,
+                    "display_name": "Travel",
+                    "list_name": "Travel",
+                    "primary_isbn10": "1440579776",
+                    "primary_isbn13": "9781440579776",
+                    "published_date": "2015-03-15",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-11-29",
+                    "dagger": 0,
+                    "display_name": "Travel",
+                    "list_name": "Travel",
+                    "primary_isbn10": "1440579776",
+                    "primary_isbn13": "9781440579776",
+                    "published_date": "2014-12-14",
+                    "rank": 15,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-10-25",
+                    "dagger": 0,
+                    "display_name": "Sports and Fitness",
+                    "list_name": "Sports",
+                    "primary_isbn10": "1440579776",
+                    "primary_isbn13": "9781440579776",
+                    "published_date": "2014-11-09",
+                    "rank": 7,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-09-27",
+                    "dagger": 0,
+                    "display_name": "Sports and Fitness",
+                    "list_name": "Sports",
+                    "primary_isbn10": "1440579776",
+                    "primary_isbn13": "9781440579776",
+                    "published_date": "2014-10-12",
+                    "rank": 4,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-09-27",
+                    "dagger": 0,
+                    "display_name": "Travel",
+                    "list_name": "Travel",
+                    "primary_isbn10": "1440579776",
+                    "primary_isbn13": "9781440579776",
+                    "published_date": "2014-10-12",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "BUSHCRAFT 101"
+        },
+        {
+            "age_group": null,
+            "author": "Maureen Dowd",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0425202763",
+                    "isbn13": "9780425202760"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2004/08/29/books/three-ways-of-looking-at-george-w-bush.html"
+                }
+            ],
+            "title": "Bushworld: Enter at Your Own Risk"
+        },
+        {
+            "age_group": null,
+            "author": "David Dadge",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1591021472",
+                    "isbn13": "9781591021476"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2004/02/22/books/collateral-damage.html"
+                }
+            ],
+            "title": "Casualty of War: The Bush Administration's Assault on a Free Press"
+        },
+        {
+            "age_group": null,
+            "author": "Nigel Barley",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0805012451",
+                    "isbn13": "9780805012453"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1986/11/23/books/in-short-nonfiction-045086.html"
+                }
+            ],
+            "title": "Ceremony: An Anthropologist's Misadventures in the African Bush"
+        },
+        {
+            "age_group": null,
+            "author": "G. Pascal Zachary",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0262740222",
+                    "isbn13": "9780262740227"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1997/10/26/books/scientocracy.html"
+                }
+            ],
+            "title": "Endless Frontier: Vannevar Bush, Engineer of the American Century"
+        },
+        {
+            "age_group": null,
+            "author": "Don Van Natta Jr.",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1586480081",
+                    "isbn13": "9781586480080"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/04/20/books/bunker-mentality.html"
+                }
+            ],
+            "title": "First Off the Tee: Presidential Hackers, Duffers, and Cheaters From Taft To Bush"
+        },
+        {
+            "age_group": null,
+            "author": "Bill Minutaglio",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0812931394",
+                    "isbn13": "9780812931396"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1999/10/17/books/bush-family-values.html"
+                }
+            ],
+            "title": "First Son : George W. Bush and the Bush Family Dynasty"
+        },
+        {
+            "age_group": null,
+            "author": "Joe Hyams",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0151314691",
+                    "isbn13": "9780151314690"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1991/03/31/books/in-short-nonfiction-667791.html"
+                }
+            ],
+            "title": "Flight of the Avenger: George Bush at War"
+        },
+        {
+            "age_group": null,
+            "author": "Lydia Millet",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0684862743",
+                    "isbn13": "9780684862743"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2000/01/23/books/kiss-my-lips.html"
+                }
+            ],
+            "title": "George Bush, Dark Prince of Love: A Presidential Romance"
+        },
+        {
+            "age_group": "",
+            "author": "Erich Origen and Gan Golan",
+            "contributor": "by Erich Origen and Gan Golan",
+            "contributor_note": "",
+            "description": "A requiem for the Bush administration, based on the children\u2019s book \u201cGoodnight Moon.\u201d",
+            "isbns": [],
+            "price": 0,
+            "publisher": "Little, Brown",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2008-12-20",
+                    "dagger": 0,
+                    "display_name": "Hardcover Advice & Misc.",
+                    "list_name": "Hardcover Advice",
+                    "primary_isbn10": "031604041X",
+                    "primary_isbn13": "9780316040419",
+                    "published_date": "2009-01-04",
+                    "rank": 14,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2008-12-13",
+                    "dagger": 0,
+                    "display_name": "Hardcover Advice & Misc.",
+                    "list_name": "Hardcover Advice",
+                    "primary_isbn10": "031604041X",
+                    "primary_isbn13": "9780316040419",
+                    "published_date": "2008-12-28",
+                    "rank": 15,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2008-12-06",
+                    "dagger": 0,
+                    "display_name": "Hardcover Advice & Misc.",
+                    "list_name": "Hardcover Advice",
+                    "primary_isbn10": "031604041X",
+                    "primary_isbn13": "9780316040419",
+                    "published_date": "2008-12-21",
+                    "rank": 15,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2008-11-15",
+                    "dagger": 0,
+                    "display_name": "Hardcover Advice & Misc.",
+                    "list_name": "Hardcover Advice",
+                    "primary_isbn10": "031604041X",
+                    "primary_isbn13": "9780316040419",
+                    "published_date": "2008-11-30",
+                    "rank": 13,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2008-10-18",
+                    "dagger": 0,
+                    "display_name": "Hardcover Advice & Misc.",
+                    "list_name": "Hardcover Advice",
+                    "primary_isbn10": "031604041X",
+                    "primary_isbn13": "9780316040419",
+                    "published_date": "2008-11-02",
+                    "rank": 15,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "https://www.nytimes.com/2008/06/16/business/16goodnight.html",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "GOODNIGHT BUSH"
+        },
+        {
+            "age_group": null,
+            "author": "John Newhouse",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0375713727",
+                    "isbn13": "9780375713729"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/10/19/books/books-in-brief-nonfiction-625310.html"
+                }
+            ],
+            "title": "Imperial America: The Bush Assault on World Order"
+        },
+        {
+            "age_group": null,
+            "author": "Dan Goodgame",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0671737201",
+                    "isbn13": "9780671737207"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1992/09/20/books/the-winning-thing.html"
+                }
+            ],
+            "title": "Marching in Place: The Status Quo Presidency of George Bush"
+        },
+        {
+            "age_group": null,
+            "author": "James Mann",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0143034898",
+                    "isbn13": "9780143034896"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2004/03/14/books/from-saigon-to-baghdad.html"
+                }
+            ],
+            "title": "Rise of the Vulcans: The History of Bush's War Cabinet"
+        },
+        {
+            "age_group": null,
+            "author": "Lou Dubose",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0375757147",
+                    "isbn13": "9780375757143"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2000/03/05/books/heir-apparent.html"
+                }
+            ],
+            "title": "Shrub : The Short but Happy Political Life of George W. Bush"
+        }
+    ],
+    "status": "OK"
+}

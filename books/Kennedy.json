@@ -1,0 +1,796 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 44,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Letitia Baldrige",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0670894532",
+                    "isbn13": "9780670894536"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2002/03/24/books/books-in-brief-nonfiction-067377.html"
+                }
+            ],
+            "title": "A Lady, First: My Life in the Kennedy White House and the American  Embassies of Paris and Rome"
+        },
+        {
+            "age_group": null,
+            "author": "Sarah Bradford",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0141002204",
+                    "isbn13": "9780141002200"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2000/12/17/books/her-majesty.html"
+                }
+            ],
+            "title": "America's Queen: The Life of Jacqueline Kennedy Onassis"
+        },
+        {
+            "age_group": null,
+            "author": "David Kaiser",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0674006720",
+                    "isbn13": "9780674006720"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2000/05/14/books/who-set-up-the-dominoes.html"
+                }
+            ],
+            "title": "American Tragedy: Kennedy, Johnson, and the Origins of the Vietnam War"
+        },
+        {
+            "age_group": "",
+            "author": "Larry Tye",
+            "contributor": "by Larry Tye",
+            "contributor_note": "",
+            "description": "Robert Kennedy's journey from aide to Senator Joe McCarthy to ardent liberal and antiwar presidential candidate.",
+            "isbns": [
+                {
+                    "isbn10": "0812993349",
+                    "isbn13": "9780812993349"
+                }
+            ],
+            "price": 0,
+            "publisher": "Random House",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-07-30",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0812993349",
+                    "primary_isbn13": "9780812993349",
+                    "published_date": "2016-08-14",
+                    "rank": 17,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-07-23",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0812993349",
+                    "primary_isbn13": "9780812993349",
+                    "published_date": "2016-08-07",
+                    "rank": 19,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-07-16",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0812993349",
+                    "primary_isbn13": "9780812993349",
+                    "published_date": "2016-07-31",
+                    "rank": 12,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 2
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-07-09",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0812993349",
+                    "primary_isbn13": "9780812993349",
+                    "published_date": "2016-07-24",
+                    "rank": 15,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "https://www.nytimes.com/2016/07/10/books/review/bobby-kennedy-biography-larry-tye.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "BOBBY KENNEDY"
+        },
+        {
+            "age_group": null,
+            "author": "David Talbot",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0743269195",
+                    "isbn13": "9780743269193"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2007/05/20/books/review/Brinkley-t.html"
+                }
+            ],
+            "title": "Brothers: The Hidden History of the Kennedy Years"
+        },
+        {
+            "age_group": null,
+            "author": "Kitty Kelley",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "031264342X",
+                    "isbn13": "9780312643423"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2012/12/02/books/review/capturing-camelot-by-kitty-kelley.html"
+                }
+            ],
+            "title": "Capturing Camelot: Stanley Tretick's Iconic Images of the Kennedys"
+        },
+        {
+            "age_group": null,
+            "author": "Sally Bedell Smith",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0345480821",
+                    "isbn13": "9780345480828"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2004/07/25/books/our-royal-family.html"
+                }
+            ],
+            "title": "Grace and Power: The Private World of the Kennedy White House"
+        },
+        {
+            "age_group": null,
+            "author": "Max Frankel",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0345465059",
+                    "isbn13": "9780345465054"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "https://www.nytimes.com/2004/10/15/books/15BOOK.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2004/11/28/books/review/28MACINTY.html"
+                }
+            ],
+            "title": "High Noon in the Cold War: Kennedy, Khrushchev, and the Cuban Missile Crisis"
+        },
+        {
+            "age_group": null,
+            "author": "Deborah George Hardy",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0807130591",
+                    "isbn13": "9780807130599"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2001/09/16/books/books-in-brief-nonfiction-072133.html"
+                }
+            ],
+            "title": "Ignatius Rising: The Life of John Kennedy Toole"
+        },
+        {
+            "age_group": "",
+            "author": "Chris Matthews",
+            "contributor": "by Chris Matthews",
+            "contributor_note": "",
+            "description": "An admiring portrait.",
+            "isbns": [
+                {
+                    "isbn10": "1451635087",
+                    "isbn13": "9781451635089"
+                },
+                {
+                    "isbn10": "1451635109",
+                    "isbn13": "9781451635102"
+                },
+                {
+                    "isbn10": "1442350458",
+                    "isbn13": "9781442350458"
+                },
+                {
+                    "isbn10": "1451635095",
+                    "isbn13": "9781451635096"
+                },
+                {
+                    "isbn10": "1594135657",
+                    "isbn13": "9781594135651"
+                }
+            ],
+            "price": 0,
+            "publisher": "Simon & Schuster",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-02-09",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "1451635095",
+                    "primary_isbn13": "9781451635096",
+                    "published_date": "2013-02-24",
+                    "rank": 30,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-02-02",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "1451635095",
+                    "primary_isbn13": "9781451635096",
+                    "published_date": "2013-02-17",
+                    "rank": 30,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2011/11/06/books/review/jack-kennedy-elusive-hero-by-chris-matthews-book-review.html"
+                }
+            ],
+            "title": "JACK KENNEDY"
+        },
+        {
+            "age_group": null,
+            "author": "Barbara Leaming",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0393051617",
+                    "isbn13": "9780393051612"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2006/06/25/books/review/25wheatcroft.html"
+                }
+            ],
+            "title": "Jack Kennedy: The Education of a Statesman"
+        },
+        {
+            "age_group": "",
+            "author": "Barbara Leaming",
+            "contributor": "by Barbara Leaming",
+            "contributor_note": "",
+            "description": "The former first lady\u2019s struggles after John Kennedy\u2019s assassination.",
+            "isbns": [
+                {
+                    "isbn10": "1250017645",
+                    "isbn13": "9781250017642"
+                },
+                {
+                    "isbn10": "1250017637",
+                    "isbn13": "9781250017635"
+                },
+                {
+                    "isbn10": "1427252327",
+                    "isbn13": "9781427252326"
+                }
+            ],
+            "price": 0,
+            "publisher": "Thomas Dunne/St. Martin's Press",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-11-29",
+                    "dagger": 0,
+                    "display_name": "Celebrities",
+                    "list_name": "Celebrities",
+                    "primary_isbn10": "1250017645",
+                    "primary_isbn13": "9781250017642",
+                    "published_date": "2014-12-14",
+                    "rank": 13,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-11-29",
+                    "dagger": 0,
+                    "display_name": "Culture",
+                    "list_name": "Culture",
+                    "primary_isbn10": "1250017645",
+                    "primary_isbn13": "9781250017642",
+                    "published_date": "2014-12-14",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-11-01",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "1250017645",
+                    "primary_isbn13": "9781250017642",
+                    "published_date": "2014-11-16",
+                    "rank": 15,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-11-01",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "1250017637",
+                    "primary_isbn13": "9781250017635",
+                    "published_date": "2014-11-16",
+                    "rank": 11,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-11-01",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "1250017645",
+                    "primary_isbn13": "9781250017642",
+                    "published_date": "2014-11-16",
+                    "rank": 13,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2014/12/07/books/review/jacqueline-bouvier-kennedy-onassis-by-barbara-leaming.html"
+                }
+            ],
+            "title": "JACQUELINE BOUVIER KENNEDY ONASSIS"
+        },
+        {
+            "age_group": "",
+            "author": "",
+            "contributor": "",
+            "contributor_note": "",
+            "description": "Recordings and transcripts of a seven-part interview with Arthur M. Schlesinger Jr. in 1964.",
+            "isbns": [
+                {
+                    "isbn10": "1401324258",
+                    "isbn13": "9781401324254"
+                },
+                {
+                    "isbn10": "140130396X",
+                    "isbn13": "9781401303969"
+                }
+            ],
+            "price": 60,
+            "publisher": "Hyperion",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "Jacqueline Kennedy: Historic Conversations On Life With John F. Kennedy"
+        },
+        {
+            "age_group": null,
+            "author": "Jacques Lowe",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0704324040",
+                    "isbn13": "9780704324046"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1983/12/04/books/celebrities.html"
+                }
+            ],
+            "title": "Kennedy a Time Remembered (A Quartet/Visual arts book)"
+        },
+        {
+            "age_group": "",
+            "author": "Scott Farris",
+            "contributor": "by Scott Farris",
+            "contributor_note": "",
+            "description": "A double biography looks at why the legacies of these two presidents endure.",
+            "isbns": [],
+            "price": 0,
+            "publisher": "Lyons/Globe Pequot",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-05-31",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9781493001880",
+                    "published_date": "2014-06-15",
+                    "rank": 16,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "KENNEDY AND REAGAN"
+        },
+        {
+            "age_group": null,
+            "author": "Wilborn Hampton",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1564028119",
+                    "isbn13": "9781564028112"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1997/11/16/books/children-s-books-that-day-in-dallas.html"
+                }
+            ],
+            "title": "Kennedy Assassinated! The World Mourns: A Reporter's Story"
+        },
+        {
+            "age_group": "",
+            "author": "Amber Hunt and David Batcher",
+            "contributor": "by Amber Hunt and David Batcher",
+            "contributor_note": "",
+            "description": "A look at the women who married into the Kennedy family.",
+            "isbns": [],
+            "price": 0,
+            "publisher": "Lyons Press",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-08-08",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "None",
+                    "primary_isbn13": "9781493016716",
+                    "published_date": "2015-08-23",
+                    "rank": 3,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-08-08",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "None",
+                    "primary_isbn13": "9781493016716",
+                    "published_date": "2015-08-23",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "KENNEDY WIVES"
+        },
+        {
+            "age_group": "Ages 10 to 14",
+            "author": "Bill O'Reilly",
+            "contributor": "by Bill O'Reilly",
+            "contributor_note": "",
+            "description": "A chronicle of events surrounding the assassination of John F. Kennedy.\u00a0",
+            "isbns": [
+                {
+                    "isbn10": "080509802X",
+                    "isbn13": "9780805098020"
+                },
+                {
+                    "isbn10": "0805099743",
+                    "isbn13": "9780805099744"
+                }
+            ],
+            "price": 0,
+            "publisher": "Henry Holt & Company",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-07-13",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Middle Grade",
+                    "list_name": "Childrens Middle Grade",
+                    "primary_isbn10": "080509802X",
+                    "primary_isbn13": "9780805098020",
+                    "published_date": "2013-07-28",
+                    "rank": 13,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-07-06",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Middle Grade",
+                    "list_name": "Childrens Middle Grade",
+                    "primary_isbn10": "080509802X",
+                    "primary_isbn13": "9780805098020",
+                    "published_date": "2013-07-21",
+                    "rank": 7,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 4
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-06-29",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Middle Grade",
+                    "list_name": "Childrens Middle Grade",
+                    "primary_isbn10": "080509802X",
+                    "primary_isbn13": "9780805098020",
+                    "published_date": "2013-07-14",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 3
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-06-22",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Middle Grade",
+                    "list_name": "Childrens Middle Grade",
+                    "primary_isbn10": "080509802X",
+                    "primary_isbn13": "9780805098020",
+                    "published_date": "2013-07-07",
+                    "rank": 5,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 2
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-06-15",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Middle Grade",
+                    "list_name": "Childrens Middle Grade",
+                    "primary_isbn10": "080509802X",
+                    "primary_isbn13": "9780805098020",
+                    "published_date": "2013-06-30",
+                    "rank": 4,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "KENNEDY'S LAST DAYS"
+        },
+        {
+            "age_group": null,
+            "author": "Jonathan Rosenberg",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0393051226",
+                    "isbn13": "9780393051223"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/12/07/books/let-s-go-to-the-tape.html"
+                }
+            ],
+            "title": "Kennedy, Johnson, and the Quest for Justice: The Civil Rights Tapes"
+        },
+        {
+            "age_group": "",
+            "author": "Ted Sorensen",
+            "contributor": "by Ted Sorensen",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [
+                {
+                    "isbn10": "0061987034",
+                    "isbn13": "9780061987038"
+                }
+            ],
+            "price": 0,
+            "publisher": "Harper Perennial",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-02-14",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "0061987034",
+                    "primary_isbn13": "9780061987038",
+                    "published_date": "2015-03-01",
+                    "rank": 19,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "KENNEDY: THE CLASSIC BIOGRAPHY"
+        }
+    ],
+    "status": "OK"
+}

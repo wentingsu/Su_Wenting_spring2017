@@ -1,0 +1,32 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 1,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Tom Carson",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0931181348",
+                    "isbn13": "9780931181344"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2011/06/26/books/review/book-review-daisy-buchanans-daughter-by-tom-carson.html"
+                }
+            ],
+            "title": "Daisy Buchanan's Daughter"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,261 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 8,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Glen David Gold",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0786886323",
+                    "isbn13": "9780786886326"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2001/09/30/books/something-up-his-sleeve.html"
+                }
+            ],
+            "title": "Carter Beats the Devil"
+        },
+        {
+            "age_group": null,
+            "author": "Elizabeth Evans",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0060192658",
+                    "isbn13": "9780060192655"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1999/05/09/books/the-caretaker.html"
+                }
+            ],
+            "title": "Carter Clay: A Novel"
+        },
+        {
+            "age_group": "",
+            "author": "Tijan",
+            "contributor": "by Tijan",
+            "contributor_note": "",
+            "description": "A woman who kills her roommate\u2019s Mafia-connected rapist turns to the one person who can protect her.",
+            "isbns": [],
+            "price": 0,
+            "publisher": "Tijan",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-10-12",
+                    "dagger": 0,
+                    "display_name": "E-Book Fiction",
+                    "list_name": "E-Book Fiction",
+                    "primary_isbn10": "None",
+                    "primary_isbn13": "A00B00FIOBPC0",
+                    "published_date": "2013-10-27",
+                    "rank": 11,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-10-12",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "primary_isbn10": "None",
+                    "primary_isbn13": "A00B00FIOBPC0",
+                    "published_date": "2013-10-27",
+                    "rank": 15,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "CARTER REED"
+        },
+        {
+            "age_group": "",
+            "author": "Tijan",
+            "contributor": "by Tijan",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [],
+            "price": 0,
+            "publisher": "Tijan",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-05-02",
+                    "dagger": 0,
+                    "display_name": "E-Book Fiction",
+                    "list_name": "E-Book Fiction",
+                    "primary_isbn10": "None",
+                    "primary_isbn13": "A00B00WKU6W28",
+                    "published_date": "2015-05-17",
+                    "rank": 16,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "CARTER REED 2"
+        },
+        {
+            "age_group": null,
+            "author": "Hamilton Jordan",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0399127380",
+                    "isbn13": "9780399127380"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1982/10/03/books/the-style-of-three-presidents-182869.html"
+                }
+            ],
+            "title": "Crisis: The last year of the Carter presidency"
+        },
+        {
+            "age_group": "",
+            "author": "Peter David and Luke Ross",
+            "contributor": "by Peter David and Luke Ross",
+            "contributor_note": "",
+            "description": "This graphic novel, a collected edition of a four part mini-series, chronciles events that take place before the \"John Carter\" film begins.",
+            "isbns": [
+                {
+                    "isbn10": "0785160418",
+                    "isbn13": "9780785160410"
+                }
+            ],
+            "price": 14.99,
+            "publisher": "Marvel Entertainment",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2012-02-25",
+                    "dagger": 0,
+                    "display_name": "Paperback Graphic Books",
+                    "list_name": "Paperback Graphic Books",
+                    "primary_isbn10": "0785160418",
+                    "primary_isbn13": "9780785160410",
+                    "published_date": "2012-03-11",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "JOHN CARTER: THE WORLD OF MARS"
+        },
+        {
+            "age_group": null,
+            "author": "Constance Curry",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0156004798",
+                    "isbn13": "9780156004794"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1995/12/17/books/mississippi-learning.html"
+                }
+            ],
+            "title": "Silver Rights: The story of the Carter family's brave decision to send their children to an all-white school and claim t"
+        },
+        {
+            "age_group": "",
+            "author": "Edgar Rice Burroughs",
+            "contributor": "by Edgar Rice Burroughs",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [],
+            "price": 0,
+            "publisher": "Seven Treasures Publications",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2012-03-24",
+                    "dagger": 0,
+                    "display_name": "E-Book Fiction",
+                    "list_name": "E-Book Fiction",
+                    "primary_isbn10": "None",
+                    "primary_isbn13": "A00B0050KTQOQ",
+                    "published_date": "2012-04-08",
+                    "rank": 34,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "THE JOHN CARTER OF MARS COLLECTION"
+        }
+    ],
+    "status": "OK"
+}

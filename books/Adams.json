@@ -1,0 +1,360 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 10,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Woody Holton",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1416546812",
+                    "isbn13": "9781416546818"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2009/12/13/books/review/Anderson-t.html"
+                }
+            ],
+            "title": "Abigail Adams"
+        },
+        {
+            "age_group": "",
+            "author": "Francis Russell",
+            "contributor": "by Francis Russell",
+            "contributor_note": "",
+            "description": "The Adamses of Massachusetts through the generations.",
+            "isbns": [],
+            "price": 0,
+            "publisher": "New Word City",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-06-14",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "None",
+                    "primary_isbn13": "9781612307855",
+                    "published_date": "2014-06-29",
+                    "rank": 15,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "ADAMS"
+        },
+        {
+            "age_group": null,
+            "author": "Richard Brookhiser",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0684868814",
+                    "isbn13": "9780684868813"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2002/02/24/books/adams-family-value.html"
+                }
+            ],
+            "title": "America's First Dynasty: The Adamses, 1735-1918"
+        },
+        {
+            "age_group": null,
+            "author": "William Lee Miller",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0679768440",
+                    "isbn13": "9780679768449"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1996/01/14/books/the-war-before-the-war.html"
+                }
+            ],
+            "title": "Arguing about Slavery: John Quincy Adams and the Great Battle in the United States Congress"
+        },
+        {
+            "age_group": "",
+            "author": "Neal Adams and Denny O'Neil",
+            "contributor": "by Neal Adams and Denny O'Neil",
+            "contributor_note": "",
+            "description": "The work of Mr. Adams, who redefined the look of Batman in the 1970s, is collected here.",
+            "isbns": [
+                {
+                    "isbn10": "1401255515",
+                    "isbn13": "9781401255510"
+                }
+            ],
+            "price": 0,
+            "publisher": "DC Comics",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-03-19",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1401255515",
+                    "primary_isbn13": "9781401255510",
+                    "published_date": "2016-04-03",
+                    "rank": 4,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "BATMAN BY NEAL ADAMS OMNIBUS"
+        },
+        {
+            "age_group": null,
+            "author": "Gore Vidal",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0300105924",
+                    "isbn13": "9780300105926"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/12/14/books/slaves-in-the-family.html"
+                }
+            ],
+            "title": "Inventing a Nation: Washington, Adams, Jefferson (Icons of America)"
+        },
+        {
+            "age_group": "",
+            "author": "David McCullough",
+            "contributor": "by David McCullough",
+            "contributor_note": "",
+            "description": "A biography of the country\u2019s first vice president and second president.",
+            "isbns": [
+                {
+                    "isbn10": "141657588X",
+                    "isbn13": "9781416575887"
+                }
+            ],
+            "price": 0,
+            "publisher": "Simon & Schuster",
+            "ranks_history": [
+                {
+                    "asterisk": 1,
+                    "bestsellers_date": "2008-06-14",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "141657588X",
+                    "primary_isbn13": "9781416575887",
+                    "published_date": "2008-06-29",
+                    "rank": 15,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 40
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2008-06-07",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "141657588X",
+                    "primary_isbn13": "9781416575887",
+                    "published_date": "2008-06-22",
+                    "rank": 33,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2008-05-31",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "141657588X",
+                    "primary_isbn13": "9781416575887",
+                    "published_date": "2008-06-15",
+                    "rank": 22,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2008-05-24",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "141657588X",
+                    "primary_isbn13": "9781416575887",
+                    "published_date": "2008-06-08",
+                    "rank": 21,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/books/01/05/27/reviews/010527.27maiert.html"
+                }
+            ],
+            "title": "JOHN ADAMS"
+        },
+        {
+            "age_group": "",
+            "author": "Fred Kaplan",
+            "contributor": "by Fred Kaplan",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [
+                {
+                    "isbn10": "0062199323",
+                    "isbn13": "9780062199324"
+                }
+            ],
+            "price": 0,
+            "publisher": "Harper",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-07-25",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "0062199323",
+                    "primary_isbn13": "9780062199324",
+                    "published_date": "2015-08-09",
+                    "rank": 15,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-02-21",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "0062199323",
+                    "primary_isbn13": "9780062199324",
+                    "published_date": "2015-03-08",
+                    "rank": 18,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2014/05/04/books/review/john-quincy-adams-by-fred-kaplan.html"
+                }
+            ],
+            "title": "JOHN QUINCY ADAMS"
+        },
+        {
+            "age_group": null,
+            "author": "Sarah Booth Conroy",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0679420509",
+                    "isbn13": "9780679420507"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1993/02/28/books/in-short-fiction-71794.html"
+                }
+            ],
+            "title": "Refinements of Love: A Novel About Clover and Henry Adams"
+        },
+        {
+            "age_group": null,
+            "author": "",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0893813680",
+                    "isbn13": "9780893813680"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1981/11/29/books/the-point-of-photographs.html"
+                }
+            ],
+            "title": "Robert Adams: Beauty in Photography: Essays in Defense of Traditional Values"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,780 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 24,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Carl Bernstein",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0307388557",
+                    "isbn13": "9780307388551"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "https://www.nytimes.com/2007/06/05/books/review/05kaku.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2007/07/15/books/review/Senior-t.html"
+                }
+            ],
+            "title": "A Woman in Charge: The Life of Hillary Rodham Clinton (Vintage)"
+        },
+        {
+            "age_group": null,
+            "author": "Nigel Hamilton",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1586485164",
+                    "isbn13": "9781586485160"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2007/08/05/books/review/05crowl.html"
+                }
+            ],
+            "title": "Bill Clinton: Mastering the Presidency"
+        },
+        {
+            "age_group": null,
+            "author": "Theda Skocpol",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0393039706",
+                    "isbn13": "9780393039702"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1996/06/30/books/critical-condition.html"
+                }
+            ],
+            "title": "Boomerang: Clinton's Health Security Effort and the Turn Against Government in U.S. Politics"
+        },
+        {
+            "age_group": null,
+            "author": "R. Emmett Tyrrell Jr.",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0895264056",
+                    "isbn13": "9780895264053"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1996/09/08/books/books-in-brief-nonfiction-195391.html"
+                }
+            ],
+            "title": "Boy Clinton: The Political Biography"
+        },
+        {
+            "age_group": "",
+            "author": "Peter Schweizer",
+            "contributor": "by Peter Schweizer",
+            "contributor_note": "",
+            "description": "An examination of donations made to the Clinton Foundation by foreign entities.",
+            "isbns": [
+                {
+                    "isbn10": "0062369288",
+                    "isbn13": "9780062369284"
+                },
+                {
+                    "isbn10": "006236930X",
+                    "isbn13": "9780062369307"
+                },
+                {
+                    "isbn10": "006265943X",
+                    "isbn13": "9780062659439"
+                },
+                {
+                    "isbn10": "0062369296",
+                    "isbn13": "9780062369291"
+                }
+            ],
+            "price": 0,
+            "publisher": "Harper/HarperCollins",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-11-05",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "0062369296",
+                    "primary_isbn13": "9780062369291",
+                    "published_date": "2016-11-20",
+                    "rank": 12,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-11-05",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "006265943X",
+                    "primary_isbn13": "9780062659439",
+                    "published_date": "2016-11-20",
+                    "rank": 20,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-11-05",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "006265943X",
+                    "primary_isbn13": "9780062659439",
+                    "published_date": "2016-11-20",
+                    "rank": 12,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-08-27",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "0062369296",
+                    "primary_isbn13": "9780062369291",
+                    "published_date": "2016-09-11",
+                    "rank": 15,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-08-20",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "0062369296",
+                    "primary_isbn13": "9780062369291",
+                    "published_date": "2016-09-04",
+                    "rank": 13,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-08-13",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "0062369296",
+                    "primary_isbn13": "9780062369291",
+                    "published_date": "2016-08-28",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 3
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-08-06",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "0062369296",
+                    "primary_isbn13": "9780062369291",
+                    "published_date": "2016-08-21",
+                    "rank": 5,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 2
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-07-30",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "0062369296",
+                    "primary_isbn13": "9780062369291",
+                    "published_date": "2016-08-14",
+                    "rank": 12,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 4
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-07-30",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "006265943X",
+                    "primary_isbn13": "9780062659439",
+                    "published_date": "2016-08-14",
+                    "rank": 10,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 2
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-07-30",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "0062369296",
+                    "primary_isbn13": "9780062369291",
+                    "published_date": "2016-08-14",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 1,
+                    "bestsellers_date": "2015-06-06",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0062369288",
+                    "primary_isbn13": "9780062369284",
+                    "published_date": "2015-06-21",
+                    "rank": 12,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 5
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-06-06",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "0062369288",
+                    "primary_isbn13": "9780062369284",
+                    "published_date": "2015-06-21",
+                    "rank": 19,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-05-30",
+                    "dagger": 0,
+                    "display_name": "Politics and American History",
+                    "list_name": "Hardcover Political Books",
+                    "primary_isbn10": "0062369288",
+                    "primary_isbn13": "9780062369284",
+                    "published_date": "2015-06-14",
+                    "rank": 2,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-05-30",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0062369288",
+                    "primary_isbn13": "9780062369284",
+                    "published_date": "2015-06-14",
+                    "rank": 13,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 4
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-05-23",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0062369288",
+                    "primary_isbn13": "9780062369284",
+                    "published_date": "2015-06-07",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 3
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-05-23",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "0062369288",
+                    "primary_isbn13": "9780062369284",
+                    "published_date": "2015-06-07",
+                    "rank": 10,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 3
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "CLINTON CASH"
+        },
+        {
+            "age_group": "",
+            "author": "adapted  Chuck Dixon and Brett R Smith",
+            "contributor": "adapted by Chuck Dixon and Brett R. Smith",
+            "contributor_note": "",
+            "description": "An adaptation of Peter Schweizer\u2019s book, which examines donations made to the Clinton Foundation by foreign entities.",
+            "isbns": [
+                {
+                    "isbn10": "1621575454",
+                    "isbn13": "9781621575450"
+                }
+            ],
+            "price": 0,
+            "publisher": "Regnery",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-09-10",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1621575454",
+                    "primary_isbn13": "9781621575450",
+                    "published_date": "2016-09-25",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 4
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-08-27",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1621575454",
+                    "primary_isbn13": "9781621575450",
+                    "published_date": "2016-09-11",
+                    "rank": 1,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 3
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-08-20",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1621575454",
+                    "primary_isbn13": "9781621575450",
+                    "published_date": "2016-09-04",
+                    "rank": 2,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 2
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-08-13",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1621575454",
+                    "primary_isbn13": "9781621575450",
+                    "published_date": "2016-08-28",
+                    "rank": 1,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "CLINTON CASH"
+        },
+        {
+            "age_group": "",
+            "author": "Daniel Halper",
+            "contributor": "by Daniel Halper",
+            "contributor_note": "",
+            "description": "A view of how the Clintons attained, lost and regained political power, from an editor of The Weekly Standard.",
+            "isbns": [
+                {
+                    "isbn10": "0062311239",
+                    "isbn13": "9780062311238"
+                },
+                {
+                    "isbn10": "0062311247",
+                    "isbn13": "9780062311245"
+                }
+            ],
+            "price": 0,
+            "publisher": "Broadside/HarperCollins",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "CLINTON, INC."
+        },
+        {
+            "age_group": null,
+            "author": "David Gergen",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0743203224",
+                    "isbn13": "9780743203227"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2000/09/17/books/insider.html"
+                }
+            ],
+            "title": "Eyewitness To Power: The Essence of Leadership Nixon to Clinton"
+        },
+        {
+            "age_group": null,
+            "author": "David Maraniss",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0684818906",
+                    "isbn13": "9780684818900"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1995/03/19/books/overachiever.html"
+                }
+            ],
+            "title": "First in His Class: A Biography Of Bill Clinton"
+        },
+        {
+            "age_group": null,
+            "author": "William Doyle",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1568362854",
+                    "isbn13": "9781568362854"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1999/07/18/books/just-speak-into-the-lamp.html"
+                }
+            ],
+            "title": "Inside the Oval Office: The Secret White House Tapes from FDR to Clinton"
+        },
+        {
+            "age_group": null,
+            "author": "Christopher Hitchens",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1455522996",
+                    "isbn13": "9781455522996"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1999/05/09/books/10000-things-i-hate-about-you.html"
+                }
+            ],
+            "title": "No One Left to Lie To: The Triangulations of William Jefferson Clinton"
+        },
+        {
+            "age_group": null,
+            "author": "Marvin Kalb",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0684859394",
+                    "isbn13": "9780684859392"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2001/12/16/books/books-in-brief-nonfiction-544809.html"
+                }
+            ],
+            "title": "One Scandalous Story: Clinton, Lewinsky, and Thirteen Days That Tarnished American Journalism"
+        },
+        {
+            "age_group": null,
+            "author": "Richard Reeves",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0836210913",
+                    "isbn13": "9780836210910"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1996/06/09/books/white-house-blues.html"
+                }
+            ],
+            "title": "Running in Place: How Bill Clinton Disappointed America"
+        },
+        {
+            "age_group": null,
+            "author": "Jerry Oppenheimer",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0060193921",
+                    "isbn13": "9780060193928"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2000/08/06/books/for-better-or-worse.html"
+                }
+            ],
+            "title": "State of a Union: Inside the Complex Marriage of Bill and Hillary Clinton"
+        },
+        {
+            "age_group": null,
+            "author": "Marvin Olasky",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0684834499",
+                    "isbn13": "9780684834498"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1999/02/28/books/sexual-politics.html"
+                }
+            ],
+            "title": "The American Leadership Tradition: Moral Vision from Washington to Clinton"
+        },
+        {
+            "age_group": null,
+            "author": "Haynes Johnson",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0151004455",
+                    "isbn13": "9780151004454"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "https://www.nytimes.com/2001/10/03/books/books-of-the-times-o-j-simpson-lewinsky-and-everything-between.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2001/10/28/books/those-were-the-days.html"
+                }
+            ],
+            "title": "The Best of Times: America in the Clinton Years"
+        },
+        {
+            "age_group": null,
+            "author": "Evan Cornog",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0195140516",
+                    "isbn13": "9780195140514"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1999/01/10/books/books-in-brief-nonfiction-682624.html"
+                }
+            ],
+            "title": "The Birth of Empire: DeWitt Clinton and the American Experience, 1769-1828"
+        },
+        {
+            "age_group": "",
+            "author": "Taylor Branch",
+            "contributor": "by Taylor Branch",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [],
+            "price": 0,
+            "publisher": "Simon & Schuster",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "THE CLINTON TAPES"
+        },
+        {
+            "age_group": null,
+            "author": "Sidney Blumenthal",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0374125023",
+                    "isbn13": "9780374125028"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "https://www.nytimes.com/2003/05/15/books/books-of-the-times-clintons-good-soldier-explains-all-those-messes.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/05/18/books/the-president-s-man.html"
+                }
+            ],
+            "title": "The Clinton Wars"
+        },
+        {
+            "age_group": null,
+            "author": "Joyce Milton",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0688177727",
+                    "isbn13": "9780688177720"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1999/05/23/books/it-s-all-her-fault.html"
+                }
+            ],
+            "title": "The First Partner: Hillary Rodham Clinton"
+        }
+    ],
+    "status": "OK"
+}

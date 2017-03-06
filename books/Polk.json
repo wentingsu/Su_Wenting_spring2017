@@ -1,0 +1,57 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 2,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Beryl Bainbridge",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1609450566",
+                    "isbn13": "9781609450564"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2011/09/11/books/review/the-girl-in-the-polka-dot-dress-by-beryl-bainbridge-book-review.html"
+                }
+            ],
+            "title": "The Girl in the Polka Dot Dress"
+        },
+        {
+            "age_group": null,
+            "author": "Kati Marton",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0374135533",
+                    "isbn13": "9780374135539"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "https://www.nytimes.com/1990/10/13/books/books-of-the-times-a-reporter-as-a-cold-war-casualty.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1990/10/28/books/an-early-victim-of-the-cold-war.html"
+                }
+            ],
+            "title": "The Polk Conspiracy: Murder and Cover-Up in the Case of CBS News Correspondent George Polk"
+        }
+    ],
+    "status": "OK"
+}

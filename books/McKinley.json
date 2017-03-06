@@ -1,0 +1,32 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 1,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Kevin Phillips",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0805069534",
+                    "isbn13": "9780805069532"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/10/05/books/books-in-brief-nonfiction-431338.html"
+                }
+            ],
+            "title": "William McKinley: The American Presidents Series: The 25th President, 1897-1901 (American Presidents (Times))"
+        }
+    ],
+    "status": "OK"
+}

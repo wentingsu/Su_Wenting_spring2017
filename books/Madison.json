@@ -1,0 +1,382 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 8,
+    "results": [
+        {
+            "age_group": null,
+            "author": "Catherine Allgor",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0805083006",
+                    "isbn13": "9780805083002"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2006/05/14/books/review/14norton.html"
+                }
+            ],
+            "title": "A Perfect Union: Dolley Madison and the Creation of the American Nation"
+        },
+        {
+            "age_group": null,
+            "author": "Susan Dunn",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0465003567",
+                    "isbn13": "9780465003563"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2007/09/16/books/review/Sussman-t.html"
+                }
+            ],
+            "title": "Dominion of Memories: Jefferson, Madison & the Decline of Virginia"
+        },
+        {
+            "age_group": "",
+            "author": "Lynne Cheney",
+            "contributor": "by Lynne Cheney",
+            "contributor_note": "",
+            "description": "A biography of the fourth president and advocate for the Constitution. Originally published in 2014.",
+            "isbns": [
+                {
+                    "isbn10": "0670025194",
+                    "isbn13": "9780670025190"
+                },
+                {
+                    "isbn10": "1611762782",
+                    "isbn13": "9781611762785"
+                }
+            ],
+            "price": 0,
+            "publisher": "Penguin",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-11-26",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "None",
+                    "primary_isbn13": "9780698163454",
+                    "published_date": "2016-12-11",
+                    "rank": 4,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-06-14",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0670025194",
+                    "primary_isbn13": "9780670025190",
+                    "published_date": "2014-06-29",
+                    "rank": 21,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-06-07",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0670025194",
+                    "primary_isbn13": "9780670025190",
+                    "published_date": "2014-06-22",
+                    "rank": 21,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 1,
+                    "bestsellers_date": "2014-05-31",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0670025194",
+                    "primary_isbn13": "9780670025190",
+                    "published_date": "2014-06-15",
+                    "rank": 15,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 4
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-05-24",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0670025194",
+                    "primary_isbn13": "9780670025190",
+                    "published_date": "2014-06-08",
+                    "rank": 11,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 3
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-05-24",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "0670025194",
+                    "primary_isbn13": "9780670025190",
+                    "published_date": "2014-06-08",
+                    "rank": 21,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-05-24",
+                    "dagger": 0,
+                    "display_name": "Politics and American History",
+                    "list_name": "Hardcover Political Books",
+                    "primary_isbn10": "0670025194",
+                    "primary_isbn13": "9780670025190",
+                    "published_date": "2014-06-08",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-05-17",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0670025194",
+                    "primary_isbn13": "9780670025190",
+                    "published_date": "2014-06-01",
+                    "rank": 11,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 2
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-05-17",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "0670025194",
+                    "primary_isbn13": "9780670025190",
+                    "published_date": "2014-06-01",
+                    "rank": 19,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-05-10",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "0670025194",
+                    "primary_isbn13": "9780670025190",
+                    "published_date": "2014-05-25",
+                    "rank": 13,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-05-10",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0670025194",
+                    "primary_isbn13": "9780670025190",
+                    "published_date": "2014-05-25",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2014/05/04/books/review/james-madison-by-lynne-cheney.html"
+                }
+            ],
+            "title": "JAMES MADISON"
+        },
+        {
+            "age_group": null,
+            "author": "Richard Brookhiser",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0465019838",
+                    "isbn13": "9780465019830"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2011/10/30/books/review/james-madison-by-richard-brookhiser-book-review.html"
+                }
+            ],
+            "title": "James Madison"
+        },
+        {
+            "age_group": null,
+            "author": "Garry Wills",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0805069054",
+                    "isbn13": "9780805069051"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2002/04/21/books/making-a-federal-case.html"
+                }
+            ],
+            "title": "James Madison (The American Presidents Series)"
+        },
+        {
+            "age_group": null,
+            "author": "Richard Labunski",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0195341422",
+                    "isbn13": "9780195341423"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2006/07/16/books/review/16rosen.html"
+                }
+            ],
+            "title": "James Madison and the Struggle for the Bill of Rights (Pivotal Moments in American History)"
+        },
+        {
+            "age_group": "",
+            "author": "Andrew Burstein and Nancy Isenberg",
+            "contributor": "by Andrew Burstein and Nancy Isenberg",
+            "contributor_note": "",
+            "description": "A dual biography of the third and fourth presidents; first published in 2010.",
+            "isbns": [
+                {
+                    "isbn10": "0679604103",
+                    "isbn13": "9780679604105"
+                }
+            ],
+            "price": 0,
+            "publisher": "Random House",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-10-25",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "0679604103",
+                    "primary_isbn13": "9780679604105",
+                    "published_date": "2014-11-09",
+                    "rank": 5,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-10-25",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "0679604103",
+                    "primary_isbn13": "9780679604105",
+                    "published_date": "2014-11-09",
+                    "rank": 11,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "MADISON AND JEFFERSON"
+        },
+        {
+            "age_group": null,
+            "author": "Lance Banning",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "080148524X",
+                    "isbn13": "9780801485244"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1995/10/29/books/university-presses-the-federalist.html"
+                }
+            ],
+            "title": "The Sacred Fire of Liberty: James Madison and the Founding of the Federal Republic"
+        }
+    ],
+    "status": "OK"
+}

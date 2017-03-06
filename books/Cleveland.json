@@ -1,0 +1,176 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 3,
+    "results": [
+        {
+            "age_group": "",
+            "author": "Harvey Pekar and Joseph Remnant",
+            "contributor": "by Harvey Pekar and Joseph Remnant",
+            "contributor_note": "",
+            "description": "The infamous autobiographer writes one last love letter to his native home of Cleveland, Ohio.",
+            "isbns": [
+                {
+                    "isbn10": "1603090916",
+                    "isbn13": "9781603090919"
+                }
+            ],
+            "price": 21.99,
+            "publisher": "Top Shelf Productions",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2012-05-12",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1603090916",
+                    "primary_isbn13": "9781603090919",
+                    "published_date": "2012-05-27",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 2
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2012-05-05",
+                    "dagger": 0,
+                    "display_name": "Hardcover Graphic Books",
+                    "list_name": "Hardcover Graphic Books",
+                    "primary_isbn10": "1603090916",
+                    "primary_isbn13": "9781603090919",
+                    "published_date": "2012-05-20",
+                    "rank": 5,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "CLEVELAND"
+        },
+        {
+            "age_group": "",
+            "author": "Brendan Bowers",
+            "contributor": "by Brendan Bowers",
+            "contributor_note": "",
+            "description": "A commemorative tribute to the Cleveland Cavaliers' historic 2016 championship season.",
+            "isbns": [
+                {
+                    "isbn10": "1629372188",
+                    "isbn13": "9781629372181"
+                }
+            ],
+            "price": 0,
+            "publisher": "Triumph Books",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-08-27",
+                    "dagger": 0,
+                    "display_name": "Sports and Fitness",
+                    "list_name": "Sports",
+                    "primary_isbn10": "1629372188",
+                    "primary_isbn13": "9781629372181",
+                    "published_date": "2016-09-11",
+                    "rank": 17,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-07-30",
+                    "dagger": 0,
+                    "display_name": "Sports and Fitness",
+                    "list_name": "Sports",
+                    "primary_isbn10": "1629372188",
+                    "primary_isbn13": "9781629372181",
+                    "published_date": "2016-08-14",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "CLEVELAND IS KING!"
+        },
+        {
+            "age_group": "",
+            "author": "Ken Burns with David Blistein and Cauley Powell",
+            "contributor": "by Ken Burns with David Blistein and Cauley Powell. Illustrated by Gerald Kelley",
+            "contributor_note": "Illustrated by Gerald Kelley",
+            "description": "Glimpses of our 43 commanders in chief.",
+            "isbns": [
+                {
+                    "isbn10": "0385392095",
+                    "isbn13": "9780385392099"
+                }
+            ],
+            "price": 0,
+            "publisher": "Knopf",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-08-06",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Middle Grade Hardcover",
+                    "list_name": "Childrens Middle Grade Hardcover",
+                    "primary_isbn10": "0385392095",
+                    "primary_isbn13": "9780385392099",
+                    "published_date": "2016-08-21",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 3
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-07-23",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Middle Grade Hardcover",
+                    "list_name": "Childrens Middle Grade Hardcover",
+                    "primary_isbn10": "0385392095",
+                    "primary_isbn13": "9780385392099",
+                    "published_date": "2016-08-07",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 2
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-07-16",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Middle Grade Hardcover",
+                    "list_name": "Childrens Middle Grade Hardcover",
+                    "primary_isbn10": "0385392095",
+                    "primary_isbn13": "9780385392099",
+                    "published_date": "2016-07-31",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "GROVER CLEVELAND, AGAIN!"
+        }
+    ],
+    "status": "OK"
+}

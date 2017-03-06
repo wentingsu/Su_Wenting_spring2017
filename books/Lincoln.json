@@ -1,0 +1,810 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 35,
+    "results": [
+        {
+            "age_group": "",
+            "author": "Stephen A Wynalda",
+            "contributor": "by Stephen A. Wynalda",
+            "contributor_note": "",
+            "description": "A day-by-day breakdown of Lincoln\u2019s private, political and military decisions in office.",
+            "isbns": [
+                {
+                    "isbn10": "1626369151",
+                    "isbn13": "9781626369153"
+                }
+            ],
+            "price": 0,
+            "publisher": "Herman Graf/Skyhorse",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-07-19",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "1626369151",
+                    "primary_isbn13": "9781626369153",
+                    "published_date": "2014-08-03",
+                    "rank": 19,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "366 DAYS IN ABRAHAM LINCOLN'S PRESIDENCY"
+        },
+        {
+            "age_group": "",
+            "author": "Ronald C White Jr",
+            "contributor": "by Ronald C. White Jr",
+            "contributor_note": "",
+            "description": "A new biography.",
+            "isbns": [],
+            "price": 35,
+            "publisher": "Random House",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2009/02/08/books/review/Safire-t.html"
+                }
+            ],
+            "title": "A. LINCOLN"
+        },
+        {
+            "age_group": null,
+            "author": "Richard Slotkin",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0805041230",
+                    "isbn13": "9780805041231"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2000/04/02/books/log-cabin-values.html"
+                }
+            ],
+            "title": "Abe: A Novel of the Young Lincoln"
+        },
+        {
+            "age_group": "",
+            "author": "James M McPherson",
+            "contributor": "by James M. McPherson",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [],
+            "price": 0,
+            "publisher": "Oxford University",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "ABRAHAM LINCOLN"
+        },
+        {
+            "age_group": null,
+            "author": "Thomas Keneally",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0670031755",
+                    "isbn13": "9780670031757"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/01/19/books/books-in-brief-nonfiction-791938.html"
+                }
+            ],
+            "title": "Abraham Lincoln (Penguin Lives)"
+        },
+        {
+            "age_group": "",
+            "author": "Seth Grahame-Smith",
+            "contributor": "by Seth Grahame-Smith",
+            "contributor_note": "",
+            "description": "A journal reveals Lincoln\u2019s fight against the undead; by the author of \u201cPride and Prejudice and Zombies.\"",
+            "isbns": [
+                {
+                    "isbn10": "0446563080",
+                    "isbn13": "9780446563086"
+                },
+                {
+                    "isbn10": "0446563072",
+                    "isbn13": "9780446563079"
+                },
+                {
+                    "isbn10": "1455510173",
+                    "isbn13": "9781455510177"
+                },
+                {
+                    "isbn10": "1455510181",
+                    "isbn13": "9781455510184"
+                },
+                {
+                    "isbn10": "0446571857",
+                    "isbn13": "9780446571852"
+                },
+                {
+                    "isbn10": "1849014779",
+                    "isbn13": "9781849014779"
+                }
+            ],
+            "price": 0,
+            "publisher": "Grand Central Publishing",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "ABRAHAM LINCOLN: VAMPIRE HUNTER"
+        },
+        {
+            "age_group": null,
+            "author": "John Taliaferro",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "1416597301",
+                    "isbn13": "9781416597308"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2013/05/19/books/review/all-the-great-prizes-by-john-taliaferro.html"
+                }
+            ],
+            "title": "All the Great Prizes: The Life of John Hay, from Lincoln to Roosevelt"
+        },
+        {
+            "age_group": null,
+            "author": "Lerone Bennett Jr.",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0874850851",
+                    "isbn13": "9780874850857"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2000/08/27/books/lincoln-the-devil.html"
+                }
+            ],
+            "title": "Forced into Glory: Abraham Lincoln's White Dream"
+        },
+        {
+            "age_group": null,
+            "author": "Arianna Huffington",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0517396998",
+                    "isbn13": "9780517396995"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1998/05/03/books/books-in-brief-nonfiction-643521.html"
+                }
+            ],
+            "title": "Greetings from the Lincoln Bedroom"
+        },
+        {
+            "age_group": "Ages 4 to 8",
+            "author": "Brad Meltzer",
+            "contributor": "by Brad Meltzer. Illustrated by Christopher Eliopoulos",
+            "contributor_note": "Illustrated by Christopher Eliopoulos",
+            "description": "The 16th president narrates his life story.",
+            "isbns": [
+                {
+                    "isbn10": "0803740832",
+                    "isbn13": "9780803740839"
+                }
+            ],
+            "price": 0,
+            "publisher": "Dial",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-06-21",
+                    "dagger": 0,
+                    "display_name": "Children\u2019s Picture Books",
+                    "list_name": "Picture Books",
+                    "primary_isbn10": "0803740832",
+                    "primary_isbn13": "9780803740839",
+                    "published_date": "2014-07-06",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 4
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "I AM ABRAHAM LINCOLN"
+        },
+        {
+            "age_group": "",
+            "author": "Bill O'Reilly and Martin Dugard",
+            "contributor": "by Bill O'Reilly and Martin Dugard",
+            "contributor_note": "",
+            "description": "The television host recounts the events surrounding the assassination of Abraham Lincoln.",
+            "isbns": [
+                {
+                    "isbn10": "0805093079",
+                    "isbn13": "9780805093070"
+                },
+                {
+                    "isbn10": "1429996870",
+                    "isbn13": "9781429996877"
+                },
+                {
+                    "isbn10": "1427213127",
+                    "isbn13": "9781427213129"
+                },
+                {
+                    "isbn10": "1410443000",
+                    "isbn13": "9781410443007"
+                },
+                {
+                    "isbn10": "1250012163",
+                    "isbn13": "9781250012166"
+                },
+                {
+                    "isbn10": "1250105218",
+                    "isbn13": "9781250105219"
+                }
+            ],
+            "price": 0,
+            "publisher": "St. Martin's",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-09-24",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "1250105218",
+                    "primary_isbn13": "9781250105219",
+                    "published_date": "2016-10-09",
+                    "rank": 11,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2016-09-17",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "1250105218",
+                    "primary_isbn13": "9781250105219",
+                    "published_date": "2016-10-02",
+                    "rank": 14,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-10-31",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "1250012163",
+                    "primary_isbn13": "9781250012166",
+                    "published_date": "2015-11-15",
+                    "rank": 14,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-10-24",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "1250012163",
+                    "primary_isbn13": "9781250012166",
+                    "published_date": "2015-11-08",
+                    "rank": 12,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 1,
+                    "bestsellers_date": "2015-10-17",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "1250012163",
+                    "primary_isbn13": "9781250012166",
+                    "published_date": "2015-11-01",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 6
+                },
+                {
+                    "asterisk": 1,
+                    "bestsellers_date": "2015-10-10",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "1250012163",
+                    "primary_isbn13": "9781250012166",
+                    "published_date": "2015-10-25",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 5
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-10-03",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "1250012163",
+                    "primary_isbn13": "9781250012166",
+                    "published_date": "2015-10-18",
+                    "rank": 5,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 4
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-09-26",
+                    "dagger": 0,
+                    "display_name": "Politics and American History",
+                    "list_name": "Hardcover Political Books",
+                    "primary_isbn10": "1250012163",
+                    "primary_isbn13": "9781250012166",
+                    "published_date": "2015-10-11",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-09-26",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "1250012163",
+                    "primary_isbn13": "9781250012166",
+                    "published_date": "2015-10-11",
+                    "rank": 5,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 3
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-09-19",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "1250012163",
+                    "primary_isbn13": "9781250012166",
+                    "published_date": "2015-10-04",
+                    "rank": 7,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 2
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-09-12",
+                    "dagger": 0,
+                    "display_name": "Paperback Nonfiction",
+                    "list_name": "Paperback Nonfiction",
+                    "primary_isbn10": "1250012163",
+                    "primary_isbn13": "9781250012166",
+                    "published_date": "2015-09-27",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2015-01-03",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0805093079",
+                    "primary_isbn13": "9780805093070",
+                    "published_date": "2015-01-18",
+                    "rank": 18,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-12-27",
+                    "dagger": 0,
+                    "display_name": "Politics and American History",
+                    "list_name": "Hardcover Political Books",
+                    "primary_isbn10": "0805093079",
+                    "primary_isbn13": "9780805093070",
+                    "published_date": "2015-01-11",
+                    "rank": 10,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "KILLING LINCOLN"
+        },
+        {
+            "age_group": "",
+            "author": "David Herbert Donald",
+            "contributor": "by David Herbert Donald",
+            "contributor_note": "",
+            "description": "This biography of the 16th president, published in 1995, sees him as a consummate (though principled) politician.",
+            "isbns": [
+                {
+                    "isbn10": "1439126283",
+                    "isbn13": "9781439126288"
+                },
+                {
+                    "isbn10": "068482535X",
+                    "isbn13": "9780684825359"
+                }
+            ],
+            "price": 0,
+            "publisher": "Simon & Schuster",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/1995/10/22/books/before-he-became-a-saint.html"
+                }
+            ],
+            "title": "LINCOLN"
+        },
+        {
+            "age_group": null,
+            "author": "David Herbert Donald",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0743211421",
+                    "isbn13": "9780743211420"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2000/12/17/books/books-in-brief-nonfiction-570656.html"
+                }
+            ],
+            "title": "Lincoln at Home: Two Glimpses of Abraham Lincoln's Family Life"
+        },
+        {
+            "age_group": "",
+            "author": "George Saunders",
+            "contributor": "by George Saunders",
+            "contributor_note": "",
+            "description": "Visiting the grave of his recently deceased young son in 1862, Abraham Lincoln encounters a cemetery full of ghosts.",
+            "isbns": [
+                {
+                    "isbn10": "0812995341",
+                    "isbn13": "9780812995343"
+                },
+                {
+                    "isbn10": "081299535X",
+                    "isbn13": "9780812995350"
+                }
+            ],
+            "price": 0,
+            "publisher": "Random House",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2017-02-25",
+                    "dagger": 0,
+                    "display_name": "Hardcover Fiction",
+                    "list_name": "Hardcover Fiction",
+                    "primary_isbn10": "0812995341",
+                    "primary_isbn13": "9780812995343",
+                    "published_date": "2017-03-12",
+                    "rank": 1,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 2
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2017-02-25",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "primary_isbn10": "0812995341",
+                    "primary_isbn13": "9780812995343",
+                    "published_date": "2017-03-12",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 2
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2017-02-18",
+                    "dagger": 0,
+                    "display_name": "Hardcover Fiction",
+                    "list_name": "Hardcover Fiction",
+                    "primary_isbn10": "0812995341",
+                    "primary_isbn13": "9780812995343",
+                    "published_date": "2017-03-05",
+                    "rank": 1,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2017-02-18",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "primary_isbn10": "0812995341",
+                    "primary_isbn13": "9780812995343",
+                    "published_date": "2017-03-05",
+                    "rank": 2,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "https://www.nytimes.com/2017/02/09/books/review/lincoln-in-the-bardo-george-saunders.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "LINCOLN IN THE BARDO"
+        },
+        {
+            "age_group": "",
+            "author": "Joshua Zeitz",
+            "contributor": "by Joshua Zeitz",
+            "contributor_note": "",
+            "description": "",
+            "isbns": [
+                {
+                    "isbn10": "0670025666",
+                    "isbn13": "9780670025664"
+                }
+            ],
+            "price": 0,
+            "publisher": "Viking",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-02-15",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0670025666",
+                    "primary_isbn13": "9780670025664",
+                    "published_date": "2014-03-02",
+                    "rank": 20,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "LINCOLN'S BOYS"
+        },
+        {
+            "age_group": null,
+            "author": "Daniel A. Farber",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0226237966",
+                    "isbn13": "9780226237961"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/08/24/books/desperate-times-desperate-measures.html"
+                }
+            ],
+            "title": "Lincoln's Constitution"
+        },
+        {
+            "age_group": "Ages 10 to 15",
+            "author": "Bill O'Reilly and Dwight Jon Zimmerman",
+            "contributor": "by Bill O'Reilly and Dwight Jon Zimmerman",
+            "contributor_note": "",
+            "description": "The 16th president\u2019s assassination.",
+            "isbns": [
+                {
+                    "isbn10": "0805096752",
+                    "isbn13": "9780805096750"
+                }
+            ],
+            "price": 0,
+            "publisher": "Henry Holt & Company",
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": ""
+                }
+            ],
+            "title": "LINCOLN'S LAST DAYS"
+        },
+        {
+            "age_group": null,
+            "author": "Joshua Wolf Shenk",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0618773444",
+                    "isbn13": "9780618773442"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2005/10/23/books/review/23cohen.html"
+                }
+            ],
+            "title": "Lincoln's Melancholy: How Depression Challenged a President and Fueled His Greatness"
+        },
+        {
+            "age_group": null,
+            "author": "John Burt",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0674050185",
+                    "isbn13": "9780674050181"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2013/02/17/books/review/lincolns-tragic-pragmatism-by-john-burt.html"
+                }
+            ],
+            "title": "Lincoln's Tragic Pragmatism: Lincoln, Douglas, and Moral Conflict"
+        },
+        {
+            "age_group": null,
+            "author": "William Lee Miller",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "037540158X",
+                    "isbn13": "9780375401589"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2002/02/10/books/the-education-of-abraham-lincoln.html"
+                }
+            ],
+            "title": "Lincoln's Virtues: An Ethical Biography"
+        }
+    ],
+    "status": "OK"
+}

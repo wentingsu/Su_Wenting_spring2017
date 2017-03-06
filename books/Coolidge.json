@@ -1,0 +1,322 @@
+{
+    "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+    "num_results": 2,
+    "results": [
+        {
+            "age_group": "",
+            "author": "Amity Shlaes",
+            "contributor": "by Amity Shlaes",
+            "contributor_note": "",
+            "description": "The 30th president is reclaimed as a conservative hero in this biography.\u00a0",
+            "isbns": [
+                {
+                    "isbn10": "0061967556",
+                    "isbn13": "9780061967559"
+                },
+                {
+                    "isbn10": "0062119125",
+                    "isbn13": "9780062119124"
+                }
+            ],
+            "price": 0,
+            "publisher": "Harper",
+            "ranks_history": [
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2014-08-16",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9780062097972",
+                    "published_date": "2014-08-31",
+                    "rank": 19,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 2
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-30",
+                    "dagger": 0,
+                    "display_name": "Politics and American History",
+                    "list_name": "Hardcover Political Books",
+                    "primary_isbn10": "0061967556",
+                    "primary_isbn13": "9780061967559",
+                    "published_date": "2013-04-14",
+                    "rank": 8,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-30",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0061967556",
+                    "primary_isbn13": "9780061967559",
+                    "published_date": "2013-04-14",
+                    "rank": 22,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-30",
+                    "dagger": 0,
+                    "display_name": "Combined Hardcover & Paperback Nonfiction",
+                    "list_name": "Combined Print Nonfiction",
+                    "primary_isbn10": "0061967556",
+                    "primary_isbn13": "9780061967559",
+                    "published_date": "2013-04-14",
+                    "rank": 33,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-23",
+                    "dagger": 0,
+                    "display_name": "Combined Hardcover & Paperback Nonfiction",
+                    "list_name": "Combined Print Nonfiction",
+                    "primary_isbn10": "0061967556",
+                    "primary_isbn13": "9780061967559",
+                    "published_date": "2013-04-07",
+                    "rank": 34,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-23",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0061967556",
+                    "primary_isbn13": "9780061967559",
+                    "published_date": "2013-04-07",
+                    "rank": 24,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-16",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0061967556",
+                    "primary_isbn13": "9780061967559",
+                    "published_date": "2013-03-31",
+                    "rank": 15,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 5
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-16",
+                    "dagger": 0,
+                    "display_name": "Combined Hardcover & Paperback Nonfiction",
+                    "list_name": "Combined Print Nonfiction",
+                    "primary_isbn10": "0061967556",
+                    "primary_isbn13": "9780061967559",
+                    "published_date": "2013-03-31",
+                    "rank": 21,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-16",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "0061967556",
+                    "primary_isbn13": "9780061967559",
+                    "published_date": "2013-03-31",
+                    "rank": 33,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-09",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0061967556",
+                    "primary_isbn13": "9780061967559",
+                    "published_date": "2013-03-24",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 4
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-09",
+                    "dagger": 0,
+                    "display_name": "Combined Hardcover & Paperback Nonfiction",
+                    "list_name": "Combined Print Nonfiction",
+                    "primary_isbn10": "0061967556",
+                    "primary_isbn13": "9780061967559",
+                    "published_date": "2013-03-24",
+                    "rank": 13,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-09",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "0061967556",
+                    "primary_isbn13": "9780061967559",
+                    "published_date": "2013-03-24",
+                    "rank": 28,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-02",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0061967556",
+                    "primary_isbn13": "9780061967559",
+                    "published_date": "2013-03-17",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 3
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-02",
+                    "dagger": 0,
+                    "display_name": "Combined Hardcover & Paperback Nonfiction",
+                    "list_name": "Combined Print Nonfiction",
+                    "primary_isbn10": "0061967556",
+                    "primary_isbn13": "9780061967559",
+                    "published_date": "2013-03-17",
+                    "rank": 11,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-03-02",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "0061967556",
+                    "primary_isbn13": "9780061967559",
+                    "published_date": "2013-03-17",
+                    "rank": 25,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-02-23",
+                    "dagger": 0,
+                    "display_name": "Hardcover Nonfiction",
+                    "list_name": "Hardcover Nonfiction",
+                    "primary_isbn10": "0061967556",
+                    "primary_isbn13": "9780061967559",
+                    "published_date": "2013-03-10",
+                    "rank": 6,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 2
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-02-23",
+                    "dagger": 0,
+                    "display_name": "Politics and American History",
+                    "list_name": "Hardcover Political Books",
+                    "primary_isbn10": "0061967556",
+                    "primary_isbn13": "9780061967559",
+                    "published_date": "2013-03-10",
+                    "rank": 7,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-02-23",
+                    "dagger": 0,
+                    "display_name": "Combined Hardcover & Paperback Nonfiction",
+                    "list_name": "Combined Print Nonfiction",
+                    "primary_isbn10": "0061967556",
+                    "primary_isbn13": "9780061967559",
+                    "published_date": "2013-03-10",
+                    "rank": 9,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 0
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-02-23",
+                    "dagger": 0,
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "primary_isbn10": "0061967556",
+                    "primary_isbn13": "9780061967559",
+                    "published_date": "2013-03-10",
+                    "rank": 15,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 2
+                },
+                {
+                    "asterisk": 0,
+                    "bestsellers_date": "2013-02-16",
+                    "dagger": 0,
+                    "display_name": "E-Book Nonfiction",
+                    "list_name": "E-Book Nonfiction",
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9780062097972",
+                    "published_date": "2013-03-03",
+                    "rank": 23,
+                    "ranks_last_week": null,
+                    "weeks_on_list": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "article_chapter_link": "",
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2013/02/17/books/review/coolidge-by-amity-shlaes.html"
+                }
+            ],
+            "title": "COOLIDGE"
+        },
+        {
+            "age_group": null,
+            "author": "John Derbyshire",
+            "contributor": null,
+            "contributor_note": null,
+            "description": null,
+            "isbns": [
+                {
+                    "isbn10": "0312156499",
+                    "isbn13": "9780312156497"
+                }
+            ],
+            "price": 0,
+            "publisher": null,
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "article_chapter_link": null,
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1996/04/14/books/so-this-is-america.html"
+                }
+            ],
+            "title": "Seeing Calvin Coolidge in a Dream: A Novel"
+        }
+    ],
+    "status": "OK"
+}
