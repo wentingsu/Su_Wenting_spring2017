@@ -173,16 +173,33 @@ from this plot we can clearly find out that the highest mean score is in **Austr
 - Additionally, pointplot connects points from the same hue category. This makes it easy to see how the main relationship is changing as a function of a second variable, because your eyes are quite good at picking up on differences of slopes:
 
 
-## Analysis 3
-> 1. There are six numerical factors of happyniess. Calculate the total happiness score of each country and showed in a new column.
+- summarize:
+1.
+2.
+3.
 
-##### add picture 1-1
+---
+## Analysis 3
+> 1. Merge the 2015 and 2016 rank country table and create a new column to show the change of the rank for each contry and out put to a new csv.
+
+> 2. compare the change for each Region in different year. 
+
+
+
+##### add picture 3-1
+
+##### add picture 3-2
+##### add picture 3-3
+##### add picture 3-4
+##### add picture 3-5
+---
 
 ## Analysis 4
 > 1. There are six numerical factors of happyniess. Calculate the total happiness score of each country and showed in a new column.
 
 ##### add picture 1-1
 
+---
 
 ## Analysis 5
 > 1. There are six numerical factors of happyniess. Calculate the total happiness score of each country and showed in a new column.
