@@ -123,7 +123,7 @@
 
 
 ##### add picture 2-1
-![alt tag]()
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-1.png)
 - Above **Boxplots** shows the three quartile values of the distribution along with extreme values. 
 
 - The “whiskers” extend to points that lie within 1.5 IQRs of the lower and upper quartile, and then observations that fall outside this range are displayed independently. 
@@ -134,7 +134,7 @@
 > 2. **Statistical estimation within categories**
 
 ##### add picture 2-2
-![alt tag]()
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-2.png)
 - Often, rather than showing the distribution within each category, you might want to show the central tendency of the values. 
 -Seaborn has two main ways to show this information, but importantly, the basic API for these functions is identical to that for the ones discussed above.
 
@@ -146,15 +146,15 @@ from this plot we can clearly find out that the highest mean score is in **Austr
 > 3. Explore more on the score within seperately **region** according to the swarmplot, we can divided the score into three groups:#2-4,4-6,6-8; and we can give the lable of the three groups: low, okay and good. Firstly, we use panda to generate the dataframe the numbers for each categories under different Region.
 
 ##### add picture 2-4
-![alt tag]()
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-4.png)
 - Now let's plot the new data in bar plots.
 
 ##### add picture 2-3
-![alt tag]()
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-3.png)
 - A special case for the bar plot is when you want to show the number of observations in each category rather than computing a statistic for a second variable. This is similar to a histogram over a categorical, rather than quantitative, variable. In seaborn, it’s easy to do so with the countplot() function:
 
 ##### add picture 2-5
-![alt tag]()
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-5.png)
 - A different approach is a violinplot(), which combines a boxplot with the kernel density estimation procedure described in the distributions tutorial:
 
 - This approach uses the kernel density estimate to provide a better description of the distribution of values. Additionally, the quartile and whikser values from the boxplot are shown inside the violin. Because the violinplot uses a KDE, there are some other parameters that may need tweaking, adding some complexity relative to the straightforward boxplot:
@@ -162,16 +162,15 @@ from this plot we can clearly find out that the highest mean score is in **Austr
 - It can also be useful to combine swarmplot() or swarmplot() with violinplot() or boxplot() to show each observation along with a summary of the distribution:
 
 ##### add picture 2-6
-![alt tag]()
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-6.png)
  - A familiar style of plot that accomplishes this goal is a bar plot. In seaborn, the barplot() function operates on a full dataset and shows an arbitrary estimate, using the mean by default. 
  - When there are multiple observations in each category, it also uses bootstrapping to compute a confidence interval around the estimate and plots that using error bars.
  
 ##### add picture 2-7
-![alt tag]()
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-7.png)
 - An alternative style for visualizing the same information is offered by the pointplot() function. 
 - This function also encodes the value of the estimate with height on the other axis, but rather than show a full bar it just plots the point estimate and confidence interval. 
 - Additionally, pointplot connects points from the same hue category. This makes it easy to see how the main relationship is changing as a function of a second variable, because your eyes are quite good at picking up on differences of slopes:
-
 
 
 ## Analysis 3
