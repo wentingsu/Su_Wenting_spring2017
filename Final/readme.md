@@ -29,7 +29,6 @@
 > Use an **API to collect data and store it**. Perform **4** analysis on the dataset and create a Readme.md file explaining your analysis.
 
 
-
 | Code        | Points           | 
 | ------------- |:-------------:| 
 |Collect Data       | **15** Points | 
