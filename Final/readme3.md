@@ -1,6 +1,6 @@
 # Final Exam - Spring 2017
 
-## Topic: The World Happiness Report Data Analysis
+# Topic: The World Happiness Report Data Analysis
 
 ---
 
@@ -33,9 +33,9 @@
 | Analysis No.        | Content           | 
 | ------------- |:-------------:| 
 |Analysis 1       | **Explore the Overall Happiness Rank and Distribution**  | 
-| Analysis 2      | **scores change between the 2015 and 2016 reports **    | 
+| Analysis 2      | **scores change between the 2015 and 2016 reports**    | 
 | Analysis 3  | **Explore scores change between the 2015 and 2016**  |
-| Analysis 4      | ** Explorescores change between the 2015 and 2016 reports** |  
+| Analysis 4      | **Explorescores change between the 2015 and 2016 reports** |  
 | Analysis 5     | **Explore**  | 
 
 - What countries or regions rank the highest in overall happiness and each of the six factors contibuting to happiness? 
@@ -54,24 +54,24 @@
 
 ---
 
-### Analysis 1
+## Analysis 1
 
 > 1. There are six numerical factors of happyniess. Calculate the total happiness score of each country and showed in a new column.
 
 ##### add picture 1-1
-![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img_A1/1-1.png)
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A1/1-1.png)
 
 > 2. Sort the data by the total score, and add a new column named Rank to show the happiness rank for each country.
 
 ##### add picture 1-2
-![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img_A1/1-2.png)
-> ** examining univariate and bivariate distributions **
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A1/1-2.png)
+> **examining univariate and bivariate distributions**
 
  
 > 3. ** Visualizing the distribution of overall dataset.**  And analysis according to the plots. 
 
-### add picture 1-5
-![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img_A1/1-5.png)
+#####  add picture 1-5
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A1/1-5.png)
 - when dealing with a set of data, the first thing we'll do is get a sense for how the variables are distributed. The most convenient way to take a quick look at this univariate distribution in seaborn is the distplot() function. 
 
 - from the plot shown as following. 
@@ -91,20 +91,20 @@
 
 > 4. ** Visualizing the distribution of overall dataset.**  Plotting bivariate distributions
 
-### add picture 1-3
-![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img_A1/1-3.png)
-### add picture 1-4
-![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img_A1/1-4.png)
+##### add picture 1-3
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A1/1-3.png)
+##### add picture 1-4
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A1/1-4.png)
 
 - It can also be useful to visualize a bivariate distribution of two variables. 
 
-- after we get the sorted data by ** total score ** and get the rank for each country,now let's look at the variables between rank and total score distribution.
+- after we get the sorted data by **total score** and get the rank for each country,now let's look at the variables between rank and total score distribution.
 
-- we apply the ** jointplot() function ** in seaborn to creates a multi-panel figure that shows both the bivariate (or joint) relationship between two variables along with the univariate (or marginal) distribution of each on separate axes.
+- we apply the **jointplot() function** in seaborn to creates a multi-panel figure that shows both the bivariate (or joint) relationship between two variables along with the univariate (or marginal) distribution of each on separate axes.
  
-- The most familiar way to visualize a bivariate distribution is a ** scatterplot ** , where each observation is shown with point at the x and y values. This is analgous to a rug plot on two dimensions. You can draw a scatterplot with the matplotlib plt.scatter function, and it is also the default kind of plot shown by the jointplot() function:
+- The most familiar way to visualize a bivariate distribution is a **scatterplot** , where each observation is shown with point at the x and y values. This is analgous to a rug plot on two dimensions. You can draw a scatterplot with the matplotlib plt.scatter function, and it is also the default kind of plot shown by the jointplot() function:
 
-- t is also posible to use the ** kernel density estimation ** procedure described above to visualize a bivariate distribution. In seaborn, this kind of plot is shown with a contour plot and is available as a style in jointplot():
+- It is also posible to use the **kernel density estimation** procedure described above to visualize a bivariate distribution. In seaborn, this kind of plot is shown with a contour plot and is available as a style in jointplot():
 
 ##### Summarize:
 - from both above plot we can get the point that according the asending rank, the score is mostly concentrate on the 4 to 6 scores, which is the same as the distribution plots.
@@ -112,3 +112,80 @@
  
 - in the first analysis, we mainly observe the overall dataset between 2015 and 2016 years. in next analysis we will use the categorical plots to find out how the scores distributed in different region.
 
+
+## Analysis 2
+
+> 1. After talking about the overall datasets, now let's look at the happiness scores distribution of each **region**.
+
+> **Distributions of observations within categories**
+
+- At a certain point, the categorical scatterplot approach becomes limited in the information it can provide about the distribution of values within each category. There are several ways to summarize this information in ways that facilitate easy comparisons across the category levels. These generalize some of the approaches we discussed in the chapter to the case where we want to quickly compare across several distributions.
+
+
+##### add picture 2-1
+![alt tag]()
+- Above **Boxplots** shows the three quartile values of the distribution along with extreme values. 
+
+- The “whiskers” extend to points that lie within 1.5 IQRs of the lower and upper quartile, and then observations that fall outside this range are displayed independently. 
+
+- Importantly, this means that each value in the boxplot corresponds to an actual observation in the data:
+
+
+> 2. **Statistical estimation within categories**
+
+##### add picture 2-2
+![alt tag]()
+- Often, rather than showing the distribution within each category, you might want to show the central tendency of the values. 
+-Seaborn has two main ways to show this information, but importantly, the basic API for these functions is identical to that for the ones discussed above.
+
+- this bar plots shoes the mean value of happiness score for each **Range**. 
+
+- summarize: this plot demonstrate that there are 10 unique region, and the most 
+from this plot we can clearly find out that the highest mean score is in **Australia and New Zealand** and **North America** and the lowest mean score is in **Sub-Saharan Africa**.
+
+> 3. Explore more on the score within seperately **region** according to the swarmplot, we can divided the score into three groups:#2-4,4-6,6-8; and we can give the lable of the three groups: low, okay and good. Firstly, we use panda to generate the dataframe the numbers for each categories under different Region.
+
+##### add picture 2-4
+![alt tag]()
+- Now let's plot the new data in bar plots.
+
+##### add picture 2-3
+![alt tag]()
+- A special case for the bar plot is when you want to show the number of observations in each category rather than computing a statistic for a second variable. This is similar to a histogram over a categorical, rather than quantitative, variable. In seaborn, it’s easy to do so with the countplot() function:
+
+##### add picture 2-5
+![alt tag]()
+- A different approach is a violinplot(), which combines a boxplot with the kernel density estimation procedure described in the distributions tutorial:
+
+- This approach uses the kernel density estimate to provide a better description of the distribution of values. Additionally, the quartile and whikser values from the boxplot are shown inside the violin. Because the violinplot uses a KDE, there are some other parameters that may need tweaking, adding some complexity relative to the straightforward boxplot:
+
+- It can also be useful to combine swarmplot() or swarmplot() with violinplot() or boxplot() to show each observation along with a summary of the distribution:
+
+##### add picture 2-6
+![alt tag]()
+ - A familiar style of plot that accomplishes this goal is a bar plot. In seaborn, the barplot() function operates on a full dataset and shows an arbitrary estimate, using the mean by default. 
+ - When there are multiple observations in each category, it also uses bootstrapping to compute a confidence interval around the estimate and plots that using error bars.
+ 
+##### add picture 2-7
+![alt tag]()
+- An alternative style for visualizing the same information is offered by the pointplot() function. 
+- This function also encodes the value of the estimate with height on the other axis, but rather than show a full bar it just plots the point estimate and confidence interval. 
+- Additionally, pointplot connects points from the same hue category. This makes it easy to see how the main relationship is changing as a function of a second variable, because your eyes are quite good at picking up on differences of slopes:
+
+
+
+## Analysis 3
+> 1. There are six numerical factors of happyniess. Calculate the total happiness score of each country and showed in a new column.
+
+##### add picture 1-1
+
+## Analysis 4
+> 1. There are six numerical factors of happyniess. Calculate the total happiness score of each country and showed in a new column.
+
+##### add picture 1-1
+
+
+## Analysis 5
+> 1. There are six numerical factors of happyniess. Calculate the total happiness score of each country and showed in a new column.
+
+##### add picture 1-1
