@@ -59,6 +59,7 @@
 > 1. There are six numerical factors of happyniess. Calculate the total happiness score of each country and showed in a new column.
 
 ### add picture 1-1
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img_A1/1-1.png)
 
 > 2. Sort the data by the total score, and add a new column named Rank to show the happiness rank for each country.
 
