@@ -58,19 +58,20 @@
 
 > 1. There are six numerical factors of happyniess. Calculate the total happiness score of each country and showed in a new column.
 
-### add picture 1-1
+##### add picture 1-1
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img_A1/1-1.png)
 
 > 2. Sort the data by the total score, and add a new column named Rank to show the happiness rank for each country.
 
-### add picture 1-2
-> ** examining univariate and bivariate distributions**
+##### add picture 1-2
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img_A1/1-2.png)
+> ** examining univariate and bivariate distributions **
 
  
 > 3. ** Visualizing the distribution of overall dataset.**  And analysis according to the plots. 
 
 ### add picture 1-5
-
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img_A1/1-5.png)
 - when dealing with a set of data, the first thing we'll do is get a sense for how the variables are distributed. The most convenient way to take a quick look at this univariate distribution in seaborn is the distplot() function. 
 
 - from the plot shown as following. 
@@ -91,8 +92,9 @@
 > 4. ** Visualizing the distribution of overall dataset.**  Plotting bivariate distributions
 
 ### add picture 1-3
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img_A1/1-3.png)
 ### add picture 1-4
-
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img_A1/1-4.png)
 
 - It can also be useful to visualize a bivariate distribution of two variables. 
 
