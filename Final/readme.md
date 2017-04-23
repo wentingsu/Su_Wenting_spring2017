@@ -74,6 +74,7 @@
 
 - The last subplot are the default distplot which represents both the histogram and kernel density estimate. 
 
+>
 > **Plotting bivariate distributions.**
 
 - It can also be useful to visualize a bivariate distribution of two variables. 
@@ -94,7 +95,7 @@ In **Plot1-4**, it is also use the **kernel density estimation** to visualize a 
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A1/1-4.png)
 
 
-####  Analysis Summarize:
+####  Analysis 2 Summarize:
 
 - 1. In year 2016, the maximum totoal score is smaller than 2015.
 
@@ -110,45 +111,52 @@ In **Plot1-4**, it is also use the **kernel density estimation** to visualize a 
 
 ## Analysis 2
 
-> 1. After talking about the overall datasets, now let's look at the happiness scores distribution of each **region**.
-
 > **Distributions of observations within categories**
 
-- At a certain point, the categorical scatterplot approach becomes limited in the information it can provide about the distribution of values within each category. There are several ways to summarize this information in ways that facilitate easy comparisons across the category levels. These generalize some of the approaches we discussed in the chapter to the case where we want to quickly compare across several distributions.
+- After talking about the overall datasets, now let's look at the happiness scores distribution of each **region**.
 
+- The categorical scatterplot approach can provide about the distribution of values within each category. 
 
-##### add picture 2-1
-![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-1.png)
-- Above **Boxplots** shows the three quartile values of the distribution along with extreme values. 
+- There are several ways to summarize this information in ways that facilitate easy comparisons across the category levels. These generalize some of the approaches we discussed in the chapter to the case where we want to quickly compare across several distributions.
+
+- The **Boxplots** below shows the three quartile values of the distribution along with extreme values. 
 
 - The “whiskers” extend to points that lie within 1.5 IQRs of the lower and upper quartile, and then observations that fall outside this range are displayed independently. 
 
-- Importantly, this means that each value in the boxplot corresponds to an actual observation in the data:
+- Importantly, this means that each value in the boxplot corresponds to an actual observation in the totcal score under different Regions:
 
+##### Plot 2-1
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-1.png)
 
-> 2. **Statistical estimation within categories**
+> **Statistical estimation within categories**
 
-##### add picture 2-2
-![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-2.png)
 - Often, rather than showing the distribution within each category, you might want to show the central tendency of the values. 
--Seaborn has two main ways to show this information, but importantly, the basic API for these functions is identical to that for the ones discussed above.
 
-- this bar plots shoes the mean value of happiness score for each **Range**. 
+- The following bar plots shoes the mean value of happiness score for each **Range**. 
 
-- summarize: this plot demonstrate that there are 10 unique region, and the most 
-from this plot we can clearly find out that the highest mean score is in **Australia and New Zealand** and **North America** and the lowest mean score is in **Sub-Saharan Africa**.
+- This plot demonstrate that there are 10 unique region, and the highest mean total score is in **Australia and New Zealand** and **North America** and the lowest mean score is in **Sub-Saharan Africa**.
 
-> 3. Explore more on the score within seperately **region** according to the swarmplot, we can divided the score into three groups:#2-4,4-6,6-8; and we can give the lable of the three groups: low, okay and good. Firstly, we use panda to generate the dataframe the numbers for each categories under different Region.
+##### Plot 2-2
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-2.png)
 
-##### add picture 2-4
+
+> **Explore more on the score within seperately region** 
+
+- according to the swarmplot, we can divided the score into three groups: 2-4,4-6,6-8; and we can give the lable of the three groups: low, okay and good. 
+- Firstly, we use panda to generate the dataframe the numbers for each categories under different Region. the head of the output is like:
+
+##### Plot 2-4
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-4.png)
-- Now let's plot the new data in bar plots.
 
-##### add picture 2-3
+
+- Now let's plot the new grouped data in bar plots.
+
+##### Plot 2-3
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-3.png)
+
 - A special case for the bar plot is when you want to show the number of observations in each category rather than computing a statistic for a second variable. This is similar to a histogram over a categorical, rather than quantitative, variable. In seaborn, it’s easy to do so with the countplot() function:
 
-##### add picture 2-5
+##### Plot 2-5
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-5.png)
 - A different approach is a violinplot(), which combines a boxplot with the kernel density estimation procedure described in the distributions tutorial:
 
@@ -156,22 +164,27 @@ from this plot we can clearly find out that the highest mean score is in **Austr
 
 - It can also be useful to combine swarmplot() or swarmplot() with violinplot() or boxplot() to show each observation along with a summary of the distribution:
 
-##### add picture 2-6
+##### Plot 2-6
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-6.png)
  - A familiar style of plot that accomplishes this goal is a bar plot. In seaborn, the barplot() function operates on a full dataset and shows an arbitrary estimate, using the mean by default. 
  - When there are multiple observations in each category, it also uses bootstrapping to compute a confidence interval around the estimate and plots that using error bars.
  
-##### add picture 2-7
+##### Plot 2-7
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-7.png)
 - An alternative style for visualizing the same information is offered by the pointplot() function. 
 - This function also encodes the value of the estimate with height on the other axis, but rather than show a full bar it just plots the point estimate and confidence interval. 
 - Additionally, pointplot connects points from the same hue category. This makes it easy to see how the main relationship is changing as a function of a second variable, because your eyes are quite good at picking up on differences of slopes:
 
 
-- summarize:
-1.
-2.
-3.
+####  Analysis 2 Summarize:
+
+1. From Plot 2-1 we can find out some of the Regins like **Middle East and Northern Africa**, the range of the scores are high.
+
+2. Although from plot 2-1 and 2-2 we can find out that in year 2015, the highest mean score is in **Australia and New Zealand**  and the lowest mean score is in **Sub-Saharan Africa**. However, there only two country in the highest Region.
+
+3. 
+
+4.
 
 ---
 ## Analysis 3
