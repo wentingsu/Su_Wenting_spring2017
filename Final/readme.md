@@ -4,43 +4,34 @@
 
 ---
 
-## General Dataset Description
+## Part1 : General Dataset Description
 
 
 | File Name        | Content           | 
 | -------------- |:-------------| 
 | 2015.csv        | happiness scores and ranking in 2015 | 
 | 2016.csv     | happiness scores and ranking in 2016    |   
-| Sentiment.csv      | Twitter Sentiment Analysis Dataset |   
-
 
 - The happiness scores and rankings use data from the Gallup World Poll. The reports review the state of happiness in the world today and show how the new science of happiness explains personal and national variations in happiness. 
 
-- They reflect a new worldwide demand for more attention to happiness as a criteria for government policy.
-
-- The columns following the happiness score estimate the extent to which each of six factors: economic production, social support, life expectancy, freedom, absence of corruption, and generosity 
-
-– contribute to making life evaluations higher in each country than they are in Dystopia, a hypothetical country that has values equal to the world’s lowest national averages for each of the six factors.
+- The columns following the happiness score estimate the extent to which each of seven factors: 'Economy (GDP per Capita), 'Family', 'Health (Life Expectancy)', 'Freedom', 'Trust (Government Corruption)', 'Generosity', 'Dystopia Residual'.
 
 - They have no impact on the total score reported for each country, but they do explain why some countries rank higher than others.
 
 ---
 
-## Overall Dataset Analysis
+## Part2: Overall Dataset Analysis
 
-> **Overall Analysis**.
+> **Analysis Topics**.
 
 | Analysis No.        | Content           | 
 | ------------- |:-------------:| 
-|Analysis 1       | **Explore the Overall Happiness Rank and Distribution**  | 
-| Analysis 2      | **scores change between the 2015 and 2016 reports**    | 
-| Analysis 3  | **Explore scores change between the 2015 and 2016**  |
-| Analysis 4      | **Explorescores change between the 2015 and 2016 reports** |  
-| Analysis 5     | **Explore**  | 
+|Analysis 1       | **Explore the Overall Happiness Scores and Distribution**  | 
+| Analysis 2      | **Explore the Total Scores under different Regions**    | 
+| Analysis 3  | **Explore Scores and Rank change between the 2015 and 2016**  |
+| Analysis 3  | **Explore the variables and factors in Datasets Using PCA**  |
+| Analysis 5     | **Explore Specific Regions and related Factors**  | 
 
-- What countries or regions rank the highest in overall happiness and each of the six factors contibuting to happiness? 
-- How did country ranks or scores change between the 2015 and 2016 reports? 
-- Did any country experience a significant increase or decrease in happiness?
 
 > **Overall Libraries Used**.
 
