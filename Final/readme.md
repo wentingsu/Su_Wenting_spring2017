@@ -259,43 +259,62 @@ In plot 2-6, there are multiple observations in each category. we use the bar pl
 - Principal Component Analysis (PCA) is a simple yet popular and useful linear transformation technique that is used in numerous applications.
 
 
+- Standardize the data prior to a PCA,to make sure the data is measured on the same scales. The outcome is shown as following
 
 ##### Plot 4-1
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A4/4-1.png)
-- standardize the data prior to a PCA,to make sure it was measured on the same scales. 
+
 - from 0-6, the columns stands for **Economy (GDP per Capita), 'Family', 'Health (Life Expectancy)', 'Freedom', 'Trust (Government Corruption)', 'Generosity', Dystopia Residual**
+
+
+- Step1: Computing Eigenvectors and Eigenvalues:
+
+- The eigenvectors and eigenvalues of a covariance (or correlation) matrix represent the "core" of a PCA: The eigenvectors (principal components) determine the directions of the new feature space, and the eigenvalues determine their magnitude. In other words, the eigenvalues explain the variance of the data along the new feature axes.
+
+- the plot shows the correlation matrix of the dataset.
 
 ##### Plot 4-2
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A4/4-2.png)
-- step1: Computing Eigenvectors and Eigenvalues:
-- The eigenvectors and eigenvalues of a covariance (or correlation) matrix represent the "core" of a PCA: The eigenvectors (principal components) determine the directions of the new feature space, and the eigenvalues determine their magnitude. In other words, the eigenvalues explain the variance of the data along the new feature axes.
-- the plot shows the correlation matrix of the dataset.
 
+- Step2: Sorting Eigenpairs; 
+- The typical goal of a PCA is to reduce the dimensionality of the original feature space by projecting it onto a smaller subspace, where the eigenvectors will form the axes. 
 
- - step2: Sorting Eigenpairs; The typical goal of a PCA is to reduce the dimensionality of the original feature space by projecting it onto a smaller subspace, where the eigenvectors will form the axes. However, the eigenvectors only define the directions of the new axis, since they have all the same unit length 1, which can confirmed by the following two lines of code:
+- Step3: Get Explained Variance
+- Plot 4-3 showes the unsorted Eigenpairs, we can find out from variable 0 to 6, the lowest two factors are 3 and 6.  
 
 ##### Plot 4-3
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A4/4-3.png)
+
+- Compared with 4-3, Plot 4-4 showes the sorted Eigenpairs. From the cumulative explained variance, we can find out that the first 6 variables can stands for almost 100% data, there for we can use pca to get the first 6 variables and ignore the lowest variable. 
+
 ##### Plot 4-4
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A4/4-4.png)
 
-- step3: Get Explained Variance
+- From the compare and calculate, we can reduce variable 3 and get the new featured dataset.
+
+##### Plot 4-5
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A4/4-5.png)
 
 ####  Analysis 4 Summarize:
+
+1. In this analysis, we use PCA to reduce the numerical columns which made the datasets more efficient and valuable.
+
 ---
 
 
 ## Analysis 5
 
-> 1. from previous analyses we can find out that the happiness scores difference between Western Europe and Central and Eastern Europe is large. In this analysis, let's find out each how variables influence the outcomes.
+> Explore Specific Regions and related Factors
 
-##### add picture 5-1
+- from previous analyses we can find out that the happiness scores difference between Western Europe and Central and Eastern Europe is large. In this analysis, let's find out each how variables influence the happiness scores.
+
+##### Plot 5-1
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-1.png)
 > **Visualizing pairwise relationships in a dataset**
 
 - To plot multiple pairwise bivariate distributions in a dataset, you can use the pairplot() function. This creates a matrix of axes and shows the relationship for each pair of columns in a DataFrame. by default, it also draws the univariate distribution of each variable on the diagonal Axes:
 
-##### add picture 5-2
+##### Plot 5-2
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-2.png)
 
 > based on analysis 4, we generate the two variables lmplot for Europe Regions to compare for the factors. 
@@ -303,19 +322,19 @@ In plot 2-6, there are multiple observations in each category. we use the bar pl
 - 1. Economy (GDP per Capita)','Family','Health (Life Expectancy)','Freedom'.
 
 
-##### add picture 5-3
+##### Plot 5-3
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-3.png)
 
-##### add picture 5-4
+##### Plot 5-4
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-4.png)
 
-##### add picture 5-5
+##### Plot 5-5
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-5.png)
 
-##### add picture 5-6
+##### Plot 5-6
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-6.png)
 
-##### add picture 5-7
+##### Plot 5-7
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-7.png)
 
 
