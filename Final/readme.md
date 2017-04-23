@@ -22,15 +22,15 @@
 
 ## Part2: Overall Dataset Analysis
 
-> **Analysis Topics**.
+> **Analysis Summarize**.
 
 | Analysis No.        | Content           | 
 | ------------- |:-------------:| 
-|Analysis 1       | **Explore the Overall Happiness Scores and Distribution**  | 
-| Analysis 2      | **Explore the Total Scores under different Regions**    | 
-| Analysis 3  | **Explore Scores and Rank change between the 2015 and 2016**  |
-| Analysis 3  | **Explore the variables and factors in Datasets Using PCA**  |
-| Analysis 5     | **Explore Specific Regions and related Factors**  | 
+|Analysis 1       | Explore the Overall Happiness Scores and Distribution  | 
+| Analysis 2      | Explore the Total Scores under different Regions    | 
+| Analysis 3  | Explore Scores and Rank change between the 2015 and 2016  |
+| Analysis 3  | Explore the variables and factors in Datasets Using PCA  |
+| Analysis 5     | Explore Specific Regions and related Factors  | 
 
 
 > **Overall Libraries Used**.
@@ -45,42 +45,42 @@
 
 ---
 
+## Part3:   Analysis
+
 ## Analysis 1
+> **Analyse the overall Datasets Distribution**
 
-> 1. There are six numerical factors of happyniess. Calculate the total happiness score of each country and showed in a new column.
+- There are seven numerical factors of happyniess. Calculate the total happiness score of each country and showed in a new column. The outcome is shown below.
 
-##### add picture 1-1
+#### Plot 1-1
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A1/1-1.png)
 
-> 2. Sort the data by the total score, and add a new column named Rank to show the happiness rank for each country.
+- Sort the data by the total score, and add a new column named Rank to show the happiness rank for each country.The outcome is shown below.
 
-##### add picture 1-2
+#### Plot 1-2
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A1/1-2.png)
-> **examining univariate and bivariate distributions**
 
- 
-> 3. ** Visualizing the distribution of overall dataset.**  And analysis according to the plots. 
+> ** Visualizing the distribution of overall dataset.**
 
-#####  add picture 1-5
+- when dealing with a set of data, the first thing we'll do is get a sense for how the variables are distributed. The most convenient way to take a quick look at this univariate distribution in seaborn is the distplot() function which is shown below.
+
+#### Plot 1-5
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A1/1-5.png)
-- when dealing with a set of data, the first thing we'll do is get a sense for how the variables are distributed. The most convenient way to take a quick look at this univariate distribution in seaborn is the distplot() function. 
 
-- from the plot shown as following. 
+- The first subplot are **histogram plot** which represents the distribution of data by forming bins along the range of the **total score** from 1 to 9,  and then drawing bars to show the number of observations that fall in each bin.
 
-- The first line are ** histogram plot ** which represents the distribution of data by forming bins along the range of the ** total score ** from 1 to 9,  and then drawing bars to show the number of observations that fall in each bin.
+- The second subplot are **The kernel density estimate** which can be a useful tool for plotting the shape of a distribution. Like the histogram, the KDE plots encodes the density of observations on one axis with height along the other axis:
 
-- The second line are ** The kernel density estimate** which can be a useful tool for plotting the shape of a distribution. Like the histogram, the KDE plots encodes the density of observations on one axis with height along the other axis:
+- The last subplot are the default distplot which represents both the histogram and kernel density estimate. 
 
-- The last line are the default distplot which represents both the histogram and kernel density estimate. 
-
-##### Summarize:
+#### Summarize:
 
 - 1. the most highest score is less than 2015.
 - 2. from these univariate distributions plots we can get the point that both in 2015 and 2016 year, the total score mainly concentrated on the 4.5 to 5.5.
 - 3. the overall trend is the same, but in year 2015 ir sill be more flat than the 2015, which indicates that the overall score is higher than 2015.
 
 
-> 4. ** Visualizing the distribution of overall dataset.**  Plotting bivariate distributions
+> **Plotting bivariate distributions.**
 
 ##### add picture 1-3
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A1/1-3.png)
@@ -97,11 +97,10 @@
 
 - It is also posible to use the **kernel density estimation** procedure described above to visualize a bivariate distribution. In seaborn, this kind of plot is shown with a contour plot and is available as a style in jointplot():
 
-##### Summarize:
-- from both above plot we can get the point that according the asending rank, the score is mostly concentrate on the 4 to 6 scores, which is the same as the distribution plots.
+####  Summarize:
+- 1. from both above plot we can get the point that according the asending rank, the score is mostly concentrate on the 4 to 6 scores, which is the same as the distribution plots.
  
- 
-- in the first analysis, we mainly observe the overall dataset between 2015 and 2016 years. in next analysis we will use the categorical plots to find out how the scores distributed in different region.
+- 2. in the first analysis, we mainly observe the overall dataset between 2015 and 2016 years. in next analysis we will use the categorical plots to find out how the scores distributed in different region.
 
 ---
 
