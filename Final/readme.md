@@ -95,7 +95,7 @@ In **Plot1-4**, it is also use the **kernel density estimation** to visualize a 
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A1/1-4.png)
 
 
-####  Analysis 2 Summarize:
+####  Analysis 1 Summary:
 
 1. In year 2016, the maximum totoal score is smaller than 2015.
 
@@ -180,7 +180,7 @@ In **Plot1-4**, it is also use the **kernel density estimation** to visualize a 
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-7.png)
 
 
-####  Analysis 2 Summarize:
+####  Analysis 2 Summary:
 
 1. From Plot 2-1 we can find out some of the Regions like **Middle East and Northern Africa**, the range of the scores are high.
 
@@ -238,7 +238,7 @@ In **Plot1-4**, it is also use the **kernel density estimation** to visualize a 
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A3/3-6.png)
 
 
-####  Analysis 3 Summarize:
+####  Analysis 3 Summary:
 
 1. For the Western Europe, North Ametica and Australia and new Sealand Regions, the rnage of the change is smaller than the rest regions. The largest increase is above 30, and the most decrease is around -30.
 
@@ -295,7 +295,7 @@ In **Plot1-4**, it is also use the **kernel density estimation** to visualize a 
 ##### Plot 4-5
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A4/4-5.png)
 
-####  Analysis 4 Summarize:
+####  Analysis 4 Summary:
 
 1. In this analysis, we use PCA to reduce the numerical columns which made the datasets more efficient and valuable.
 
@@ -355,7 +355,7 @@ The
 ----
 
 
-## Part 4:   Summarize of Final Project
+## Part 4:   Summary of Final Project
 
 1. There are many reasons and factors may affect the happyniess score, in this project just list some of them. It's an intersted top worth learning and analysing.
 
