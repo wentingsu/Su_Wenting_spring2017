@@ -250,7 +250,7 @@ from this plot we can clearly find out that the highest mean score is in **Austr
 
 - step3: Get Explained Variance
 
----
+---x
 
 
 ## Analysis 5
