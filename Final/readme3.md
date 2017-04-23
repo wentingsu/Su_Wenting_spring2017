@@ -50,7 +50,7 @@
 | 2     | Panda   |   
 | 3     | seaborn |  
 | 4     | matplotlib |  
-| 5     | seaborn |  
+| 5     | PCA |  
 
 ---
 
@@ -223,14 +223,35 @@ from this plot we can clearly find out that the highest mean score is in **Austr
 ## Analysis 4
 > 1. in this Analysis, we will find out the factors that influence the outcomes of the total score.
 
+> 2. I will use Principal Component Analysis (PCA) to analyse the seven factors of each column that  'Economy (GDP per Capita)', 'Family', 'Health (Life Expectancy)', 'Freedom', 'Trust (Government Corruption)', 'Generosity', 'Dystopia Residual' which one is the most important we will use PCA to Dimensionality Reduction.
+
+> Principal Component Analysis (PCA) is a simple yet popular and useful linear transformation technique that is used in numerous applications, such as stock market predictions, the analysis of gene expression data, and many more. 
+
+
 
 ##### add picture 4-1
+![alt tag]()
+- standardize the data prior to a PCA,to make sure it was measured on the same scales. 
+- from 0-6, the columns stands for **Economy (GDP per Capita), 'Family', 'Health (Life Expectancy)', 'Freedom', 'Trust (Government Corruption)', 'Generosity', Dystopia Residual**
 
 ##### add picture 4-2
+
+- step1: Computing Eigenvectors and Eigenvalues:
+- The eigenvectors and eigenvalues of a covariance (or correlation) matrix represent the "core" of a PCA: The eigenvectors (principal components) determine the directions of the new feature space, and the eigenvalues determine their magnitude. In other words, the eigenvalues explain the variance of the data along the new feature axes.
+- the plot shows the correlation matrix of the dataset.
+
+
+ - step2: Sorting Eigenpairs; The typical goal of a PCA is to reduce the dimensionality of the original feature space by projecting it onto a smaller subspace, where the eigenvectors will form the axes. However, the eigenvectors only define the directions of the new axis, since they have all the same unit length 1, which can confirmed by the following two lines of code:
+
 ##### add picture 4-3
+
 ##### add picture 4-4
 
+- step3: Get Explained Variance
+
+
 ---
+
 
 ## Analysis 5
 > 1. There are six numerical factors of happyniess. Calculate the total happiness score of each country and showed in a new column.
