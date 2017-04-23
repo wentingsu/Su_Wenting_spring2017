@@ -167,7 +167,7 @@ In **Plot1-4**, it is also use the **kernel density estimation** to visualize a 
 - Additionally, the quartile and whikser values from the boxplot are shown inside the violin. 
 
 
-In plot 2-6, there are multiple observations in each category. we use the bar plot to compute a confidence interval around the estimate and plots. 
+- In plot 2-6, there are multiple observations in each category. we use the bar plot to compute a confidence interval around the estimate and plots. 
 
 ##### Plot 2-6
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-6.png)
@@ -306,41 +306,62 @@ In plot 2-6, there are multiple observations in each category. we use the bar pl
 
 > Explore Specific Regions and related Factors
 
-- from previous analyses we can find out that the happiness scores difference between Western Europe and Central and Eastern Europe is large. In this analysis, let's find out each how variables influence the happiness scores.
+- In previous analyses we find out that the happiness scores difference between Western Europe and Central and Eastern Europe is large. In this analysis, let's find out each how variables influence the happiness scores.
+
+- To plot multiple pairwise bivariate distributions in a dataset, you can use the pairplot() function. 
+
+- This creates a matrix of axes and shows the relationship for each pair of columns in a DataFrame. 
+
+- By default, it also draws the univariate distribution of each variable on the diagonal Axes.
 
 ##### Plot 5-1
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-1.png)
-> **Visualizing pairwise relationships in a dataset**
 
-- To plot multiple pairwise bivariate distributions in a dataset, you can use the pairplot() function. This creates a matrix of axes and shows the relationship for each pair of columns in a DataFrame. by default, it also draws the univariate distribution of each variable on the diagonal Axes:
+- In plot 5-1, we can find out that the overall performance of Western Europe is higher than the Central and Eastern Europe.
+
+- based on analysis 4, we generate the two variables lmplot for Europe Regions to compare for the factors Economy (GDP per Capita)','Family' and 'Freedom' with total-score seperately. 
+
+- Firstly, get the DataFrame that contains only Western Europe and Central and Eastern Europe, and then draw the lmplot as following.
 
 ##### Plot 5-2
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-2.png)
 
-> based on analysis 4, we generate the two variables lmplot for Europe Regions to compare for the factors. 
-
-- 1. Economy (GDP per Capita)','Family','Health (Life Expectancy)','Freedom'.
-
-
 ##### Plot 5-3
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-3.png)
-
-##### Plot 5-4
-![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-4.png)
 
 ##### Plot 5-5
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-5.png)
 
+- In above plot, the Economy, Family and freedom factors are positive correlation with the total score for both Regions.And in Western Europe, the slope is more steep.
+The 
+
+
+- Firstly, get the DataFrame that contains Asia related regions, and then draw the lmplot as following.
+
+- Now let's find out how the freedom factors affect the Asia related regions.
+
 ##### Plot 5-6
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-6.png)
+
+- Different from Europe region, Plot 5-6 indicates that the freedome factors not influence the total score obviously even negative correlation for the Eastern Asia. This results seems like the results in Analyse 4.
+
+- Finally the plot 5-7 shows the distribution for the factors 'Ecomomy', 'Family' 'Health' and 'Trust(Government)', which are the important factors to influence the happines scores.
+
+- For Eastern Asia, the Economy, family and Health rank are higher than the rest regions there fore the overall total score is better. However, the Trust of the Eastern Asia is quite low compared with other factors, which may be the reason to affet the overall score of Eastern Asia.
 
 ##### Plot 5-7
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-7.png)
 
-
-####  Analysis 5 Summarize:
-
+----
 
 
+## Part 4:   Summarize of Final Project
+
+1. There are many reasons and factors may affect the happyniess score, in this project just list some of them. It's an intersted top worth learning and analysing.
+
+2. For further study, I can combine the NLTK with the data. For example to analyse the sentimental of people's tweets to find out what related to their happiness.
+
+
+---
 
 
