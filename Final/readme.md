@@ -48,6 +48,7 @@
 ## Part3:   Analysis
 
 ## Analysis 1
+
 > **Analyse the overall Datasets Distribution**
 
 - There are seven numerical factors of happyniess. Calculate the total happiness score of each country and showed in a new column. The outcome is shown below.
@@ -60,11 +61,11 @@
 #### Plot 1-2
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A1/1-2.png)
 
-> ** Visualizing the distribution of overall dataset.**
+> **Visualizing the distribution of overall dataset.**
 
 - when dealing with a set of data, the first thing we'll do is get a sense for how the variables are distributed. The most convenient way to take a quick look at this univariate distribution in seaborn is the distplot() function which is shown below.
 
-#### Plot 1-5
+##### Plot 1-5
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A1/1-5.png)
 
 - The first subplot are **histogram plot** which represents the distribution of data by forming bins along the range of the **total score** from 1 to 9,  and then drawing bars to show the number of observations that fall in each bin.
@@ -73,34 +74,37 @@
 
 - The last subplot are the default distplot which represents both the histogram and kernel density estimate. 
 
-#### Summarize:
-
-- 1. the most highest score is less than 2015.
-- 2. from these univariate distributions plots we can get the point that both in 2015 and 2016 year, the total score mainly concentrated on the 4.5 to 5.5.
-- 3. the overall trend is the same, but in year 2015 ir sill be more flat than the 2015, which indicates that the overall score is higher than 2015.
-
-
 > **Plotting bivariate distributions.**
-
-##### add picture 1-3
-![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A1/1-3.png)
-##### add picture 1-4
-![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A1/1-4.png)
 
 - It can also be useful to visualize a bivariate distribution of two variables. 
 
-- after we get the sorted data by **total score** and get the rank for each country,now let's look at the variables between rank and total score distribution.
+- after we get the sorted data by **total score** and get the rank for each country,now let's look at the variables between rank and total score distribution, which are shown as plot 1-3 and 1-4.
 
-- we apply the **jointplot() function** in seaborn to creates a multi-panel figure that shows both the bivariate (or joint) relationship between two variables along with the univariate (or marginal) distribution of each on separate axes.
+##### Plot 1-3
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A1/1-3.png)
+
+- we apply the **jointplot() function** in seaborn to creates a multi-panel figure that shows both the bivariate (or joint) relationship between two variables along with the totalscore and rank distribution of each on separate axes.
  
 - The most familiar way to visualize a bivariate distribution is a **scatterplot** , where each observation is shown with point at the x and y values. This is analgous to a rug plot on two dimensions. You can draw a scatterplot with the matplotlib plt.scatter function, and it is also the default kind of plot shown by the jointplot() function:
 
-- It is also posible to use the **kernel density estimation** procedure described above to visualize a bivariate distribution. In seaborn, this kind of plot is shown with a contour plot and is available as a style in jointplot():
 
-####  Summarize:
-- 1. from both above plot we can get the point that according the asending rank, the score is mostly concentrate on the 4 to 6 scores, which is the same as the distribution plots.
+In **Plot1-4**, it is also use the **kernel density estimation** to visualize a bivariate distribution.
+
+##### Plot 1-4
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A1/1-4.png)
+
+
+####  Analysis Summarize:
+
+- 1. In year 2016, the maximum totoal score is smaller than 2015.
+
+- 2. From these univariate distribution plots we can find out that the total score mainly focus on the 4 to 6 in both 2015 and 2016 year.
+
+- 3. The overall trend is the same. However, in year 2016 the slope is more flatterbe than 2015, which indicates that the overall score is better than 2015.
+
+- 4. From plot 1-3 and 1-4,  we can find out that according to the asending rank, the total score is mostly focus on the 4 to 6 scores, which is the same as the distribution plots in plot 1-5.
  
-- 2. in the first analysis, we mainly observe the overall dataset between 2015 and 2016 years. in next analysis we will use the categorical plots to find out how the scores distributed in different region.
+- 5. in the first analysis, we mainly observe the overall dataset between 2015 and 2016 years. in next analysis we will use the categorical plots to find out how the scores distributed in different region.
 
 ---
 
