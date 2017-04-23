@@ -97,15 +97,15 @@ In **Plot1-4**, it is also use the **kernel density estimation** to visualize a 
 
 ####  Analysis 2 Summarize:
 
-- 1. In year 2016, the maximum totoal score is smaller than 2015.
+1. In year 2016, the maximum totoal score is smaller than 2015.
 
-- 2. From these univariate distribution plots we can find out that the total score mainly focus on the 4 to 6 in both 2015 and 2016 year.
+2. From these univariate distribution plots we can find out that the total score mainly focus on the 4 to 6 in both 2015 and 2016 year.
 
-- 3. The overall trend is the same. However, in year 2016 the slope is more flatterbe than 2015, which indicates that the overall score is better than 2015.
+3. The overall trend is the same. However, in year 2016 the slope is more flatterbe than 2015, which indicates that the overall score is better than 2015.
 
-- 4. From plot 1-3 and 1-4,  we can find out that according to the asending rank, the total score is mostly focus on the 4 to 6 scores, which is the same as the distribution plots in plot 1-5.
+4. From plot 1-3 and 1-4,  we can find out that according to the asending rank, the total score is mostly focus on the 4 to 6 scores, which is the same as the distribution plots in plot 1-5.
  
-- 5. in the first analysis, we mainly observe the overall dataset between 2015 and 2016 years. in next analysis we will use the categorical plots to find out how the scores distributed in different region.
+5. in the first analysis, we mainly observe the overall dataset between 2015 and 2016 years. in next analysis we will use the categorical plots to find out how the scores distributed in different region.
 
 ---
 
@@ -148,32 +148,36 @@ In **Plot1-4**, it is also use the **kernel density estimation** to visualize a 
 ##### Plot 2-4
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-4.png)
 
-
 - Now let's plot the new grouped data in bar plots.
 
 ##### Plot 2-3
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-3.png)
 
-- A special case for the bar plot is when you want to show the number of observations in each category rather than computing a statistic for a second variable. This is similar to a histogram over a categorical, rather than quantitative, variable. In seaborn, it’s easy to do so with the countplot() function:
+- A special case for the bar plot is when you want to show the number of observations in each category rather than computing a statistic for a second variable. This is similar to a histogram over a categorical, rather than quantitative, variable. In seaborn, it’s easy to do so with the countplot() function.
+
+- Above plot shows the counts of each categories for every regine. We can clearly find out there is now low group in Western Europe,North America, Latin Ametica, Central and Eastern Europe, and Eastern Asia.
+
+- A different approach is a violinplot(), which combines a boxplot with the kernel density estimation procedure. Shown as plot 2-5
 
 ##### Plot 2-5
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-5.png)
-- A different approach is a violinplot(), which combines a boxplot with the kernel density estimation procedure described in the distributions tutorial:
 
-- This approach uses the kernel density estimate to provide a better description of the distribution of values. Additionally, the quartile and whikser values from the boxplot are shown inside the violin. Because the violinplot uses a KDE, there are some other parameters that may need tweaking, adding some complexity relative to the straightforward boxplot:
+- This approach uses the kernel density estimate to provide a better description of the distribution of values. 
 
-- It can also be useful to combine swarmplot() or swarmplot() with violinplot() or boxplot() to show each observation along with a summary of the distribution:
+- Additionally, the quartile and whikser values from the boxplot are shown inside the violin. 
+
+
+In plot 2-6, there are multiple observations in each category. we use the bar plot to compute a confidence interval around the estimate and plots. 
 
 ##### Plot 2-6
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-6.png)
- - A familiar style of plot that accomplishes this goal is a bar plot. In seaborn, the barplot() function operates on a full dataset and shows an arbitrary estimate, using the mean by default. 
- - When there are multiple observations in each category, it also uses bootstrapping to compute a confidence interval around the estimate and plots that using error bars.
- 
+
+- The following pointplot visualizing the change of the mean under each group and region.
+
+- Additionally, pointplot connects points from the same hue category. This makes it easy to see how the main relationship is changing as a function of a second variable based on differences of slopes.
+
 ##### Plot 2-7
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A2/2-7.png)
-- An alternative style for visualizing the same information is offered by the pointplot() function. 
-- This function also encodes the value of the estimate with height on the other axis, but rather than show a full bar it just plots the point estimate and confidence interval. 
-- Additionally, pointplot connects points from the same hue category. This makes it easy to see how the main relationship is changing as a function of a second variable, because your eyes are quite good at picking up on differences of slopes:
 
 
 ####  Analysis 2 Summarize:
@@ -182,52 +186,55 @@ In **Plot1-4**, it is also use the **kernel density estimation** to visualize a 
 
 2. Although from plot 2-1 and 2-2 we can find out that in year 2015, the highest mean score is in **Australia and New Zealand**  and the lowest mean score is in **Sub-Saharan Africa**. However, there only two country in the highest Region.
 
-3. 
-
-4.
+3. Plot 2-3 clearly demonstrate the counts for each group and each Region. Plot 2-5 give the mean value of total score and also the the violin inside. From which we can find out that the happiness scores of Europe, america, and Asia, is higher than the Africa. 
 
 ---
+
 ## Analysis 3
-> 1. Merge the 2015 and 2016 rank country table and create a new column to show the change of the rank for each contry and out put to a new csv.
+>Compare the rank change for each Region in different year. 
 
-> 2. compare the change for each Region in different year. 
+- 1. Merge the 2015 and 2016 rank country table and create a new column to show the change of the rank for each contry and out put to a new csv.
 
-##### add picture 3-1
+
+##### Plot 3-1
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A3/3-1.png)
 - This table shows the new table with adding the column named change which shows the rank change from year 2015 to year 2016.
 
 
-##### add picture 3-2
+##### Plot 3-2
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A3/3-2.png)
 - the swarmplot shows the rank change under each region.
 - from this plot we can see the largest increase is above 30, and the most decrease is also -30. 
 
-##### add picture 3-3
+##### Plot 3-3
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A3/3-3.png)
 - above pointplot to compare the rank and mean of total score change from year 2015 to 2016
 - from this plot we can not see too much change from theses two years. However from last plot we can see the maximum change can be -30 to 30. we have to deep look about the change of the rank.
 
-##### add picture 3-4
+##### Plot 3-4
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A3/3-4.png)
 - firstly we divided the change into three group : increase that the rank change large than 0, and neutral group that the rank change is 0 and the decrease group that the rank change is small than 0.
 
 - and then we add the group to a new column named **Trend**. 
 - from the scatter plots we can see that the amongt of increase and decrease is almost the same
 
-##### add picture 3-5
+##### Plot 3-5
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A3/3-5.png)
 
 - Plotting “wide-form” data
 - While using “long-form” or “tidy” data is preferred, these functions can also by applied to “wide-form” data in a variety of formats, including pandas DataFrames or two-dimensional numpy arrays. These objects should be passed directly to the data parameter:
 -from this violinplot we can also find out that the increase and the decrease is almost the same. But how did it change in different regions?
 
-##### add picture 3-6
+##### Plot 3-6
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A3/3-6.png)
 - using factorplot to find out the rank change for each region. 
+
+####  Analysis 3 Summarize:
 
 ---
 
 ## Analysis 4
+
 > 1. in this Analysis, we will find out the factors that influence the outcomes of the total score.
 
 > 2. I will use Principal Component Analysis (PCA) to analyse the seven factors of each column that  'Economy (GDP per Capita)', 'Family', 'Health (Life Expectancy)', 'Freedom', 'Trust (Government Corruption)', 'Generosity', 'Dystopia Residual' which one is the most important we will use PCA to Dimensionality Reduction.
@@ -236,12 +243,12 @@ In **Plot1-4**, it is also use the **kernel density estimation** to visualize a 
 
 
 
-##### add picture 4-1
+##### Plot 4-1
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A4/4-1.png)
 - standardize the data prior to a PCA,to make sure it was measured on the same scales. 
 - from 0-6, the columns stands for **Economy (GDP per Capita), 'Family', 'Health (Life Expectancy)', 'Freedom', 'Trust (Government Corruption)', 'Generosity', Dystopia Residual**
 
-##### add picture 4-2
+##### Plot 4-2
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A4/4-2.png)
 - step1: Computing Eigenvectors and Eigenvalues:
 - The eigenvectors and eigenvalues of a covariance (or correlation) matrix represent the "core" of a PCA: The eigenvectors (principal components) determine the directions of the new feature space, and the eigenvalues determine their magnitude. In other words, the eigenvalues explain the variance of the data along the new feature axes.
@@ -250,13 +257,14 @@ In **Plot1-4**, it is also use the **kernel density estimation** to visualize a 
 
  - step2: Sorting Eigenpairs; The typical goal of a PCA is to reduce the dimensionality of the original feature space by projecting it onto a smaller subspace, where the eigenvectors will form the axes. However, the eigenvectors only define the directions of the new axis, since they have all the same unit length 1, which can confirmed by the following two lines of code:
 
-##### add picture 4-3
+##### Plot 4-3
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A4/4-3.png)
-##### add picture 4-4
+##### Plot 4-4
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A4/4-4.png)
 
 - step3: Get Explained Variance
 
+####  Analysis 4 Summarize:
 ---
 
 
@@ -294,7 +302,7 @@ In **Plot1-4**, it is also use the **kernel density estimation** to visualize a 
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-7.png)
 
 
-
+####  Analysis 5 Summarize:
 
 
 
