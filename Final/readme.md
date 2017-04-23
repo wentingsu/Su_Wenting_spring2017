@@ -182,7 +182,7 @@ In plot 2-6, there are multiple observations in each category. we use the bar pl
 
 ####  Analysis 2 Summarize:
 
-1. From Plot 2-1 we can find out some of the Regins like **Middle East and Northern Africa**, the range of the scores are high.
+1. From Plot 2-1 we can find out some of the Regions like **Middle East and Northern Africa**, the range of the scores are high.
 
 2. Although from plot 2-1 and 2-2 we can find out that in year 2015, the highest mean score is in **Australia and New Zealand**  and the lowest mean score is in **Sub-Saharan Africa**. However, there only two country in the highest Region.
 
@@ -191,55 +191,72 @@ In plot 2-6, there are multiple observations in each category. we use the bar pl
 ---
 
 ## Analysis 3
+
 >Compare the rank change for each Region in different year. 
 
-- 1. Merge the 2015 and 2016 rank country table and create a new column to show the change of the rank for each contry and out put to a new csv.
-
+- 1. Merge the 2015 and 2016 rank country table and create a new column named change to show the change of the rank for each contry. The head of the new data is like:
 
 ##### Plot 3-1
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A3/3-1.png)
-- This table shows the new table with adding the column named change which shows the rank change from year 2015 to year 2016.
 
+- This table shows the new data with adding the column named change which shows the rank change from year 2015 to year 2016.
+
+- From below plot, we can find out the rank change for each Region. For the first three Regions, the rnage of the change is smaller than the rest regions.The largest increase is above 30, and the most decrease is around -30.
 
 ##### Plot 3-2
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A3/3-2.png)
-- the swarmplot shows the rank change under each region.
-- from this plot we can see the largest increase is above 30, and the most decrease is also -30. 
+ 
+- The following pointplot to compare the rank and the mean of total score change from year 2015 to 2016
+
+- Although from this plot we can not see too much change from theses two years. However from last plot we can see the maximum change can be -30 to 30. we have to discuss about the change of the rank.
 
 ##### Plot 3-3
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A3/3-3.png)
-- above pointplot to compare the rank and mean of total score change from year 2015 to 2016
-- from this plot we can not see too much change from theses two years. However from last plot we can see the maximum change can be -30 to 30. we have to deep look about the change of the rank.
+
+- from this plot we can not see too much change from theses two years. However from last plot we can see the maximum change can be -30 to 30. It's necessary to find out how the rank change from 2015 to 2016. 
+
+- Firstly we divided the change into three group: increase that the rank change large than 0, and neutral group that the rank change is 0 and the decrease group that the rank change is small than 0.
+
+- And then we add the group to a new column named **Trend**. 
+
+- From below scatter plots we can see that the amongt of increase and decrease is almost the same.
 
 ##### Plot 3-4
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A3/3-4.png)
-- firstly we divided the change into three group : increase that the rank change large than 0, and neutral group that the rank change is 0 and the decrease group that the rank change is small than 0.
 
-- and then we add the group to a new column named **Trend**. 
-- from the scatter plots we can see that the amongt of increase and decrease is almost the same
+-from this violinplot we can also find out that the increase and the decrease is almost the same. But how did it change in different regions?
 
 ##### Plot 3-5
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A3/3-5.png)
 
-- Plotting “wide-form” data
-- While using “long-form” or “tidy” data is preferred, these functions can also by applied to “wide-form” data in a variety of formats, including pandas DataFrames or two-dimensional numpy arrays. These objects should be passed directly to the data parameter:
--from this violinplot we can also find out that the increase and the decrease is almost the same. But how did it change in different regions?
+
+- Drawing multi-panel categorical plots
+
+- Now using factorplot and count nar plot to find out the rank change for each region. 
 
 ##### Plot 3-6
 ![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A3/3-6.png)
-- using factorplot to find out the rank change for each region. 
+
 
 ####  Analysis 3 Summarize:
+
+1. For the Western Europe, North Ametica and Australia and new Sealand Regions, the rnage of the change is smaller than the rest regions. The largest increase is above 30, and the most decrease is around -30.
+
+2. The amongt of increase and decrease is almost the same.
+
+3. The most steady region is North America, and some Regions is a bit unstable but the overall scores is high, such as Western Europe, Latin America and Caribbean. However, for the regions both rank increase and decrease is high, the overall scores are lower, such as: Sub-Saharan Africa.
 
 ---
 
 ## Analysis 4
 
-> 1. in this Analysis, we will find out the factors that influence the outcomes of the total score.
+> Explore the factors Using PCA
 
-> 2. I will use Principal Component Analysis (PCA) to analyse the seven factors of each column that  'Economy (GDP per Capita)', 'Family', 'Health (Life Expectancy)', 'Freedom', 'Trust (Government Corruption)', 'Generosity', 'Dystopia Residual' which one is the most important we will use PCA to Dimensionality Reduction.
+- In this Analysis, we will find out how the factors influence the happiness scores.
 
-> Principal Component Analysis (PCA) is a simple yet popular and useful linear transformation technique that is used in numerous applications, such as stock market predictions, the analysis of gene expression data, and many more. 
+- Principal Component Analysis (PCA) will be used to analyse the seven factors of each column that  'Economy (GDP per Capita)', 'Family', 'Health (Life Expectancy)', 'Freedom', 'Trust (Government Corruption)', 'Generosity', 'Dystopia Residual' which one is the most important we will use PCA to Dimensionality Reduction.
+
+- Principal Component Analysis (PCA) is a simple yet popular and useful linear transformation technique that is used in numerous applications.
 
 
 
