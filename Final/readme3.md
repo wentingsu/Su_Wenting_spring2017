@@ -258,26 +258,33 @@ from this plot we can clearly find out that the highest mean score is in **Austr
 > 1. from previous analyses we can find out that the happiness scores difference between Western Europe and Central and Eastern Europe is large. In this analysis, let's find out each how variables influence the outcomes.
 
 ##### add picture 5-1
-![alt tag]()
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-1.png)
 > **Visualizing pairwise relationships in a dataset**
 
 - To plot multiple pairwise bivariate distributions in a dataset, you can use the pairplot() function. This creates a matrix of axes and shows the relationship for each pair of columns in a DataFrame. by default, it also draws the univariate distribution of each variable on the diagonal Axes:
 
 ##### add picture 5-2
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-2.png)
+
 > based on analysis 4, we generate the two variables lmplot for Europe Regions to compare for the factors. 
 
 - 1. Economy (GDP per Capita)','Family','Health (Life Expectancy)','Freedom'.
 
 
 ##### add picture 5-3
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-3.png)
 
 ##### add picture 5-4
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-4.png)
 
 ##### add picture 5-5
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-5.png)
 
 ##### add picture 5-6
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-6.png)
 
 ##### add picture 5-7
+![alt tag](https://github.com/wentingsu/Su_Wenting_spring2017/blob/master/Final/img/img_A5/5-17.png)
 
 
 
