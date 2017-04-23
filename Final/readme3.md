@@ -112,6 +112,7 @@
  
 - in the first analysis, we mainly observe the overall dataset between 2015 and 2016 years. in next analysis we will use the categorical plots to find out how the scores distributed in different region.
 
+---
 
 ## Analysis 2
 
@@ -184,24 +185,52 @@ from this plot we can clearly find out that the highest mean score is in **Austr
 
 > 2. compare the change for each Region in different year. 
 
-
-
 ##### add picture 3-1
+![alt tag]()
+- This table shows the new table with adding the column named change which shows the rank change from year 2015 to year 2016.
+
 
 ##### add picture 3-2
+![alt tag]()
+- the swarmplot shows the rank change under each region.
+- from this plot we can see the largest increase is above 30, and the most decrease is also -30. 
+
 ##### add picture 3-3
+![alt tag]()
+- above pointplot to compare the rank and mean of total score change from year 2015 to 2016
+- from this plot we can not see too much change from theses two years. However from last plot we can see the maximum change can be -30 to 30. we have to deep look about the change of the rank.
+
 ##### add picture 3-4
+![alt tag]()
+- firstly we divided the change into three group : increase that the rank change large than 0, and neutral group that the rank change is 0 and the decrease group that the rank change is small than 0.
+
+- and then we add the group to a new column named **Trend**. 
+- from the scatter plots we can see that the amongt of increase and decrease is almost the same
+
 ##### add picture 3-5
+![alt tag]()
+
+- Plotting “wide-form” data
+- While using “long-form” or “tidy” data is preferred, these functions can also by applied to “wide-form” data in a variety of formats, including pandas DataFrames or two-dimensional numpy arrays. These objects should be passed directly to the data parameter:
+-from this violinplot we can also find out that the increase and the decrease is almost the same. But how did it change in different regions?
+
+##### add picture 3-6
+- using factorplot to find out the rank change for each region. 
+
 ---
 
 ## Analysis 4
-> 1. There are six numerical factors of happyniess. Calculate the total happiness score of each country and showed in a new column.
+> 1. in this Analysis, we will find out the factors that influence the outcomes of the total score.
 
-##### add picture 1-1
+
+##### add picture 4-1
+##### add picture 4-2
+##### add picture 4-3
+##### add picture 4-4
 
 ---
 
 ## Analysis 5
 > 1. There are six numerical factors of happyniess. Calculate the total happiness score of each country and showed in a new column.
 
-##### add picture 1-1
+##### add picture 5-1
